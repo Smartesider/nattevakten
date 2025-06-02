@@ -97,13 +97,53 @@ function nattevakten_call_openai($prompt, $temperature = 0.7, $max_tokens = 400)
 
     $content = trim($data['choices'][0]['message']['content']);
     
+    // FIXED: Parse JSON response as the system prompt requests JSON array format
+    $json_data = json_decode($content, true);
+    
+    // Validate that we got valid JSON array
+    if (json_last_error() !== JSON_ERROR_NONE) {
+        nattevakten_log_error('openai', 'json_parse_feil', 
+            sprintf(__('Kunne ikke parse JSON: %s', 'nattevakten'), json_last_error_msg()));
+        return new WP_Error('openai_json_parse_error', __('Ugyldig JSON-format fra OpenAI', 'nattevakten'));
+    }
+    
+    if (!is_array($json_data)) {
+        nattevakten_log_error('openai', 'ikke_array', __('OpenAI returnerte ikke en array.', 'nattevakten'));
+        return new WP_Error('openai_not_array', __('Forventet array fra OpenAI', 'nattevakten'));
+    }
+    
+    // Validate array structure - each item should be a news object
+    foreach ($json_data as $index => $item) {
+        if (!is_array($item) || empty($item['title']) || empty($item['content'])) {
+            nattevakten_log_error('openai', 'ugyldig_nyhet_struktur', 
+                sprintf(__('Ugyldig struktur på nyhet #%d', 'nattevakten'), $index + 1));
+            return new WP_Error('openai_invalid_news_structure', 
+                sprintf(__('Ugyldig nyhetstruktur på element %d', 'nattevakten'), $index + 1));
+        }
+        
+        // Sanitize each news item for security
+        $json_data[$index]['title'] = sanitize_text_field($item['title']);
+        $json_data[$index]['content'] = sanitize_textarea_field($item['content']);
+        
+        // Optional fields with sanitization
+        if (isset($item['category'])) {
+            $json_data[$index]['category'] = sanitize_text_field($item['category']);
+        }
+        if (isset($item['tags'])) {
+            $json_data[$index]['tags'] = is_array($item['tags']) 
+                ? array_map('sanitize_text_field', $item['tags'])
+                : sanitize_text_field($item['tags']);
+        }
+    }
+    
     // Log successful API call for monitoring
     nattevakten_log_error('openai', 'success', sprintf(
-        __('API kall vellykket. Tokens brukt: %d', 'nattevakten'),
-        $data['usage']['total_tokens'] ?? 0
+        __('API kall vellykket. Tokens brukt: %d, Nyheter generert: %d', 'nattevakten'),
+        $data['usage']['total_tokens'] ?? 0,
+        count($json_data)
     ), 'info');
 
-    return $content;
+    return $json_data; // Return parsed and validated JSON array
 }
 
 /**
