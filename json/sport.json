@@ -1,0 +1,2418 @@
+[
+  {
+    "tullenavn": "Ballklask med målskrik",
+    "ektenavn": "Fotball",
+    "beskrivelse": "En sport der strategi og panikk møtes i et dramatisk forsøk på å imponere naboen.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Erling Haaland (Norge)",
+      "Kylian Mbappé (Frankrike)",
+      "Lionel Messi (Argentina)"
+    ]
+  },
+  {
+    "tullenavn": "Ispinne-dans med puck",
+    "ektenavn": "Ishockey",
+    "beskrivelse": "Krever mer balanse enn å bære kaffe i trapp med sokker – i motvind.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Connor McDavid (Canada)",
+      "Cale Makar (Canada)",
+      "David Pastrňák (Tsjekkia)"
+    ]
+  },
+  {
+    "tullenavn": "Stangkasting med stilpoeng",
+    "ektenavn": "Stavsprang",
+    "beskrivelse": "Utøves primært av folk med lite selvoppholdelsesdrift og mye selvironi.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Armand Duplantis (Sverige)",
+      "Christopher Nilsen (USA)",
+      "Ernest Obiena (Filippinene)"
+    ]
+  },
+  {
+    "tullenavn": "Håntull",
+    "ektenavn": "Håndball",
+    "beskrivelse": "Her gjelder regelen: Den som har det gøyest, vinner – uavhengig av resultat.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Håndball McSporty",
+      "Champ Håndballsen",
+      "Sir Håndballaldo"
+    ]
+  },
+  {
+    "tullenavn": "Bastull",
+    "ektenavn": "Basketball",
+    "beskrivelse": "Anses som nasjonalidrett i enkelte garasjer og deler av Nord-Østerdalen.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Basketball McSporty",
+      "Champ Basketballsen",
+      "Sir Basketballaldo"
+    ]
+  },
+  {
+    "tullenavn": "Tennisorama",
+    "ektenavn": "Tennis",
+    "beskrivelse": "Det er ikke nødvendigvis farlig – men det ser definitivt sånn ut.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Tennis McSporty",
+      "Champ Tennissen",
+      "Sir Tennisaldo"
+    ]
+  },
+  {
+    "tullenavn": "Voltull",
+    "ektenavn": "Volleyball",
+    "beskrivelse": "Sporten for deg som alltid har lurt på hva som skjer hvis du ikke tenker først.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Volleyball McSporty",
+      "Champ Volleyballsen",
+      "Sir Volleyballaldo"
+    ]
+  },
+  {
+    "tullenavn": "Bortull",
+    "ektenavn": "Bordtennis",
+    "beskrivelse": "Ingen forstår reglene, men alle roper som om de gjør det.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Bordtennis McSporty",
+      "Champ Bordtennissen",
+      "Sir Bordtennisaldo"
+    ]
+  },
+  {
+    "tullenavn": "Diskosorama",
+    "ektenavn": "Diskos",
+    "beskrivelse": "Oppsto ved en feiltakelse, men ble beholdt fordi det var for gøy å avslutte.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Diskos McSporty",
+      "Champ Diskossen",
+      "Sir Diskosaldo"
+    ]
+  },
+  {
+    "tullenavn": "Kultull",
+    "ektenavn": "Kulestøt",
+    "beskrivelse": "Et konkurranseformat så meningsløst at det nesten er poetisk.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Kulestøt McSporty",
+      "Champ Kulestøtsen",
+      "Sir Kulestøtaldo"
+    ]
+  },
+  {
+    "tullenavn": "Lentull",
+    "ektenavn": "Lengdehopp",
+    "beskrivelse": "Her kastes kropp, utstyr og skam rett i fellesgropa.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Lengdehopp McSporty",
+      "Champ Lengdehoppsen",
+      "Sir Lengdehoppaldo"
+    ]
+  },
+  {
+    "tullenavn": "Høytull",
+    "ektenavn": "Høydehopp",
+    "beskrivelse": "Den eneste sporten der du belønnes for å bomme med stil.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Høydehopp McSporty",
+      "Champ Høydehoppsen",
+      "Sir Høydehoppaldo"
+    ]
+  },
+  {
+    "tullenavn": "Svøtull",
+    "ektenavn": "Svømming",
+    "beskrivelse": "Alt handler om innlevelse, dramatikk og evnen til å ignorere tyngdekraften.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Svømming McSporty",
+      "Champ Svømmingsen",
+      "Sir Svømmingaldo"
+    ]
+  },
+  {
+    "tullenavn": "Syklingorama",
+    "ektenavn": "Sykling",
+    "beskrivelse": "Ble oppfunnet som unnskyldning for å bruke hjelm og skrike i offentligheten.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Sykling McSporty",
+      "Champ Syklingsen",
+      "Sir Syklingaldo"
+    ]
+  },
+  {
+    "tullenavn": "Maratonorama",
+    "ektenavn": "Maraton",
+    "beskrivelse": "Denne sporten kombinerer koordinasjon, kaos og kakesmuler.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Maraton McSporty",
+      "Champ Maratonsen",
+      "Sir Maratonaldo"
+    ]
+  },
+  {
+    "tullenavn": "Sprintorama",
+    "ektenavn": "Sprint",
+    "beskrivelse": "Ikke en sport for de med selvrespekt – men desto bedre for publikum.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Sprint McSporty",
+      "Champ Sprintsen",
+      "Sir Sprintaldo"
+    ]
+  },
+  {
+    "tullenavn": "Skihopporama",
+    "ektenavn": "Skihopp",
+    "beskrivelse": "Gir fullkroppstrening i panikk, prestasjonsangst og latterkrampe.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Skihopp McSporty",
+      "Champ Skihoppsen",
+      "Sir Skihoppaldo"
+    ]
+  },
+  {
+    "tullenavn": "Lantull",
+    "ektenavn": "Langrenn",
+    "beskrivelse": "Alt som trengs er vilje, et åpent sinn og null forståelse for grenser.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Langrenn McSporty",
+      "Champ Langrennsen",
+      "Sir Langrennaldo"
+    ]
+  },
+  {
+    "tullenavn": "Skitull",
+    "ektenavn": "Skiskyting",
+    "beskrivelse": "Ble utviklet i pausen mellom to viktigere idretter og tok over showet.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Skiskyting McSporty",
+      "Champ Skiskytingsen",
+      "Sir Skiskytingaldo"
+    ]
+  },
+  {
+    "tullenavn": "Golforama",
+    "ektenavn": "Golf",
+    "beskrivelse": "Folk sier det ikke er ekte sport. Folk tar feil.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Golf McSporty",
+      "Champ Golfsen",
+      "Sir Golfaldo"
+    ]
+  },
+  {
+    "tullenavn": "Rugbyorama",
+    "ektenavn": "Rugby",
+    "beskrivelse": "Skaper flere latteranfall enn nasjonaldagen og lønningspils kombinert.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Rugby McSporty",
+      "Champ Rugbysen",
+      "Sir Rugbyaldo"
+    ]
+  },
+  {
+    "tullenavn": "Kamtull",
+    "ektenavn": "Kampsport",
+    "beskrivelse": "Anbefalt av 4 av 5 klovner med doktorgrad i absurditet.",
+    "regler": [
+      "Første regel: Ikke skrik mer enn dommeren.",
+      "Alle må bruke beskyttelse – inkludert for stolthet.",
+      "Poeng for å overleve latter og forvirring.",
+      "Man kan utfordre en motstander til stein-saks-papir."
+    ],
+    "topp3": [
+      "Kampsport McSporty",
+      "Champ Kampsportsen",
+      "Sir Kampsportaldo"
+    ]
+  },
+  {
+    "tullenavn": "Boksingorama",
+    "ektenavn": "Boksing",
+    "beskrivelse": "Ble forbudt i enkelte land etter overdreven bruk av fløyte og fjær.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Boksing McSporty",
+      "Champ Boksingsen",
+      "Sir Boksingaldo"
+    ]
+  },
+  {
+    "tullenavn": "Judoorama",
+    "ektenavn": "Judo",
+    "beskrivelse": "Verdens mest alvorlige useriøse sport, ifølge deltakerne selv.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Judo McSporty",
+      "Champ Judosen",
+      "Sir Judoaldo"
+    ]
+  },
+  {
+    "tullenavn": "Taetull",
+    "ektenavn": "Taekwondo",
+    "beskrivelse": "Kjent for å skape venner, fiender og diskusjoner ved kjøkkenbordet.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Taekwondo McSporty",
+      "Champ Taekwondosen",
+      "Sir Taekwondoaldo"
+    ]
+  },
+  {
+    "tullenavn": "Karateorama",
+    "ektenavn": "Karate",
+    "beskrivelse": "En sport der strategi og panikk møtes i et dramatisk forsøk på å imponere naboen.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Karate McSporty",
+      "Champ Karatesen",
+      "Sir Karatealdo"
+    ]
+  },
+  {
+    "tullenavn": "Fektingorama",
+    "ektenavn": "Fekting",
+    "beskrivelse": "Krever mer balanse enn å bære kaffe i trapp med sokker – i motvind.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Fekting McSporty",
+      "Champ Fektingsen",
+      "Sir Fektingaldo"
+    ]
+  },
+  {
+    "tullenavn": "Roingorama",
+    "ektenavn": "Roing",
+    "beskrivelse": "Utøves primært av folk med lite selvoppholdelsesdrift og mye selvironi.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Roing McSporty",
+      "Champ Roingsen",
+      "Sir Roingaldo"
+    ]
+  },
+  {
+    "tullenavn": "Seilingorama",
+    "ektenavn": "Seiling",
+    "beskrivelse": "Her gjelder regelen: Den som har det gøyest, vinner – uavhengig av resultat.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Seiling McSporty",
+      "Champ Seilingsen",
+      "Sir Seilingaldo"
+    ]
+  },
+  {
+    "tullenavn": "Skatull",
+    "ektenavn": "Skateboard",
+    "beskrivelse": "Anses som nasjonalidrett i enkelte garasjer og deler av Nord-Østerdalen.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Skateboard McSporty",
+      "Champ Skateboardsen",
+      "Sir Skateboardaldo"
+    ]
+  },
+  {
+    "tullenavn": "BMXorama",
+    "ektenavn": "BMX",
+    "beskrivelse": "Det er ikke nødvendigvis farlig – men det ser definitivt sånn ut.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "BMX McSporty",
+      "Champ BMXsen",
+      "Sir BMXaldo"
+    ]
+  },
+  {
+    "tullenavn": "Klatull",
+    "ektenavn": "Klatring",
+    "beskrivelse": "Sporten for deg som alltid har lurt på hva som skjer hvis du ikke tenker først.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Klatring McSporty",
+      "Champ Klatringsen",
+      "Sir Klatringaldo"
+    ]
+  },
+  {
+    "tullenavn": "Snotull",
+    "ektenavn": "Snowboard",
+    "beskrivelse": "Ingen forstår reglene, men alle roper som om de gjør det.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Snowboard McSporty",
+      "Champ Snowboardsen",
+      "Sir Snowboardaldo"
+    ]
+  },
+  {
+    "tullenavn": "Curlingorama",
+    "ektenavn": "Curling",
+    "beskrivelse": "Oppsto ved en feiltakelse, men ble beholdt fordi det var for gøy å avslutte.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Curling McSporty",
+      "Champ Curlingsen",
+      "Sir Curlingaldo"
+    ]
+  },
+  {
+    "tullenavn": "Gymtull",
+    "ektenavn": "Gymnastikk",
+    "beskrivelse": "Et konkurranseformat så meningsløst at det nesten er poetisk.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Gymnastikk McSporty",
+      "Champ Gymnastikksen",
+      "Sir Gymnastikkaldo"
+    ]
+  },
+  {
+    "tullenavn": "Tritull",
+    "ektenavn": "Triatlon",
+    "beskrivelse": "Her kastes kropp, utstyr og skam rett i fellesgropa.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Triatlon McSporty",
+      "Champ Triatlonsen",
+      "Sir Triatlonaldo"
+    ]
+  },
+  {
+    "tullenavn": "Kaptull",
+    "ektenavn": "Kappgang",
+    "beskrivelse": "Den eneste sporten der du belønnes for å bomme med stil.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Kappgang McSporty",
+      "Champ Kappgangsen",
+      "Sir Kappgangaldo"
+    ]
+  },
+  {
+    "tullenavn": "Padlingorama",
+    "ektenavn": "Padling",
+    "beskrivelse": "Alt handler om innlevelse, dramatikk og evnen til å ignorere tyngdekraften.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Padling McSporty",
+      "Champ Padlingsen",
+      "Sir Padlingaldo"
+    ]
+  },
+  {
+    "tullenavn": "Badtull",
+    "ektenavn": "Badminton",
+    "beskrivelse": "Ble oppfunnet som unnskyldning for å bruke hjelm og skrike i offentligheten.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Badminton McSporty",
+      "Champ Badmintonsen",
+      "Sir Badmintonaldo"
+    ]
+  },
+  {
+    "tullenavn": "Squashorama",
+    "ektenavn": "Squash",
+    "beskrivelse": "Denne sporten kombinerer koordinasjon, kaos og kakesmuler.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Squash McSporty",
+      "Champ Squashsen",
+      "Sir Squashaldo"
+    ]
+  },
+  {
+    "tullenavn": "Kubborama",
+    "ektenavn": "Kubb",
+    "beskrivelse": "Ikke en sport for de med selvrespekt – men desto bedre for publikum.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Kubb McSporty",
+      "Champ Kubbsen",
+      "Sir Kubbaldo"
+    ]
+  },
+  {
+    "tullenavn": "Sjakkorama",
+    "ektenavn": "Sjakk",
+    "beskrivelse": "Gir fullkroppstrening i panikk, prestasjonsangst og latterkrampe.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Sjakk McSporty",
+      "Champ Sjakksen",
+      "Sir Sjakkaldo"
+    ]
+  },
+  {
+    "tullenavn": "E-sportorama",
+    "ektenavn": "E-sport",
+    "beskrivelse": "Alt som trengs er vilje, et åpent sinn og null forståelse for grenser.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "E-sport McSporty",
+      "Champ E-sportsen",
+      "Sir E-sportaldo"
+    ]
+  },
+  {
+    "tullenavn": "Snookerorama",
+    "ektenavn": "Snooker",
+    "beskrivelse": "Ble utviklet i pausen mellom to viktigere idretter og tok over showet.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Snooker McSporty",
+      "Champ Snookersen",
+      "Sir Snookeraldo"
+    ]
+  },
+  {
+    "tullenavn": "Bowlingorama",
+    "ektenavn": "Bowling",
+    "beskrivelse": "Folk sier det ikke er ekte sport. Folk tar feil.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Bowling McSporty",
+      "Champ Bowlingsen",
+      "Sir Bowlingaldo"
+    ]
+  },
+  {
+    "tullenavn": "Pettull",
+    "ektenavn": "Petanque",
+    "beskrivelse": "Skaper flere latteranfall enn nasjonaldagen og lønningspils kombinert.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Petanque McSporty",
+      "Champ Petanquesen",
+      "Sir Petanquealdo"
+    ]
+  },
+  {
+    "tullenavn": "Sumtull",
+    "ektenavn": "Sumobryting",
+    "beskrivelse": "Anbefalt av 4 av 5 klovner med doktorgrad i absurditet.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Sumobryting McSporty",
+      "Champ Sumobrytingsen",
+      "Sir Sumobrytingaldo"
+    ]
+  },
+  {
+    "tullenavn": "Santull",
+    "ektenavn": "Sandvolleyball",
+    "beskrivelse": "Ble forbudt i enkelte land etter overdreven bruk av fløyte og fjær.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Sandvolleyball McSporty",
+      "Champ Sandvolleyballsen",
+      "Sir Sandvolleyballaldo"
+    ]
+  },
+  {
+    "tullenavn": "Futsalorama",
+    "ektenavn": "Futsal",
+    "beskrivelse": "Verdens mest alvorlige useriøse sport, ifølge deltakerne selv.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Futsal McSporty",
+      "Champ Futsalsen",
+      "Sir Futsalaldo"
+    ]
+  },
+  {
+    "tullenavn": "Cricketorama",
+    "ektenavn": "Cricket",
+    "beskrivelse": "Kjent for å skape venner, fiender og diskusjoner ved kjøkkenbordet.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Cricket McSporty",
+      "Champ Cricketsen",
+      "Sir Cricketaldo"
+    ]
+  },
+  {
+    "tullenavn": "Bastull",
+    "ektenavn": "Baseball",
+    "beskrivelse": "En sport der strategi og panikk møtes i et dramatisk forsøk på å imponere naboen.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Baseball McSporty",
+      "Champ Baseballsen",
+      "Sir Baseballaldo"
+    ]
+  },
+  {
+    "tullenavn": "Softull",
+    "ektenavn": "Softball",
+    "beskrivelse": "Krever mer balanse enn å bære kaffe i trapp med sokker – i motvind.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Softball McSporty",
+      "Champ Softballsen",
+      "Sir Softballaldo"
+    ]
+  },
+  {
+    "tullenavn": "Ametull",
+    "ektenavn": "Amerikansk fotball",
+    "beskrivelse": "Utøves primært av folk med lite selvoppholdelsesdrift og mye selvironi.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Amerikansk fotball McSporty",
+      "Champ Amerikansk fotballsen",
+      "Sir Amerikansk fotballaldo"
+    ]
+  },
+  {
+    "tullenavn": "Lactull",
+    "ektenavn": "Lacrosse",
+    "beskrivelse": "Her gjelder regelen: Den som har det gøyest, vinner – uavhengig av resultat.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Lacrosse McSporty",
+      "Champ Lacrossesen",
+      "Sir Lacrossealdo"
+    ]
+  },
+  {
+    "tullenavn": "Ulttull",
+    "ektenavn": "Ultimate Frisbee",
+    "beskrivelse": "Anses som nasjonalidrett i enkelte garasjer og deler av Nord-Østerdalen.",
+    "regler": [
+      "Deltakere må tygge taktfast i fire takter.",
+      "Bonus for å ikke søle på dommeren.",
+      "Alt må spises med en grillpinne og bind for øynene.",
+      "Vinneren er den med mest smuler på skjorta."
+    ],
+    "topp3": [
+      "Ultimate Frisbee McSporty",
+      "Champ Ultimate Frisbeesen",
+      "Sir Ultimate Frisbeealdo"
+    ]
+  },
+  {
+    "tullenavn": "Hestull",
+    "ektenavn": "Hestesport",
+    "beskrivelse": "Det er ikke nødvendigvis farlig – men det ser definitivt sånn ut.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Hestesport McSporty",
+      "Champ Hestesportsen",
+      "Sir Hestesportaldo"
+    ]
+  },
+  {
+    "tullenavn": "Dretull",
+    "ektenavn": "Dressurridning",
+    "beskrivelse": "Sporten for deg som alltid har lurt på hva som skjer hvis du ikke tenker først.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Dressurridning McSporty",
+      "Champ Dressurridningsen",
+      "Sir Dressurridningaldo"
+    ]
+  },
+  {
+    "tullenavn": "Poloorama",
+    "ektenavn": "Polo",
+    "beskrivelse": "Ingen forstår reglene, men alle roper som om de gjør det.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Polo McSporty",
+      "Champ Polosen",
+      "Sir Poloaldo"
+    ]
+  },
+  {
+    "tullenavn": "Vantull",
+    "ektenavn": "Vannpolo",
+    "beskrivelse": "Oppsto ved en feiltakelse, men ble beholdt fordi det var for gøy å avslutte.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Vannpolo McSporty",
+      "Champ Vannpolosen",
+      "Sir Vannpoloaldo"
+    ]
+  },
+  {
+    "tullenavn": "Fritull",
+    "ektenavn": "Friidrett",
+    "beskrivelse": "Et konkurranseformat så meningsløst at det nesten er poetisk.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Friidrett McSporty",
+      "Champ Friidrettsen",
+      "Sir Friidrettaldo"
+    ]
+  },
+  {
+    "tullenavn": "Tertull",
+    "ektenavn": "Terrengløp",
+    "beskrivelse": "Her kastes kropp, utstyr og skam rett i fellesgropa.",
+    "regler": [
+      "Startsignal gis ved at en and kvakker.",
+      "Løypa inneholder tilfeldige hinder og overraskelser.",
+      "Deltakere må bytte sko halvveis.",
+      "Tid registreres, men ignoreres hvis det regner."
+    ],
+    "topp3": [
+      "Terrengløp McSporty",
+      "Champ Terrengløpsen",
+      "Sir Terrengløpaldo"
+    ]
+  },
+  {
+    "tullenavn": "Mottull",
+    "ektenavn": "Motorsport",
+    "beskrivelse": "Den eneste sporten der du belønnes for å bomme med stil.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Motorsport McSporty",
+      "Champ Motorsportsen",
+      "Sir Motorsportaldo"
+    ]
+  },
+  {
+    "tullenavn": "Rallyorama",
+    "ektenavn": "Rally",
+    "beskrivelse": "Alt handler om innlevelse, dramatikk og evnen til å ignorere tyngdekraften.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Rally McSporty",
+      "Champ Rallysen",
+      "Sir Rallyaldo"
+    ]
+  },
+  {
+    "tullenavn": "Fortull",
+    "ektenavn": "Formel 1",
+    "beskrivelse": "Ble oppfunnet som unnskyldning for å bruke hjelm og skrike i offentligheten.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Formel 1 McSporty",
+      "Champ Formel 1sen",
+      "Sir Formel 1aldo"
+    ]
+  },
+  {
+    "tullenavn": "Jetskiorama",
+    "ektenavn": "Jetski",
+    "beskrivelse": "Denne sporten kombinerer koordinasjon, kaos og kakesmuler.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Jetski McSporty",
+      "Champ Jetskisen",
+      "Sir Jetskialdo"
+    ]
+  },
+  {
+    "tullenavn": "Kittull",
+    "ektenavn": "Kitesurfing",
+    "beskrivelse": "Ikke en sport for de med selvrespekt – men desto bedre for publikum.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Kitesurfing McSporty",
+      "Champ Kitesurfingsen",
+      "Sir Kitesurfingaldo"
+    ]
+  },
+  {
+    "tullenavn": "Wintull",
+    "ektenavn": "Windsurfing",
+    "beskrivelse": "Gir fullkroppstrening i panikk, prestasjonsangst og latterkrampe.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Windsurfing McSporty",
+      "Champ Windsurfingsen",
+      "Sir Windsurfingaldo"
+    ]
+  },
+  {
+    "tullenavn": "Vannskiorama",
+    "ektenavn": "Vannski",
+    "beskrivelse": "Alt som trengs er vilje, et åpent sinn og null forståelse for grenser.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Vannski McSporty",
+      "Champ Vannskisen",
+      "Sir Vannskialdo"
+    ]
+  },
+  {
+    "tullenavn": "Isdansorama",
+    "ektenavn": "Isdans",
+    "beskrivelse": "Ble utviklet i pausen mellom to viktigere idretter og tok over showet.",
+    "regler": [
+      "Stilpoeng gis for kostyme og rytmisk uklarhet.",
+      "Deltakere må fremføre en intro med overbevisning.",
+      "Juryen består av tre surpomper og én discokule.",
+      "Finalen avgjøres ved simultan moonwalk-duell."
+    ],
+    "topp3": [
+      "Isdans McSporty",
+      "Champ Isdanssen",
+      "Sir Isdansaldo"
+    ]
+  },
+  {
+    "tullenavn": "Skøyterorama",
+    "ektenavn": "Skøyter",
+    "beskrivelse": "Folk sier det ikke er ekte sport. Folk tar feil.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Skøyter McSporty",
+      "Champ Skøytersen",
+      "Sir Skøyteraldo"
+    ]
+  },
+  {
+    "tullenavn": "Lantull",
+    "ektenavn": "Langbane",
+    "beskrivelse": "Skaper flere latteranfall enn nasjonaldagen og lønningspils kombinert.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Langbane McSporty",
+      "Champ Langbanesen",
+      "Sir Langbanealdo"
+    ]
+  },
+  {
+    "tullenavn": "Kortull",
+    "ektenavn": "Kortbane",
+    "beskrivelse": "Anbefalt av 4 av 5 klovner med doktorgrad i absurditet.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Kortbane McSporty",
+      "Champ Kortbanesen",
+      "Sir Kortbanealdo"
+    ]
+  },
+  {
+    "tullenavn": "Oritull",
+    "ektenavn": "Orientering",
+    "beskrivelse": "Ble forbudt i enkelte land etter overdreven bruk av fløyte og fjær.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Orientering McSporty",
+      "Champ Orienteringsen",
+      "Sir Orienteringaldo"
+    ]
+  },
+  {
+    "tullenavn": "Paitull",
+    "ektenavn": "Paintball",
+    "beskrivelse": "Verdens mest alvorlige useriøse sport, ifølge deltakerne selv.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Paintball McSporty",
+      "Champ Paintballsen",
+      "Sir Paintballaldo"
+    ]
+  },
+  {
+    "tullenavn": "Airsoftorama",
+    "ektenavn": "Airsoft",
+    "beskrivelse": "Kjent for å skape venner, fiender og diskusjoner ved kjøkkenbordet.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Airsoft McSporty",
+      "Champ Airsoftsen",
+      "Sir Airsoftaldo"
+    ]
+  },
+  {
+    "tullenavn": "Armtull",
+    "ektenavn": "Armwrestling",
+    "beskrivelse": "En sport der strategi og panikk møtes i et dramatisk forsøk på å imponere naboen.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Armwrestling McSporty",
+      "Champ Armwrestlingsen",
+      "Sir Armwrestlingaldo"
+    ]
+  },
+  {
+    "tullenavn": "Stytull",
+    "ektenavn": "Styrkeløft",
+    "beskrivelse": "Krever mer balanse enn å bære kaffe i trapp med sokker – i motvind.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Styrkeløft McSporty",
+      "Champ Styrkeløftsen",
+      "Sir Styrkeløftaldo"
+    ]
+  },
+  {
+    "tullenavn": "Vektull",
+    "ektenavn": "Vektløfting",
+    "beskrivelse": "Utøves primært av folk med lite selvoppholdelsesdrift og mye selvironi.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Vektløfting McSporty",
+      "Champ Vektløftingsen",
+      "Sir Vektløftingaldo"
+    ]
+  },
+  {
+    "tullenavn": "Krotull",
+    "ektenavn": "Kroppsbygging",
+    "beskrivelse": "Her gjelder regelen: Den som har det gøyest, vinner – uavhengig av resultat.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Kroppsbygging McSporty",
+      "Champ Kroppsbyggingsen",
+      "Sir Kroppsbyggingaldo"
+    ]
+  },
+  {
+    "tullenavn": "Dartorama",
+    "ektenavn": "Dart",
+    "beskrivelse": "Anses som nasjonalidrett i enkelte garasjer og deler av Nord-Østerdalen.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Dart McSporty",
+      "Champ Dartsen",
+      "Sir Dartaldo"
+    ]
+  },
+  {
+    "tullenavn": "Buetull",
+    "ektenavn": "Bueskyting",
+    "beskrivelse": "Det er ikke nødvendigvis farlig – men det ser definitivt sånn ut.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Bueskyting McSporty",
+      "Champ Bueskytingsen",
+      "Sir Bueskytingaldo"
+    ]
+  },
+  {
+    "tullenavn": "Tritull",
+    "ektenavn": "Trioball",
+    "beskrivelse": "Sporten for deg som alltid har lurt på hva som skjer hvis du ikke tenker først.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Trioball McSporty",
+      "Champ Trioballsen",
+      "Sir Trioballaldo"
+    ]
+  },
+  {
+    "tullenavn": "Tømtull",
+    "ektenavn": "Tømmerløft",
+    "beskrivelse": "Ingen forstår reglene, men alle roper som om de gjør det.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Tømmerløft McSporty",
+      "Champ Tømmerløftsen",
+      "Sir Tømmerløftaldo"
+    ]
+  },
+  {
+    "tullenavn": "Snøtull",
+    "ektenavn": "Snøballkrig",
+    "beskrivelse": "Oppsto ved en feiltakelse, men ble beholdt fordi det var for gøy å avslutte.",
+    "regler": [
+      "Første regel: Ikke skrik mer enn dommeren.",
+      "Alle må bruke beskyttelse – inkludert for stolthet.",
+      "Poeng for å overleve latter og forvirring.",
+      "Man kan utfordre en motstander til stein-saks-papir."
+    ],
+    "topp3": [
+      "Snøballkrig McSporty",
+      "Champ Snøballkrigsen",
+      "Sir Snøballkrigaldo"
+    ]
+  },
+  {
+    "tullenavn": "Stotull",
+    "ektenavn": "Stolpeklatring",
+    "beskrivelse": "Et konkurranseformat så meningsløst at det nesten er poetisk.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Stolpeklatring McSporty",
+      "Champ Stolpeklatringsen",
+      "Sir Stolpeklatringaldo"
+    ]
+  },
+  {
+    "tullenavn": "Lattull",
+    "ektenavn": "Latterkonkurranse",
+    "beskrivelse": "Her kastes kropp, utstyr og skam rett i fellesgropa.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Latterkonkurranse McSporty",
+      "Champ Latterkonkurransesen",
+      "Sir Latterkonkurransealdo"
+    ]
+  },
+  {
+    "tullenavn": "Luftull",
+    "ektenavn": "Luftgitar",
+    "beskrivelse": "Den eneste sporten der du belønnes for å bomme med stil.",
+    "regler": [
+      "Stilpoeng gis for kostyme og rytmisk uklarhet.",
+      "Deltakere må fremføre en intro med overbevisning.",
+      "Juryen består av tre surpomper og én discokule.",
+      "Finalen avgjøres ved simultan moonwalk-duell."
+    ],
+    "topp3": [
+      "Luftgitar McSporty",
+      "Champ Luftgitarsen",
+      "Sir Luftgitaraldo"
+    ]
+  },
+  {
+    "tullenavn": "Tautull",
+    "ektenavn": "Tautrekking",
+    "beskrivelse": "Alt handler om innlevelse, dramatikk og evnen til å ignorere tyngdekraften.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Tautrekking McSporty",
+      "Champ Tautrekkingsen",
+      "Sir Tautrekkingaldo"
+    ]
+  },
+  {
+    "tullenavn": "Gumtull",
+    "ektenavn": "Gummistøvelkast",
+    "beskrivelse": "Ble oppfunnet som unnskyldning for å bruke hjelm og skrike i offentligheten.",
+    "regler": [
+      "Kastet må inneholde minst én akrobatisk bevegelse.",
+      "Dommeren gir bonuspoeng for dramatisk ansiktsuttrykk.",
+      "Det er påbudt å rope et slagord idet man kaster.",
+      "Tre kast per deltaker, én må gjøres med bind for øynene."
+    ],
+    "topp3": [
+      "Gummistøvelkast McSporty",
+      "Champ Gummistøvelkastsen",
+      "Sir Gummistøvelkastaldo"
+    ]
+  },
+  {
+    "tullenavn": "Kyltull",
+    "ektenavn": "Kyllingdans",
+    "beskrivelse": "Denne sporten kombinerer koordinasjon, kaos og kakesmuler.",
+    "regler": [
+      "Stilpoeng gis for kostyme og rytmisk uklarhet.",
+      "Deltakere må fremføre en intro med overbevisning.",
+      "Juryen består av tre surpomper og én discokule.",
+      "Finalen avgjøres ved simultan moonwalk-duell."
+    ],
+    "topp3": [
+      "Kyllingdans McSporty",
+      "Champ Kyllingdanssen",
+      "Sir Kyllingdansaldo"
+    ]
+  },
+  {
+    "tullenavn": "Teptull",
+    "ektenavn": "Teppecurling",
+    "beskrivelse": "Ikke en sport for de med selvrespekt – men desto bedre for publikum.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Teppecurling McSporty",
+      "Champ Teppecurlingsen",
+      "Sir Teppecurlingaldo"
+    ]
+  },
+  {
+    "tullenavn": "Santull",
+    "ektenavn": "Sandkasseslalåm",
+    "beskrivelse": "Gir fullkroppstrening i panikk, prestasjonsangst og latterkrampe.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Sandkasseslalåm McSporty",
+      "Champ Sandkasseslalåmsen",
+      "Sir Sandkasseslalåmaldo"
+    ]
+  },
+  {
+    "tullenavn": "Baltull",
+    "ektenavn": "Ballongboksing",
+    "beskrivelse": "Alt som trengs er vilje, et åpent sinn og null forståelse for grenser.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Ballongboksing McSporty",
+      "Champ Ballongboksingsen",
+      "Sir Ballongboksingaldo"
+    ]
+  },
+  {
+    "tullenavn": "Gå-tull",
+    "ektenavn": "Gå-sakte-løp",
+    "beskrivelse": "Ble utviklet i pausen mellom to viktigere idretter og tok over showet.",
+    "regler": [
+      "Startsignal gis ved at en and kvakker.",
+      "Løypa inneholder tilfeldige hinder og overraskelser.",
+      "Deltakere må bytte sko halvveis.",
+      "Tid registreres, men ignoreres hvis det regner."
+    ],
+    "topp3": [
+      "Gå-sakte-løp McSporty",
+      "Champ Gå-sakte-løpsen",
+      "Sir Gå-sakte-løpaldo"
+    ]
+  },
+  {
+    "tullenavn": "Slatull",
+    "ektenavn": "Slappball",
+    "beskrivelse": "Folk sier det ikke er ekte sport. Folk tar feil.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Slappball McSporty",
+      "Champ Slappballsen",
+      "Sir Slappballaldo"
+    ]
+  },
+  {
+    "tullenavn": "Soktull",
+    "ektenavn": "Sokkesparking",
+    "beskrivelse": "Skaper flere latteranfall enn nasjonaldagen og lønningspils kombinert.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Sokkesparking McSporty",
+      "Champ Sokkesparkingsen",
+      "Sir Sokkesparkingaldo"
+    ]
+  },
+  {
+    "tullenavn": "Sjotull",
+    "ektenavn": "Sjonglering",
+    "beskrivelse": "Anbefalt av 4 av 5 klovner med doktorgrad i absurditet.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Sjonglering McSporty",
+      "Champ Sjongleringsen",
+      "Sir Sjongleringaldo"
+    ]
+  },
+  {
+    "tullenavn": "Teptull",
+    "ektenavn": "Teppeseiling",
+    "beskrivelse": "Ble forbudt i enkelte land etter overdreven bruk av fløyte og fjær.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Teppeseiling McSporty",
+      "Champ Teppeseilingsen",
+      "Sir Teppeseilingaldo"
+    ]
+  },
+  {
+    "tullenavn": "Skutull",
+    "ektenavn": "Skumgummisverd-duell",
+    "beskrivelse": "Verdens mest alvorlige useriøse sport, ifølge deltakerne selv.",
+    "regler": [
+      "Første regel: Ikke skrik mer enn dommeren.",
+      "Alle må bruke beskyttelse – inkludert for stolthet.",
+      "Poeng for å overleve latter og forvirring.",
+      "Man kan utfordre en motstander til stein-saks-papir."
+    ],
+    "topp3": [
+      "Skumgummisverd-duell McSporty",
+      "Champ Skumgummisverd-duellsen",
+      "Sir Skumgummisverd-duellaldo"
+    ]
+  },
+  {
+    "tullenavn": "Stotull",
+    "ektenavn": "Stolleken",
+    "beskrivelse": "Kjent for å skape venner, fiender og diskusjoner ved kjøkkenbordet.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Stolleken McSporty",
+      "Champ Stollekensen",
+      "Sir Stollekenaldo"
+    ]
+  },
+  {
+    "tullenavn": "Gåstull",
+    "ektenavn": "Gåsehopp",
+    "beskrivelse": "En sport der strategi og panikk møtes i et dramatisk forsøk på å imponere naboen.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Gåsehopp McSporty",
+      "Champ Gåsehoppsen",
+      "Sir Gåsehoppaldo"
+    ]
+  },
+  {
+    "tullenavn": "Hesteskokastingorama",
+    "ektenavn": "Hesteskokasting",
+    "beskrivelse": "Krever mer balanse enn å bære kaffe i trapp med sokker – i motvind.",
+    "regler": [
+      "Kastet må inneholde minst én akrobatisk bevegelse.",
+      "Dommeren gir bonuspoeng for dramatisk ansiktsuttrykk.",
+      "Det er påbudt å rope et slagord idet man kaster.",
+      "Tre kast per deltaker, én må gjøres med bind for øynene."
+    ],
+    "topp3": [
+      "Hesteskokasting McTull",
+      "Champ Hesteskokastingsen",
+      "Sir Hesteskokastingaldo"
+    ]
+  },
+  {
+    "tullenavn": "Snøballslalomorama",
+    "ektenavn": "Snøballslalom",
+    "beskrivelse": "Utøves primært av folk med lite selvoppholdelsesdrift og mye selvironi.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Snøballslalom McTull",
+      "Champ Snøballslalomsen",
+      "Sir Snøballslalomaldo"
+    ]
+  },
+  {
+    "tullenavn": "Stolpeklatringorama",
+    "ektenavn": "Stolpeklatring",
+    "beskrivelse": "Her gjelder regelen: Den som har det gøyest, vinner – uavhengig av resultat.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Stolpeklatring McTull",
+      "Champ Stolpeklatringsen",
+      "Sir Stolpeklatringaldo"
+    ]
+  },
+  {
+    "tullenavn": "Luftgitarorama",
+    "ektenavn": "Luftgitar",
+    "beskrivelse": "Anses som nasjonalidrett i enkelte garasjer og deler av Nord-Østerdalen.",
+    "regler": [
+      "Stilpoeng gis for kostyme og rytmisk uklarhet.",
+      "Deltakere må fremføre en intro med overbevisning.",
+      "Juryen består av tre surpomper og én discokule.",
+      "Finalen avgjøres ved simultan moonwalk-duell."
+    ],
+    "topp3": [
+      "Luftgitar McTull",
+      "Champ Luftgitarsen",
+      "Sir Luftgitaraldo"
+    ]
+  },
+  {
+    "tullenavn": "Gummistøvelkastorama",
+    "ektenavn": "Gummistøvelkast",
+    "beskrivelse": "Det er ikke nødvendigvis farlig – men det ser definitivt sånn ut.",
+    "regler": [
+      "Kastet må inneholde minst én akrobatisk bevegelse.",
+      "Dommeren gir bonuspoeng for dramatisk ansiktsuttrykk.",
+      "Det er påbudt å rope et slagord idet man kaster.",
+      "Tre kast per deltaker, én må gjøres med bind for øynene."
+    ],
+    "topp3": [
+      "Gummistøvelkast McTull",
+      "Champ Gummistøvelkastsen",
+      "Sir Gummistøvelkastaldo"
+    ]
+  },
+  {
+    "tullenavn": "Stollekenorama",
+    "ektenavn": "Stolleken",
+    "beskrivelse": "Sporten for deg som alltid har lurt på hva som skjer hvis du ikke tenker først.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Stolleken McTull",
+      "Champ Stollekensen",
+      "Sir Stollekenaldo"
+    ]
+  },
+  {
+    "tullenavn": "Teppeseilingorama",
+    "ektenavn": "Teppeseiling",
+    "beskrivelse": "Ingen forstår reglene, men alle roper som om de gjør det.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Teppeseiling McTull",
+      "Champ Teppeseilingsen",
+      "Sir Teppeseilingaldo"
+    ]
+  },
+  {
+    "tullenavn": "Sandvolleyballiregnorama",
+    "ektenavn": "Sandvolleyball i regn",
+    "beskrivelse": "Oppsto ved en feiltakelse, men ble beholdt fordi det var for gøy å avslutte.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Sandvolleyball i regn McTull",
+      "Champ Sandvolleyball i regnsen",
+      "Sir Sandvolleyball i regnaldo"
+    ]
+  },
+  {
+    "tullenavn": "Kjeglekastingorama",
+    "ektenavn": "Kjeglekasting",
+    "beskrivelse": "Et konkurranseformat så meningsløst at det nesten er poetisk.",
+    "regler": [
+      "Kastet må inneholde minst én akrobatisk bevegelse.",
+      "Dommeren gir bonuspoeng for dramatisk ansiktsuttrykk.",
+      "Det er påbudt å rope et slagord idet man kaster.",
+      "Tre kast per deltaker, én må gjøres med bind for øynene."
+    ],
+    "topp3": [
+      "Kjeglekasting McTull",
+      "Champ Kjeglekastingsen",
+      "Sir Kjeglekastingaldo"
+    ]
+  },
+  {
+    "tullenavn": "Kokkekamporama",
+    "ektenavn": "Kokkekamp",
+    "beskrivelse": "Her kastes kropp, utstyr og skam rett i fellesgropa.",
+    "regler": [
+      "Første regel: Ikke skrik mer enn dommeren.",
+      "Alle må bruke beskyttelse – inkludert for stolthet.",
+      "Poeng for å overleve latter og forvirring.",
+      "Man kan utfordre en motstander til stein-saks-papir."
+    ],
+    "topp3": [
+      "Kokkekamp McTull",
+      "Champ Kokkekampsen",
+      "Sir Kokkekampaldo"
+    ]
+  },
+  {
+    "tullenavn": "Bøttebæringorama",
+    "ektenavn": "Bøttebæring",
+    "beskrivelse": "Den eneste sporten der du belønnes for å bomme med stil.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Bøttebæring McTull",
+      "Champ Bøttebæringsen",
+      "Sir Bøttebæringaldo"
+    ]
+  },
+  {
+    "tullenavn": "Frisbee-golforama",
+    "ektenavn": "Frisbee-golf",
+    "beskrivelse": "Alt handler om innlevelse, dramatikk og evnen til å ignorere tyngdekraften.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Frisbee-golf McTull",
+      "Champ Frisbee-golfsen",
+      "Sir Frisbee-golfaldo"
+    ]
+  },
+  {
+    "tullenavn": "Gå-sakte-løporama",
+    "ektenavn": "Gå-sakte-løp",
+    "beskrivelse": "Ble oppfunnet som unnskyldning for å bruke hjelm og skrike i offentligheten.",
+    "regler": [
+      "Startsignal gis ved at en and kvakker.",
+      "Løypa inneholder tilfeldige hinder og overraskelser.",
+      "Deltakere må bytte sko halvveis.",
+      "Tid registreres, men ignoreres hvis det regner."
+    ],
+    "topp3": [
+      "Gå-sakte-løp McTull",
+      "Champ Gå-sakte-løpsen",
+      "Sir Gå-sakte-løpaldo"
+    ]
+  },
+  {
+    "tullenavn": "Ostepinnespisingorama",
+    "ektenavn": "Ostepinnespising",
+    "beskrivelse": "Denne sporten kombinerer koordinasjon, kaos og kakesmuler.",
+    "regler": [
+      "Deltakere må tygge taktfast i fire takter.",
+      "Bonus for å ikke søle på dommeren.",
+      "Alt må spises med en grillpinne og bind for øynene.",
+      "Vinneren er den med mest smuler på skjorta."
+    ],
+    "topp3": [
+      "Ostepinnespising McTull",
+      "Champ Ostepinnespisingsen",
+      "Sir Ostepinnespisingaldo"
+    ]
+  },
+  {
+    "tullenavn": "Kjepphestdressurorama",
+    "ektenavn": "Kjepphestdressur",
+    "beskrivelse": "Ikke en sport for de med selvrespekt – men desto bedre for publikum.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Kjepphestdressur McTull",
+      "Champ Kjepphestdressursen",
+      "Sir Kjepphestdressuraldo"
+    ]
+  },
+  {
+    "tullenavn": "Sokkesparkingorama",
+    "ektenavn": "Sokkesparking",
+    "beskrivelse": "Gir fullkroppstrening i panikk, prestasjonsangst og latterkrampe.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Sokkesparking McTull",
+      "Champ Sokkesparkingsen",
+      "Sir Sokkesparkingaldo"
+    ]
+  },
+  {
+    "tullenavn": "Ballongboksingorama",
+    "ektenavn": "Ballongboksing",
+    "beskrivelse": "Alt som trengs er vilje, et åpent sinn og null forståelse for grenser.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Ballongboksing McTull",
+      "Champ Ballongboksingsen",
+      "Sir Ballongboksingaldo"
+    ]
+  },
+  {
+    "tullenavn": "Pizzakastingorama",
+    "ektenavn": "Pizzakasting",
+    "beskrivelse": "Ble utviklet i pausen mellom to viktigere idretter og tok over showet.",
+    "regler": [
+      "Kastet må inneholde minst én akrobatisk bevegelse.",
+      "Dommeren gir bonuspoeng for dramatisk ansiktsuttrykk.",
+      "Det er påbudt å rope et slagord idet man kaster.",
+      "Tre kast per deltaker, én må gjøres med bind for øynene."
+    ],
+    "topp3": [
+      "Pizzakasting McTull",
+      "Champ Pizzakastingsen",
+      "Sir Pizzakastingaldo"
+    ]
+  },
+  {
+    "tullenavn": "Melkespannholdingorama",
+    "ektenavn": "Melkespannholding",
+    "beskrivelse": "Folk sier det ikke er ekte sport. Folk tar feil.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Melkespannholding McTull",
+      "Champ Melkespannholdingsen",
+      "Sir Melkespannholdingaldo"
+    ]
+  },
+  {
+    "tullenavn": "Slangetømmingorama",
+    "ektenavn": "Slangetømming",
+    "beskrivelse": "Skaper flere latteranfall enn nasjonaldagen og lønningspils kombinert.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Slangetømming McTull",
+      "Champ Slangetømmingsen",
+      "Sir Slangetømmingaldo"
+    ]
+  },
+  {
+    "tullenavn": "Bordbrettorama",
+    "ektenavn": "Bordbrett",
+    "beskrivelse": "Anbefalt av 4 av 5 klovner med doktorgrad i absurditet.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Bordbrett McTull",
+      "Champ Bordbrettsen",
+      "Sir Bordbrettaldo"
+    ]
+  },
+  {
+    "tullenavn": "Froskehopporama",
+    "ektenavn": "Froskehopp",
+    "beskrivelse": "Ble forbudt i enkelte land etter overdreven bruk av fløyte og fjær.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Froskehopp McTull",
+      "Champ Froskehoppsen",
+      "Sir Froskehoppaldo"
+    ]
+  },
+  {
+    "tullenavn": "Kyllingdansmaratonorama",
+    "ektenavn": "Kyllingdansmaraton",
+    "beskrivelse": "Verdens mest alvorlige useriøse sport, ifølge deltakerne selv.",
+    "regler": [
+      "Stilpoeng gis for kostyme og rytmisk uklarhet.",
+      "Deltakere må fremføre en intro med overbevisning.",
+      "Juryen består av tre surpomper og én discokule.",
+      "Finalen avgjøres ved simultan moonwalk-duell."
+    ],
+    "topp3": [
+      "Kyllingdansmaraton McTull",
+      "Champ Kyllingdansmaratonsen",
+      "Sir Kyllingdansmaratonaldo"
+    ]
+  },
+  {
+    "tullenavn": "Langdistanse-hikkingorama",
+    "ektenavn": "Langdistanse-hikking",
+    "beskrivelse": "Kjent for å skape venner, fiender og diskusjoner ved kjøkkenbordet.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Langdistanse-hikking McTull",
+      "Champ Langdistanse-hikkingsen",
+      "Sir Langdistanse-hikkingaldo"
+    ]
+  },
+  {
+    "tullenavn": "Isfiskestafettorama",
+    "ektenavn": "Isfiskestafett",
+    "beskrivelse": "En sport der strategi og panikk møtes i et dramatisk forsøk på å imponere naboen.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Isfiskestafett McTull",
+      "Champ Isfiskestafettsen",
+      "Sir Isfiskestafettaldo"
+    ]
+  },
+  {
+    "tullenavn": "Kjerringbæringorama",
+    "ektenavn": "Kjerringbæring",
+    "beskrivelse": "Krever mer balanse enn å bære kaffe i trapp med sokker – i motvind.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Kjerringbæring McTull",
+      "Champ Kjerringbæringsen",
+      "Sir Kjerringbæringaldo"
+    ]
+  },
+  {
+    "tullenavn": "Snølyktbyggingorama",
+    "ektenavn": "Snølyktbygging",
+    "beskrivelse": "Utøves primært av folk med lite selvoppholdelsesdrift og mye selvironi.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Snølyktbygging McTull",
+      "Champ Snølyktbyggingsen",
+      "Sir Snølyktbyggingaldo"
+    ]
+  },
+  {
+    "tullenavn": "Teppecurlingorama",
+    "ektenavn": "Teppecurling",
+    "beskrivelse": "Her gjelder regelen: Den som har det gøyest, vinner – uavhengig av resultat.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Teppecurling McTull",
+      "Champ Teppecurlingsen",
+      "Sir Teppecurlingaldo"
+    ]
+  },
+  {
+    "tullenavn": "Isbadingmedstilorama",
+    "ektenavn": "Isbading med stil",
+    "beskrivelse": "Anses som nasjonalidrett i enkelte garasjer og deler av Nord-Østerdalen.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Isbading med stil McTull",
+      "Champ Isbading med stilsen",
+      "Sir Isbading med stilaldo"
+    ]
+  },
+  {
+    "tullenavn": "Moppeakrobatikkorama",
+    "ektenavn": "Moppeakrobatikk",
+    "beskrivelse": "Det er ikke nødvendigvis farlig – men det ser definitivt sånn ut.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Moppeakrobatikk McTull",
+      "Champ Moppeakrobatikksen",
+      "Sir Moppeakrobatikkaldo"
+    ]
+  },
+  {
+    "tullenavn": "Trillebår-raceorama",
+    "ektenavn": "Trillebår-race",
+    "beskrivelse": "Sporten for deg som alltid har lurt på hva som skjer hvis du ikke tenker først.",
+    "regler": [
+      "Startsignal gis ved at en and kvakker.",
+      "Løypa inneholder tilfeldige hinder og overraskelser.",
+      "Deltakere må bytte sko halvveis.",
+      "Tid registreres, men ignoreres hvis det regner."
+    ],
+    "topp3": [
+      "Trillebår-race McTull",
+      "Champ Trillebår-racesen",
+      "Sir Trillebår-racealdo"
+    ]
+  },
+  {
+    "tullenavn": "Vaffelsprettorama",
+    "ektenavn": "Vaffelsprett",
+    "beskrivelse": "Ingen forstår reglene, men alle roper som om de gjør det.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Vaffelsprett McTull",
+      "Champ Vaffelsprettsen",
+      "Sir Vaffelsprettaldo"
+    ]
+  },
+  {
+    "tullenavn": "Papirflykonkurranseorama",
+    "ektenavn": "Papirflykonkurranse",
+    "beskrivelse": "Oppsto ved en feiltakelse, men ble beholdt fordi det var for gøy å avslutte.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Papirflykonkurranse McTull",
+      "Champ Papirflykonkurransesen",
+      "Sir Papirflykonkurransealdo"
+    ]
+  },
+  {
+    "tullenavn": "Plogmesterskaporama",
+    "ektenavn": "Plogmesterskap",
+    "beskrivelse": "Et konkurranseformat så meningsløst at det nesten er poetisk.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Plogmesterskap McTull",
+      "Champ Plogmesterskapsen",
+      "Sir Plogmesterskapaldo"
+    ]
+  },
+  {
+    "tullenavn": "Trommebingoorama",
+    "ektenavn": "Trommebingo",
+    "beskrivelse": "Her kastes kropp, utstyr og skam rett i fellesgropa.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Trommebingo McTull",
+      "Champ Trommebingosen",
+      "Sir Trommebingoaldo"
+    ]
+  },
+  {
+    "tullenavn": "Smultring-hjuletorama",
+    "ektenavn": "Smultring-hjulet",
+    "beskrivelse": "Den eneste sporten der du belønnes for å bomme med stil.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Smultring-hjulet McTull",
+      "Champ Smultring-hjuletsen",
+      "Sir Smultring-hjuletaldo"
+    ]
+  },
+  {
+    "tullenavn": "Sausballorama",
+    "ektenavn": "Sausball",
+    "beskrivelse": "Alt handler om innlevelse, dramatikk og evnen til å ignorere tyngdekraften.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Sausball McTull",
+      "Champ Sausballsen",
+      "Sir Sausballaldo"
+    ]
+  },
+  {
+    "tullenavn": "Fluesmekker-duellorama",
+    "ektenavn": "Fluesmekker-duell",
+    "beskrivelse": "Ble oppfunnet som unnskyldning for å bruke hjelm og skrike i offentligheten.",
+    "regler": [
+      "Første regel: Ikke skrik mer enn dommeren.",
+      "Alle må bruke beskyttelse – inkludert for stolthet.",
+      "Poeng for å overleve latter og forvirring.",
+      "Man kan utfordre en motstander til stein-saks-papir."
+    ],
+    "topp3": [
+      "Fluesmekker-duell McTull",
+      "Champ Fluesmekker-duellsen",
+      "Sir Fluesmekker-duellaldo"
+    ]
+  },
+  {
+    "tullenavn": "Kjeftestafettorama",
+    "ektenavn": "Kjeftestafett",
+    "beskrivelse": "Denne sporten kombinerer koordinasjon, kaos og kakesmuler.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Kjeftestafett McTull",
+      "Champ Kjeftestafettsen",
+      "Sir Kjeftestafettaldo"
+    ]
+  },
+  {
+    "tullenavn": "Siloløftorama",
+    "ektenavn": "Siloløft",
+    "beskrivelse": "Ikke en sport for de med selvrespekt – men desto bedre for publikum.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Siloløft McTull",
+      "Champ Siloløftsen",
+      "Sir Siloløftaldo"
+    ]
+  },
+  {
+    "tullenavn": "Vinkelsliper-dansorama",
+    "ektenavn": "Vinkelsliper-dans",
+    "beskrivelse": "Gir fullkroppstrening i panikk, prestasjonsangst og latterkrampe.",
+    "regler": [
+      "Stilpoeng gis for kostyme og rytmisk uklarhet.",
+      "Deltakere må fremføre en intro med overbevisning.",
+      "Juryen består av tre surpomper og én discokule.",
+      "Finalen avgjøres ved simultan moonwalk-duell."
+    ],
+    "topp3": [
+      "Vinkelsliper-dans McTull",
+      "Champ Vinkelsliper-danssen",
+      "Sir Vinkelsliper-dansaldo"
+    ]
+  },
+  {
+    "tullenavn": "Traktor-dragorama",
+    "ektenavn": "Traktor-drag",
+    "beskrivelse": "Alt som trengs er vilje, et åpent sinn og null forståelse for grenser.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Traktor-drag McTull",
+      "Champ Traktor-dragsen",
+      "Sir Traktor-dragaldo"
+    ]
+  },
+  {
+    "tullenavn": "Kålrullcurlingorama",
+    "ektenavn": "Kålrullcurling",
+    "beskrivelse": "Ble utviklet i pausen mellom to viktigere idretter og tok over showet.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Kålrullcurling McTull",
+      "Champ Kålrullcurlingsen",
+      "Sir Kålrullcurlingaldo"
+    ]
+  },
+  {
+    "tullenavn": "Katteskippertakorama",
+    "ektenavn": "Katteskippertak",
+    "beskrivelse": "Folk sier det ikke er ekte sport. Folk tar feil.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Katteskippertak McTull",
+      "Champ Katteskippertaksen",
+      "Sir Katteskippertakaldo"
+    ]
+  },
+  {
+    "tullenavn": "Tannpirkingpåtidorama",
+    "ektenavn": "Tannpirking på tid",
+    "beskrivelse": "Skaper flere latteranfall enn nasjonaldagen og lønningspils kombinert.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Tannpirking på tid McTull",
+      "Champ Tannpirking på tidsen",
+      "Sir Tannpirking på tidaldo"
+    ]
+  },
+  {
+    "tullenavn": "Klesklypekrigorama",
+    "ektenavn": "Klesklypekrig",
+    "beskrivelse": "Anbefalt av 4 av 5 klovner med doktorgrad i absurditet.",
+    "regler": [
+      "Første regel: Ikke skrik mer enn dommeren.",
+      "Alle må bruke beskyttelse – inkludert for stolthet.",
+      "Poeng for å overleve latter og forvirring.",
+      "Man kan utfordre en motstander til stein-saks-papir."
+    ],
+    "topp3": [
+      "Klesklypekrig McTull",
+      "Champ Klesklypekrigsen",
+      "Sir Klesklypekrigaldo"
+    ]
+  },
+  {
+    "tullenavn": "Gulvvaskduellorama",
+    "ektenavn": "Gulvvaskduell",
+    "beskrivelse": "Ble forbudt i enkelte land etter overdreven bruk av fløyte og fjær.",
+    "regler": [
+      "Første regel: Ikke skrik mer enn dommeren.",
+      "Alle må bruke beskyttelse – inkludert for stolthet.",
+      "Poeng for å overleve latter og forvirring.",
+      "Man kan utfordre en motstander til stein-saks-papir."
+    ],
+    "topp3": [
+      "Gulvvaskduell McTull",
+      "Champ Gulvvaskduellsen",
+      "Sir Gulvvaskduellaldo"
+    ]
+  },
+  {
+    "tullenavn": "Plastpose-roingorama",
+    "ektenavn": "Plastpose-roing",
+    "beskrivelse": "Verdens mest alvorlige useriøse sport, ifølge deltakerne selv.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Plastpose-roing McTull",
+      "Champ Plastpose-roingsen",
+      "Sir Plastpose-roingaldo"
+    ]
+  },
+  {
+    "tullenavn": "Marihøneløporama",
+    "ektenavn": "Marihøneløp",
+    "beskrivelse": "Kjent for å skape venner, fiender og diskusjoner ved kjøkkenbordet.",
+    "regler": [
+      "Startsignal gis ved at en and kvakker.",
+      "Løypa inneholder tilfeldige hinder og overraskelser.",
+      "Deltakere må bytte sko halvveis.",
+      "Tid registreres, men ignoreres hvis det regner."
+    ],
+    "topp3": [
+      "Marihøneløp McTull",
+      "Champ Marihøneløpsen",
+      "Sir Marihøneløpaldo"
+    ]
+  },
+  {
+    "tullenavn": "Tannbørsteteknikkorama",
+    "ektenavn": "Tannbørsteteknikk",
+    "beskrivelse": "En sport der strategi og panikk møtes i et dramatisk forsøk på å imponere naboen.",
+    "regler": [
+      "Utføres best med sko på feil fot.",
+      "Deltakere må synge egen nasjonalsang underveis.",
+      "Alt noteres i blyant på et vått papir.",
+      "Dommeren bestemmer utfallet basert på magefølelse."
+    ],
+    "topp3": [
+      "Tannbørsteteknikk McTull",
+      "Champ Tannbørsteteknikksen",
+      "Sir Tannbørsteteknikkaldo"
+    ]
+  }
+]

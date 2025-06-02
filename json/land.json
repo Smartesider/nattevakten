@@ -1,0 +1,1249 @@
+{
+  "land": [
+    {
+      "tullenavn": "Arubafjella",
+      "ektenavn": "Aruba",
+      "beskrivelse": "Et land der kyr har diplomatisk immunitet og nasjonaldagen feires med vafler og motbakkeløp."
+    },
+    {
+      "tullenavn": "Afghanistanbyen",
+      "ektenavn": "Afghanistan",
+      "beskrivelse": "Verdenskjent for å ha verdens største samling av ting som ikke virker, og en nasjonalsang skrevet på rim av en geit."
+    },
+    {
+      "tullenavn": "Angoladalen",
+      "ektenavn": "Angola",
+      "beskrivelse": "Et sted der postkontorene går fortere enn internett, og lokalbefolkningen diskuterer politikk med papegøyer."
+    },
+    {
+      "tullenavn": "Anguillariket",
+      "ektenavn": "Anguilla",
+      "beskrivelse": "Kjent for å eksportere tåke, importere sol og ha statsminister med egen trekkspill-duo."
+    },
+    {
+      "tullenavn": "Ålandlandet",
+      "ektenavn": "Åland Islands",
+      "beskrivelse": "Her er nasjonalretten en pannekake med passord, og folk hilser hverandre med sykkelklokke."
+    },
+    {
+      "tullenavn": "Albaniatoppen",
+      "ektenavn": "Albania",
+      "beskrivelse": "Landet som glemte hva klokken var og derfor innførte seks tidssoner – i én landsby."
+    },
+    {
+      "tullenavn": "Andorralandet",
+      "ektenavn": "Andorra",
+      "beskrivelse": "Hvor statsbudsjettet presenteres med skyggespill og regjeringskrisen løses i tautrekking."
+    },
+    {
+      "tullenavn": "Unitedlandet",
+      "ektenavn": "United Arab Emirates",
+      "beskrivelse": "Landet der hver innbygger har sitt eget flagg, og nasjonalsporten er å overse trafikkregler med stil."
+    },
+    {
+      "tullenavn": "Biffgaucho",
+      "ektenavn": "Argentina",
+      "beskrivelse": "Eksportør av rare hatter og verdensledende på diplomati via brevdue."
+    },
+    {
+      "tullenavn": "Armeniafjella",
+      "ektenavn": "Armenia",
+      "beskrivelse": "Befolkningen sverger til isbading, varm sjokolade og politiske debatter i bastu."
+    },
+    {
+      "tullenavn": "Americanlandet",
+      "ektenavn": "American Samoa",
+      "beskrivelse": "Et land der kyr har diplomatisk immunitet og nasjonaldagen feires med vafler og motbakkeløp."
+    },
+    {
+      "tullenavn": "Antarcticatoppen",
+      "ektenavn": "Antarctica",
+      "beskrivelse": "Verdenskjent for å ha verdens største samling av ting som ikke virker, og en nasjonalsang skrevet på rim av en geit."
+    },
+    {
+      "tullenavn": "Frenchbyen",
+      "ektenavn": "French Southern Territories",
+      "beskrivelse": "Et sted der postkontorene går fortere enn internett, og lokalbefolkningen diskuterer politikk med papegøyer."
+    },
+    {
+      "tullenavn": "Antiguagløtt",
+      "ektenavn": "Antigua and Barbuda",
+      "beskrivelse": "Kjent for å eksportere tåke, importere sol og ha statsminister med egen trekkspill-duo."
+    },
+    {
+      "tullenavn": "Kenguruland",
+      "ektenavn": "Australia",
+      "beskrivelse": "Her er nasjonalretten en pannekake med passord, og folk hilser hverandre med sykkelklokke."
+    },
+    {
+      "tullenavn": "Austrialandet",
+      "ektenavn": "Austria",
+      "beskrivelse": "Landet som glemte hva klokken var og derfor innførte seks tidssoner – i én landsby."
+    },
+    {
+      "tullenavn": "Azerbaijanstan",
+      "ektenavn": "Azerbaijan",
+      "beskrivelse": "Hvor statsbudsjettet presenteres med skyggespill og regjeringskrisen løses i tautrekking."
+    },
+    {
+      "tullenavn": "Burundigløtt",
+      "ektenavn": "Burundi",
+      "beskrivelse": "Landet der hver innbygger har sitt eget flagg, og nasjonalsporten er å overse trafikkregler med stil."
+    },
+    {
+      "tullenavn": "Belgiumbyen",
+      "ektenavn": "Belgium",
+      "beskrivelse": "Eksportør av rare hatter og verdensledende på diplomati via brevdue."
+    },
+    {
+      "tullenavn": "Benintoppen",
+      "ektenavn": "Benin",
+      "beskrivelse": "Befolkningen sverger til isbading, varm sjokolade og politiske debatter i bastu."
+    },
+    {
+      "tullenavn": "Bonaire,lia",
+      "ektenavn": "Bonaire, Sint Eustatius and Saba",
+      "beskrivelse": "Et land der kyr har diplomatisk immunitet og nasjonaldagen feires med vafler og motbakkeløp."
+    },
+    {
+      "tullenavn": "Burkinaheimen",
+      "ektenavn": "Burkina Faso",
+      "beskrivelse": "Verdenskjent for å ha verdens største samling av ting som ikke virker, og en nasjonalsang skrevet på rim av en geit."
+    },
+    {
+      "tullenavn": "Bangladeshgløtt",
+      "ektenavn": "Bangladesh",
+      "beskrivelse": "Et sted der postkontorene går fortere enn internett, og lokalbefolkningen diskuterer politikk med papegøyer."
+    },
+    {
+      "tullenavn": "Bulgariafjella",
+      "ektenavn": "Bulgaria",
+      "beskrivelse": "Kjent for å eksportere tåke, importere sol og ha statsminister med egen trekkspill-duo."
+    },
+    {
+      "tullenavn": "Bahrainheimen",
+      "ektenavn": "Bahrain",
+      "beskrivelse": "Her er nasjonalretten en pannekake med passord, og folk hilser hverandre med sykkelklokke."
+    },
+    {
+      "tullenavn": "Bahamastoppen",
+      "ektenavn": "Bahamas",
+      "beskrivelse": "Landet som glemte hva klokken var og derfor innførte seks tidssoner – i én landsby."
+    },
+    {
+      "tullenavn": "Bosnialandet",
+      "ektenavn": "Bosnia and Herzegovina",
+      "beskrivelse": "Hvor statsbudsjettet presenteres med skyggespill og regjeringskrisen løses i tautrekking."
+    },
+    {
+      "tullenavn": "Saintdalen",
+      "ektenavn": "Saint Barthélemy",
+      "beskrivelse": "Landet der hver innbygger har sitt eget flagg, og nasjonalsporten er å overse trafikkregler med stil."
+    },
+    {
+      "tullenavn": "Belarusheimen",
+      "ektenavn": "Belarus",
+      "beskrivelse": "Eksportør av rare hatter og verdensledende på diplomati via brevdue."
+    },
+    {
+      "tullenavn": "Belizeheimen",
+      "ektenavn": "Belize",
+      "beskrivelse": "Befolkningen sverger til isbading, varm sjokolade og politiske debatter i bastu."
+    },
+    {
+      "tullenavn": "Bermudalia",
+      "ektenavn": "Bermuda",
+      "beskrivelse": "Et land der kyr har diplomatisk immunitet og nasjonaldagen feires med vafler og motbakkeløp."
+    },
+    {
+      "tullenavn": "Bolivia,gløtt",
+      "ektenavn": "Bolivia, Plurinational State of",
+      "beskrivelse": "Verdenskjent for å ha verdens største samling av ting som ikke virker, og en nasjonalsang skrevet på rim av en geit."
+    },
+    {
+      "tullenavn": "Sambasvingen",
+      "ektenavn": "Brazil",
+      "beskrivelse": "Et sted der postkontorene går fortere enn internett, og lokalbefolkningen diskuterer politikk med papegøyer."
+    },
+    {
+      "tullenavn": "Barbadoslia",
+      "ektenavn": "Barbados",
+      "beskrivelse": "Kjent for å eksportere tåke, importere sol og ha statsminister med egen trekkspill-duo."
+    },
+    {
+      "tullenavn": "Bruneitoppen",
+      "ektenavn": "Brunei Darussalam",
+      "beskrivelse": "Her er nasjonalretten en pannekake med passord, og folk hilser hverandre med sykkelklokke."
+    },
+    {
+      "tullenavn": "Bhutanheimen",
+      "ektenavn": "Bhutan",
+      "beskrivelse": "Landet som glemte hva klokken var og derfor innførte seks tidssoner – i én landsby."
+    },
+    {
+      "tullenavn": "Bouvetheimen",
+      "ektenavn": "Bouvet Island",
+      "beskrivelse": "Hvor statsbudsjettet presenteres med skyggespill og regjeringskrisen løses i tautrekking."
+    },
+    {
+      "tullenavn": "Botswanagløtt",
+      "ektenavn": "Botswana",
+      "beskrivelse": "Landet der hver innbygger har sitt eget flagg, og nasjonalsporten er å overse trafikkregler med stil."
+    },
+    {
+      "tullenavn": "Centrallia",
+      "ektenavn": "Central African Republic",
+      "beskrivelse": "Eksportør av rare hatter og verdensledende på diplomati via brevdue."
+    },
+    {
+      "tullenavn": "Lønnløvetoppen",
+      "ektenavn": "Canada",
+      "beskrivelse": "Befolkningen sverger til isbading, varm sjokolade og politiske debatter i bastu."
+    },
+    {
+      "tullenavn": "Cocostoppen",
+      "ektenavn": "Cocos (Keeling) Islands",
+      "beskrivelse": "Et land der kyr har diplomatisk immunitet og nasjonaldagen feires med vafler og motbakkeløp."
+    },
+    {
+      "tullenavn": "Alpeosten",
+      "ektenavn": "Switzerland",
+      "beskrivelse": "Verdenskjent for å ha verdens største samling av ting som ikke virker, og en nasjonalsang skrevet på rim av en geit."
+    },
+    {
+      "tullenavn": "Chilestan",
+      "ektenavn": "Chile",
+      "beskrivelse": "Et sted der postkontorene går fortere enn internett, og lokalbefolkningen diskuterer politikk med papegøyer."
+    },
+    {
+      "tullenavn": "Dragebyen",
+      "ektenavn": "China",
+      "beskrivelse": "Kjent for å eksportere tåke, importere sol og ha statsminister med egen trekkspill-duo."
+    },
+    {
+      "tullenavn": "Côtetoppen",
+      "ektenavn": "Côte d'Ivoire",
+      "beskrivelse": "Her er nasjonalretten en pannekake med passord, og folk hilser hverandre med sykkelklokke."
+    },
+    {
+      "tullenavn": "Cameroondalen",
+      "ektenavn": "Cameroon",
+      "beskrivelse": "Landet som glemte hva klokken var og derfor innførte seks tidssoner – i én landsby."
+    },
+    {
+      "tullenavn": "Congo,landet",
+      "ektenavn": "Congo, The Democratic Republic of the",
+      "beskrivelse": "Hvor statsbudsjettet presenteres med skyggespill og regjeringskrisen løses i tautrekking."
+    },
+    {
+      "tullenavn": "Congostan",
+      "ektenavn": "Congo",
+      "beskrivelse": "Landet der hver innbygger har sitt eget flagg, og nasjonalsporten er å overse trafikkregler med stil."
+    },
+    {
+      "tullenavn": "Cookstan",
+      "ektenavn": "Cook Islands",
+      "beskrivelse": "Eksportør av rare hatter og verdensledende på diplomati via brevdue."
+    },
+    {
+      "tullenavn": "Colombiastan",
+      "ektenavn": "Colombia",
+      "beskrivelse": "Befolkningen sverger til isbading, varm sjokolade og politiske debatter i bastu."
+    },
+    {
+      "tullenavn": "Comoroslandet",
+      "ektenavn": "Comoros",
+      "beskrivelse": "Et land der kyr har diplomatisk immunitet og nasjonaldagen feires med vafler og motbakkeløp."
+    },
+    {
+      "tullenavn": "Cabolandet",
+      "ektenavn": "Cabo Verde",
+      "beskrivelse": "Verdenskjent for å ha verdens største samling av ting som ikke virker, og en nasjonalsang skrevet på rim av en geit."
+    },
+    {
+      "tullenavn": "Costalandet",
+      "ektenavn": "Costa Rica",
+      "beskrivelse": "Et sted der postkontorene går fortere enn internett, og lokalbefolkningen diskuterer politikk med papegøyer."
+    },
+    {
+      "tullenavn": "Cubafjella",
+      "ektenavn": "Cuba",
+      "beskrivelse": "Kjent for å eksportere tåke, importere sol og ha statsminister med egen trekkspill-duo."
+    },
+    {
+      "tullenavn": "Curaçaodalen",
+      "ektenavn": "Curaçao",
+      "beskrivelse": "Her er nasjonalretten en pannekake med passord, og folk hilser hverandre med sykkelklokke."
+    },
+    {
+      "tullenavn": "Christmasstan",
+      "ektenavn": "Christmas Island",
+      "beskrivelse": "Landet som glemte hva klokken var og derfor innførte seks tidssoner – i én landsby."
+    },
+    {
+      "tullenavn": "Caymandalen",
+      "ektenavn": "Cayman Islands",
+      "beskrivelse": "Hvor statsbudsjettet presenteres med skyggespill og regjeringskrisen løses i tautrekking."
+    },
+    {
+      "tullenavn": "Cyprusfjella",
+      "ektenavn": "Cyprus",
+      "beskrivelse": "Landet der hver innbygger har sitt eget flagg, og nasjonalsporten er å overse trafikkregler med stil."
+    },
+    {
+      "tullenavn": "Czechiafjella",
+      "ektenavn": "Czechia",
+      "beskrivelse": "Eksportør av rare hatter og verdensledende på diplomati via brevdue."
+    },
+    {
+      "tullenavn": "Ølhausen",
+      "ektenavn": "Germany",
+      "beskrivelse": "Befolkningen sverger til isbading, varm sjokolade og politiske debatter i bastu."
+    },
+    {
+      "tullenavn": "Djiboutilia",
+      "ektenavn": "Djibouti",
+      "beskrivelse": "Et land der kyr har diplomatisk immunitet og nasjonaldagen feires med vafler og motbakkeløp."
+    },
+    {
+      "tullenavn": "Dominicaheimen",
+      "ektenavn": "Dominica",
+      "beskrivelse": "Verdenskjent for å ha verdens største samling av ting som ikke virker, og en nasjonalsang skrevet på rim av en geit."
+    },
+    {
+      "tullenavn": "Smørbrødbakken",
+      "ektenavn": "Denmark",
+      "beskrivelse": "Et sted der postkontorene går fortere enn internett, og lokalbefolkningen diskuterer politikk med papegøyer."
+    },
+    {
+      "tullenavn": "Dominicanheimen",
+      "ektenavn": "Dominican Republic",
+      "beskrivelse": "Kjent for å eksportere tåke, importere sol og ha statsminister med egen trekkspill-duo."
+    },
+    {
+      "tullenavn": "Algeriadalen",
+      "ektenavn": "Algeria",
+      "beskrivelse": "Her er nasjonalretten en pannekake med passord, og folk hilser hverandre med sykkelklokke."
+    },
+    {
+      "tullenavn": "Ecuadorfjella",
+      "ektenavn": "Ecuador",
+      "beskrivelse": "Landet som glemte hva klokken var og derfor innførte seks tidssoner – i én landsby."
+    },
+    {
+      "tullenavn": "Egyptlia",
+      "ektenavn": "Egypt",
+      "beskrivelse": "Hvor statsbudsjettet presenteres med skyggespill og regjeringskrisen løses i tautrekking."
+    },
+    {
+      "tullenavn": "Eritreatoppen",
+      "ektenavn": "Eritrea",
+      "beskrivelse": "Landet der hver innbygger har sitt eget flagg, og nasjonalsporten er å overse trafikkregler med stil."
+    },
+    {
+      "tullenavn": "Westernriket",
+      "ektenavn": "Western Sahara",
+      "beskrivelse": "Eksportør av rare hatter og verdensledende på diplomati via brevdue."
+    },
+    {
+      "tullenavn": "Solskrik",
+      "ektenavn": "Spain",
+      "beskrivelse": "Befolkningen sverger til isbading, varm sjokolade og politiske debatter i bastu."
+    },
+    {
+      "tullenavn": "Estoniariket",
+      "ektenavn": "Estonia",
+      "beskrivelse": "Et land der kyr har diplomatisk immunitet og nasjonaldagen feires med vafler og motbakkeløp."
+    },
+    {
+      "tullenavn": "Ethiopiaheimen",
+      "ektenavn": "Ethiopia",
+      "beskrivelse": "Verdenskjent for å ha verdens største samling av ting som ikke virker, og en nasjonalsang skrevet på rim av en geit."
+    },
+    {
+      "tullenavn": "Saunalandet",
+      "ektenavn": "Finland",
+      "beskrivelse": "Et sted der postkontorene går fortere enn internett, og lokalbefolkningen diskuterer politikk med papegøyer."
+    },
+    {
+      "tullenavn": "Fijitoppen",
+      "ektenavn": "Fiji",
+      "beskrivelse": "Kjent for å eksportere tåke, importere sol og ha statsminister med egen trekkspill-duo."
+    },
+    {
+      "tullenavn": "Falklandfjella",
+      "ektenavn": "Falkland Islands (Malvinas)",
+      "beskrivelse": "Her er nasjonalretten en pannekake med passord, og folk hilser hverandre med sykkelklokke."
+    },
+    {
+      "tullenavn": "EifelVin",
+      "ektenavn": "France",
+      "beskrivelse": "Landet som glemte hva klokken var og derfor innførte seks tidssoner – i én landsby."
+    },
+    {
+      "tullenavn": "Faroefjella",
+      "ektenavn": "Faroe Islands",
+      "beskrivelse": "Hvor statsbudsjettet presenteres med skyggespill og regjeringskrisen løses i tautrekking."
+    },
+    {
+      "tullenavn": "Micronesia,stan",
+      "ektenavn": "Micronesia, Federated States of",
+      "beskrivelse": "Landet der hver innbygger har sitt eget flagg, og nasjonalsporten er å overse trafikkregler med stil."
+    },
+    {
+      "tullenavn": "Gabondalen",
+      "ektenavn": "Gabon",
+      "beskrivelse": "Eksportør av rare hatter og verdensledende på diplomati via brevdue."
+    },
+    {
+      "tullenavn": "Teskyene",
+      "ektenavn": "United Kingdom",
+      "beskrivelse": "Befolkningen sverger til isbading, varm sjokolade og politiske debatter i bastu."
+    },
+    {
+      "tullenavn": "Georgiaheimen",
+      "ektenavn": "Georgia",
+      "beskrivelse": "Et land der kyr har diplomatisk immunitet og nasjonaldagen feires med vafler og motbakkeløp."
+    },
+    {
+      "tullenavn": "Guernseyriket",
+      "ektenavn": "Guernsey",
+      "beskrivelse": "Verdenskjent for å ha verdens største samling av ting som ikke virker, og en nasjonalsang skrevet på rim av en geit."
+    },
+    {
+      "tullenavn": "Ghanalia",
+      "ektenavn": "Ghana",
+      "beskrivelse": "Et sted der postkontorene går fortere enn internett, og lokalbefolkningen diskuterer politikk med papegøyer."
+    },
+    {
+      "tullenavn": "Gibraltardalen",
+      "ektenavn": "Gibraltar",
+      "beskrivelse": "Kjent for å eksportere tåke, importere sol og ha statsminister med egen trekkspill-duo."
+    },
+    {
+      "tullenavn": "Guineariket",
+      "ektenavn": "Guinea",
+      "beskrivelse": "Her er nasjonalretten en pannekake med passord, og folk hilser hverandre med sykkelklokke."
+    },
+    {
+      "tullenavn": "Guadeloupestan",
+      "ektenavn": "Guadeloupe",
+      "beskrivelse": "Landet som glemte hva klokken var og derfor innførte seks tidssoner – i én landsby."
+    },
+    {
+      "tullenavn": "Gambialia",
+      "ektenavn": "Gambia",
+      "beskrivelse": "Hvor statsbudsjettet presenteres med skyggespill og regjeringskrisen løses i tautrekking."
+    },
+    {
+      "tullenavn": "Guinea-Bissaulia",
+      "ektenavn": "Guinea-Bissau",
+      "beskrivelse": "Landet der hver innbygger har sitt eget flagg, og nasjonalsporten er å overse trafikkregler med stil."
+    },
+    {
+      "tullenavn": "Equatorialfjella",
+      "ektenavn": "Equatorial Guinea",
+      "beskrivelse": "Eksportør av rare hatter og verdensledende på diplomati via brevdue."
+    },
+    {
+      "tullenavn": "Zorbaland",
+      "ektenavn": "Greece",
+      "beskrivelse": "Befolkningen sverger til isbading, varm sjokolade og politiske debatter i bastu."
+    },
+    {
+      "tullenavn": "Grenadalia",
+      "ektenavn": "Grenada",
+      "beskrivelse": "Et land der kyr har diplomatisk immunitet og nasjonaldagen feires med vafler og motbakkeløp."
+    },
+    {
+      "tullenavn": "Greenlandlia",
+      "ektenavn": "Greenland",
+      "beskrivelse": "Verdenskjent for å ha verdens største samling av ting som ikke virker, og en nasjonalsang skrevet på rim av en geit."
+    },
+    {
+      "tullenavn": "Guatemalagløtt",
+      "ektenavn": "Guatemala",
+      "beskrivelse": "Et sted der postkontorene går fortere enn internett, og lokalbefolkningen diskuterer politikk med papegøyer."
+    },
+    {
+      "tullenavn": "Frenchbyen",
+      "ektenavn": "French Guiana",
+      "beskrivelse": "Kjent for å eksportere tåke, importere sol og ha statsminister med egen trekkspill-duo."
+    },
+    {
+      "tullenavn": "Guambyen",
+      "ektenavn": "Guam",
+      "beskrivelse": "Her er nasjonalretten en pannekake med passord, og folk hilser hverandre med sykkelklokke."
+    },
+    {
+      "tullenavn": "Guyanabyen",
+      "ektenavn": "Guyana",
+      "beskrivelse": "Landet som glemte hva klokken var og derfor innførte seks tidssoner – i én landsby."
+    },
+    {
+      "tullenavn": "Hongstan",
+      "ektenavn": "Hong Kong",
+      "beskrivelse": "Hvor statsbudsjettet presenteres med skyggespill og regjeringskrisen løses i tautrekking."
+    },
+    {
+      "tullenavn": "Heardlandet",
+      "ektenavn": "Heard Island and McDonald Islands",
+      "beskrivelse": "Landet der hver innbygger har sitt eget flagg, og nasjonalsporten er å overse trafikkregler med stil."
+    },
+    {
+      "tullenavn": "Hondurasbyen",
+      "ektenavn": "Honduras",
+      "beskrivelse": "Eksportør av rare hatter og verdensledende på diplomati via brevdue."
+    },
+    {
+      "tullenavn": "Croatiagløtt",
+      "ektenavn": "Croatia",
+      "beskrivelse": "Befolkningen sverger til isbading, varm sjokolade og politiske debatter i bastu."
+    },
+    {
+      "tullenavn": "Haitifjella",
+      "ektenavn": "Haiti",
+      "beskrivelse": "Et land der kyr har diplomatisk immunitet og nasjonaldagen feires med vafler og motbakkeløp."
+    },
+    {
+      "tullenavn": "Hungaryfjella",
+      "ektenavn": "Hungary",
+      "beskrivelse": "Verdenskjent for å ha verdens største samling av ting som ikke virker, og en nasjonalsang skrevet på rim av en geit."
+    },
+    {
+      "tullenavn": "Indonesiafjella",
+      "ektenavn": "Indonesia",
+      "beskrivelse": "Et sted der postkontorene går fortere enn internett, og lokalbefolkningen diskuterer politikk med papegøyer."
+    },
+    {
+      "tullenavn": "Islelandet",
+      "ektenavn": "Isle of Man",
+      "beskrivelse": "Kjent for å eksportere tåke, importere sol og ha statsminister med egen trekkspill-duo."
+    },
+    {
+      "tullenavn": "Krydderlandet",
+      "ektenavn": "India",
+      "beskrivelse": "Her er nasjonalretten en pannekake med passord, og folk hilser hverandre med sykkelklokke."
+    },
+    {
+      "tullenavn": "Britishbyen",
+      "ektenavn": "British Indian Ocean Territory",
+      "beskrivelse": "Landet som glemte hva klokken var og derfor innførte seks tidssoner – i én landsby."
+    },
+    {
+      "tullenavn": "Irelandstan",
+      "ektenavn": "Ireland",
+      "beskrivelse": "Hvor statsbudsjettet presenteres med skyggespill og regjeringskrisen løses i tautrekking."
+    },
+    {
+      "tullenavn": "Iran,lia",
+      "ektenavn": "Iran, Islamic Republic of",
+      "beskrivelse": "Landet der hver innbygger har sitt eget flagg, og nasjonalsporten er å overse trafikkregler med stil."
+    },
+    {
+      "tullenavn": "Iraqtoppen",
+      "ektenavn": "Iraq",
+      "beskrivelse": "Eksportør av rare hatter og verdensledende på diplomati via brevdue."
+    },
+    {
+      "tullenavn": "Icelanddalen",
+      "ektenavn": "Iceland",
+      "beskrivelse": "Befolkningen sverger til isbading, varm sjokolade og politiske debatter i bastu."
+    },
+    {
+      "tullenavn": "Israeltoppen",
+      "ektenavn": "Israel",
+      "beskrivelse": "Et land der kyr har diplomatisk immunitet og nasjonaldagen feires med vafler og motbakkeløp."
+    },
+    {
+      "tullenavn": "Pastavilla",
+      "ektenavn": "Italy",
+      "beskrivelse": "Verdenskjent for å ha verdens største samling av ting som ikke virker, og en nasjonalsang skrevet på rim av en geit."
+    },
+    {
+      "tullenavn": "Jamaicalandet",
+      "ektenavn": "Jamaica",
+      "beskrivelse": "Et sted der postkontorene går fortere enn internett, og lokalbefolkningen diskuterer politikk med papegøyer."
+    },
+    {
+      "tullenavn": "Jerseylandet",
+      "ektenavn": "Jersey",
+      "beskrivelse": "Kjent for å eksportere tåke, importere sol og ha statsminister med egen trekkspill-duo."
+    },
+    {
+      "tullenavn": "Jordanstan",
+      "ektenavn": "Jordan",
+      "beskrivelse": "Her er nasjonalretten en pannekake med passord, og folk hilser hverandre med sykkelklokke."
+    },
+    {
+      "tullenavn": "Sushilandet",
+      "ektenavn": "Japan",
+      "beskrivelse": "Landet som glemte hva klokken var og derfor innførte seks tidssoner – i én landsby."
+    },
+    {
+      "tullenavn": "Kazakhstanfjella",
+      "ektenavn": "Kazakhstan",
+      "beskrivelse": "Hvor statsbudsjettet presenteres med skyggespill og regjeringskrisen løses i tautrekking."
+    },
+    {
+      "tullenavn": "Kenyafjella",
+      "ektenavn": "Kenya",
+      "beskrivelse": "Landet der hver innbygger har sitt eget flagg, og nasjonalsporten er å overse trafikkregler med stil."
+    },
+    {
+      "tullenavn": "Kyrgyzstanriket",
+      "ektenavn": "Kyrgyzstan",
+      "beskrivelse": "Eksportør av rare hatter og verdensledende på diplomati via brevdue."
+    },
+    {
+      "tullenavn": "Cambodiabyen",
+      "ektenavn": "Cambodia",
+      "beskrivelse": "Befolkningen sverger til isbading, varm sjokolade og politiske debatter i bastu."
+    },
+    {
+      "tullenavn": "Kiribatistan",
+      "ektenavn": "Kiribati",
+      "beskrivelse": "Et land der kyr har diplomatisk immunitet og nasjonaldagen feires med vafler og motbakkeløp."
+    },
+    {
+      "tullenavn": "Saintheimen",
+      "ektenavn": "Saint Kitts and Nevis",
+      "beskrivelse": "Verdenskjent for å ha verdens største samling av ting som ikke virker, og en nasjonalsang skrevet på rim av en geit."
+    },
+    {
+      "tullenavn": "Korea,byen",
+      "ektenavn": "Korea, Republic of",
+      "beskrivelse": "Et sted der postkontorene går fortere enn internett, og lokalbefolkningen diskuterer politikk med papegøyer."
+    },
+    {
+      "tullenavn": "Kuwaitlandet",
+      "ektenavn": "Kuwait",
+      "beskrivelse": "Kjent for å eksportere tåke, importere sol og ha statsminister med egen trekkspill-duo."
+    },
+    {
+      "tullenavn": "Laofjella",
+      "ektenavn": "Lao People's Democratic Republic",
+      "beskrivelse": "Her er nasjonalretten en pannekake med passord, og folk hilser hverandre med sykkelklokke."
+    },
+    {
+      "tullenavn": "Lebanonheimen",
+      "ektenavn": "Lebanon",
+      "beskrivelse": "Landet som glemte hva klokken var og derfor innførte seks tidssoner – i én landsby."
+    },
+    {
+      "tullenavn": "Liberialia",
+      "ektenavn": "Liberia",
+      "beskrivelse": "Hvor statsbudsjettet presenteres med skyggespill og regjeringskrisen løses i tautrekking."
+    },
+    {
+      "tullenavn": "Libyastan",
+      "ektenavn": "Libya",
+      "beskrivelse": "Landet der hver innbygger har sitt eget flagg, og nasjonalsporten er å overse trafikkregler med stil."
+    },
+    {
+      "tullenavn": "Saintriket",
+      "ektenavn": "Saint Lucia",
+      "beskrivelse": "Eksportør av rare hatter og verdensledende på diplomati via brevdue."
+    },
+    {
+      "tullenavn": "Liechtensteinlia",
+      "ektenavn": "Liechtenstein",
+      "beskrivelse": "Befolkningen sverger til isbading, varm sjokolade og politiske debatter i bastu."
+    },
+    {
+      "tullenavn": "Sristan",
+      "ektenavn": "Sri Lanka",
+      "beskrivelse": "Et land der kyr har diplomatisk immunitet og nasjonaldagen feires med vafler og motbakkeløp."
+    },
+    {
+      "tullenavn": "Lesothotoppen",
+      "ektenavn": "Lesotho",
+      "beskrivelse": "Verdenskjent for å ha verdens største samling av ting som ikke virker, og en nasjonalsang skrevet på rim av en geit."
+    },
+    {
+      "tullenavn": "Lithuaniadalen",
+      "ektenavn": "Lithuania",
+      "beskrivelse": "Et sted der postkontorene går fortere enn internett, og lokalbefolkningen diskuterer politikk med papegøyer."
+    },
+    {
+      "tullenavn": "Luxembourgstan",
+      "ektenavn": "Luxembourg",
+      "beskrivelse": "Kjent for å eksportere tåke, importere sol og ha statsminister med egen trekkspill-duo."
+    },
+    {
+      "tullenavn": "Latviabyen",
+      "ektenavn": "Latvia",
+      "beskrivelse": "Her er nasjonalretten en pannekake med passord, og folk hilser hverandre med sykkelklokke."
+    },
+    {
+      "tullenavn": "Macaoriket",
+      "ektenavn": "Macao",
+      "beskrivelse": "Landet som glemte hva klokken var og derfor innførte seks tidssoner – i én landsby."
+    },
+    {
+      "tullenavn": "Saintheimen",
+      "ektenavn": "Saint Martin (French part)",
+      "beskrivelse": "Hvor statsbudsjettet presenteres med skyggespill og regjeringskrisen løses i tautrekking."
+    },
+    {
+      "tullenavn": "Moroccoheimen",
+      "ektenavn": "Morocco",
+      "beskrivelse": "Landet der hver innbygger har sitt eget flagg, og nasjonalsporten er å overse trafikkregler med stil."
+    },
+    {
+      "tullenavn": "Monacolia",
+      "ektenavn": "Monaco",
+      "beskrivelse": "Eksportør av rare hatter og verdensledende på diplomati via brevdue."
+    },
+    {
+      "tullenavn": "Moldova,landet",
+      "ektenavn": "Moldova, Republic of",
+      "beskrivelse": "Befolkningen sverger til isbading, varm sjokolade og politiske debatter i bastu."
+    },
+    {
+      "tullenavn": "Madagascarstan",
+      "ektenavn": "Madagascar",
+      "beskrivelse": "Et land der kyr har diplomatisk immunitet og nasjonaldagen feires med vafler og motbakkeløp."
+    },
+    {
+      "tullenavn": "Maldivesfjella",
+      "ektenavn": "Maldives",
+      "beskrivelse": "Verdenskjent for å ha verdens største samling av ting som ikke virker, og en nasjonalsang skrevet på rim av en geit."
+    },
+    {
+      "tullenavn": "Tacotoppen",
+      "ektenavn": "Mexico",
+      "beskrivelse": "Et sted der postkontorene går fortere enn internett, og lokalbefolkningen diskuterer politikk med papegøyer."
+    },
+    {
+      "tullenavn": "Marshallheimen",
+      "ektenavn": "Marshall Islands",
+      "beskrivelse": "Kjent for å eksportere tåke, importere sol og ha statsminister med egen trekkspill-duo."
+    },
+    {
+      "tullenavn": "Northstan",
+      "ektenavn": "North Macedonia",
+      "beskrivelse": "Her er nasjonalretten en pannekake med passord, og folk hilser hverandre med sykkelklokke."
+    },
+    {
+      "tullenavn": "Malibyen",
+      "ektenavn": "Mali",
+      "beskrivelse": "Landet som glemte hva klokken var og derfor innførte seks tidssoner – i én landsby."
+    },
+    {
+      "tullenavn": "Maltaheimen",
+      "ektenavn": "Malta",
+      "beskrivelse": "Hvor statsbudsjettet presenteres med skyggespill og regjeringskrisen løses i tautrekking."
+    },
+    {
+      "tullenavn": "Myanmarbyen",
+      "ektenavn": "Myanmar",
+      "beskrivelse": "Landet der hver innbygger har sitt eget flagg, og nasjonalsporten er å overse trafikkregler med stil."
+    },
+    {
+      "tullenavn": "Montenegrotoppen",
+      "ektenavn": "Montenegro",
+      "beskrivelse": "Eksportør av rare hatter og verdensledende på diplomati via brevdue."
+    },
+    {
+      "tullenavn": "Mongolialia",
+      "ektenavn": "Mongolia",
+      "beskrivelse": "Befolkningen sverger til isbading, varm sjokolade og politiske debatter i bastu."
+    },
+    {
+      "tullenavn": "Northernlia",
+      "ektenavn": "Northern Mariana Islands",
+      "beskrivelse": "Et land der kyr har diplomatisk immunitet og nasjonaldagen feires med vafler og motbakkeløp."
+    },
+    {
+      "tullenavn": "Mozambiquebyen",
+      "ektenavn": "Mozambique",
+      "beskrivelse": "Verdenskjent for å ha verdens største samling av ting som ikke virker, og en nasjonalsang skrevet på rim av en geit."
+    },
+    {
+      "tullenavn": "Mauritaniatoppen",
+      "ektenavn": "Mauritania",
+      "beskrivelse": "Et sted der postkontorene går fortere enn internett, og lokalbefolkningen diskuterer politikk med papegøyer."
+    },
+    {
+      "tullenavn": "Montserratheimen",
+      "ektenavn": "Montserrat",
+      "beskrivelse": "Kjent for å eksportere tåke, importere sol og ha statsminister med egen trekkspill-duo."
+    },
+    {
+      "tullenavn": "Martiniqueheimen",
+      "ektenavn": "Martinique",
+      "beskrivelse": "Her er nasjonalretten en pannekake med passord, og folk hilser hverandre med sykkelklokke."
+    },
+    {
+      "tullenavn": "Mauritiusfjella",
+      "ektenavn": "Mauritius",
+      "beskrivelse": "Landet som glemte hva klokken var og derfor innførte seks tidssoner – i én landsby."
+    },
+    {
+      "tullenavn": "Malawiheimen",
+      "ektenavn": "Malawi",
+      "beskrivelse": "Hvor statsbudsjettet presenteres med skyggespill og regjeringskrisen løses i tautrekking."
+    },
+    {
+      "tullenavn": "Malaysiaheimen",
+      "ektenavn": "Malaysia",
+      "beskrivelse": "Landet der hver innbygger har sitt eget flagg, og nasjonalsporten er å overse trafikkregler med stil."
+    },
+    {
+      "tullenavn": "Mayottefjella",
+      "ektenavn": "Mayotte",
+      "beskrivelse": "Eksportør av rare hatter og verdensledende på diplomati via brevdue."
+    },
+    {
+      "tullenavn": "Namibiabyen",
+      "ektenavn": "Namibia",
+      "beskrivelse": "Befolkningen sverger til isbading, varm sjokolade og politiske debatter i bastu."
+    },
+    {
+      "tullenavn": "Newgløtt",
+      "ektenavn": "New Caledonia",
+      "beskrivelse": "Et land der kyr har diplomatisk immunitet og nasjonaldagen feires med vafler og motbakkeløp."
+    },
+    {
+      "tullenavn": "Nigerbyen",
+      "ektenavn": "Niger",
+      "beskrivelse": "Verdenskjent for å ha verdens største samling av ting som ikke virker, og en nasjonalsang skrevet på rim av en geit."
+    },
+    {
+      "tullenavn": "Norfolklandet",
+      "ektenavn": "Norfolk Island",
+      "beskrivelse": "Et sted der postkontorene går fortere enn internett, og lokalbefolkningen diskuterer politikk med papegøyer."
+    },
+    {
+      "tullenavn": "Nigeriastan",
+      "ektenavn": "Nigeria",
+      "beskrivelse": "Kjent for å eksportere tåke, importere sol og ha statsminister med egen trekkspill-duo."
+    },
+    {
+      "tullenavn": "Nicaraguabyen",
+      "ektenavn": "Nicaragua",
+      "beskrivelse": "Her er nasjonalretten en pannekake med passord, og folk hilser hverandre med sykkelklokke."
+    },
+    {
+      "tullenavn": "Niuefjella",
+      "ektenavn": "Niue",
+      "beskrivelse": "Landet som glemte hva klokken var og derfor innførte seks tidssoner – i én landsby."
+    },
+    {
+      "tullenavn": "Treskoparken",
+      "ektenavn": "Netherlands",
+      "beskrivelse": "Hvor statsbudsjettet presenteres med skyggespill og regjeringskrisen løses i tautrekking."
+    },
+    {
+      "tullenavn": "Fjellheimen",
+      "ektenavn": "Norway",
+      "beskrivelse": "Landet der hver innbygger har sitt eget flagg, og nasjonalsporten er å overse trafikkregler med stil."
+    },
+    {
+      "tullenavn": "Nepalheimen",
+      "ektenavn": "Nepal",
+      "beskrivelse": "Eksportør av rare hatter og verdensledende på diplomati via brevdue."
+    },
+    {
+      "tullenavn": "Naurulia",
+      "ektenavn": "Nauru",
+      "beskrivelse": "Befolkningen sverger til isbading, varm sjokolade og politiske debatter i bastu."
+    },
+    {
+      "tullenavn": "Newlia",
+      "ektenavn": "New Zealand",
+      "beskrivelse": "Et land der kyr har diplomatisk immunitet og nasjonaldagen feires med vafler og motbakkeløp."
+    },
+    {
+      "tullenavn": "Omanbyen",
+      "ektenavn": "Oman",
+      "beskrivelse": "Verdenskjent for å ha verdens største samling av ting som ikke virker, og en nasjonalsang skrevet på rim av en geit."
+    },
+    {
+      "tullenavn": "Pakistanlandet",
+      "ektenavn": "Pakistan",
+      "beskrivelse": "Et sted der postkontorene går fortere enn internett, og lokalbefolkningen diskuterer politikk med papegøyer."
+    },
+    {
+      "tullenavn": "Panamabyen",
+      "ektenavn": "Panama",
+      "beskrivelse": "Kjent for å eksportere tåke, importere sol og ha statsminister med egen trekkspill-duo."
+    },
+    {
+      "tullenavn": "Pitcairnriket",
+      "ektenavn": "Pitcairn",
+      "beskrivelse": "Her er nasjonalretten en pannekake med passord, og folk hilser hverandre med sykkelklokke."
+    },
+    {
+      "tullenavn": "Perulandet",
+      "ektenavn": "Peru",
+      "beskrivelse": "Landet som glemte hva klokken var og derfor innførte seks tidssoner – i én landsby."
+    },
+    {
+      "tullenavn": "Philippineslandet",
+      "ektenavn": "Philippines",
+      "beskrivelse": "Hvor statsbudsjettet presenteres med skyggespill og regjeringskrisen løses i tautrekking."
+    },
+    {
+      "tullenavn": "Palautoppen",
+      "ektenavn": "Palau",
+      "beskrivelse": "Landet der hver innbygger har sitt eget flagg, og nasjonalsporten er å overse trafikkregler med stil."
+    },
+    {
+      "tullenavn": "Papualandet",
+      "ektenavn": "Papua New Guinea",
+      "beskrivelse": "Eksportør av rare hatter og verdensledende på diplomati via brevdue."
+    },
+    {
+      "tullenavn": "Polandtoppen",
+      "ektenavn": "Poland",
+      "beskrivelse": "Befolkningen sverger til isbading, varm sjokolade og politiske debatter i bastu."
+    },
+    {
+      "tullenavn": "Puertogløtt",
+      "ektenavn": "Puerto Rico",
+      "beskrivelse": "Et land der kyr har diplomatisk immunitet og nasjonaldagen feires med vafler og motbakkeløp."
+    },
+    {
+      "tullenavn": "Korea,fjella",
+      "ektenavn": "Korea, Democratic People's Republic of",
+      "beskrivelse": "Verdenskjent for å ha verdens største samling av ting som ikke virker, og en nasjonalsang skrevet på rim av en geit."
+    },
+    {
+      "tullenavn": "Portugalheimen",
+      "ektenavn": "Portugal",
+      "beskrivelse": "Et sted der postkontorene går fortere enn internett, og lokalbefolkningen diskuterer politikk med papegøyer."
+    },
+    {
+      "tullenavn": "Paraguaydalen",
+      "ektenavn": "Paraguay",
+      "beskrivelse": "Kjent for å eksportere tåke, importere sol og ha statsminister med egen trekkspill-duo."
+    },
+    {
+      "tullenavn": "Palestine,toppen",
+      "ektenavn": "Palestine, State of",
+      "beskrivelse": "Her er nasjonalretten en pannekake med passord, og folk hilser hverandre med sykkelklokke."
+    },
+    {
+      "tullenavn": "Frenchbyen",
+      "ektenavn": "French Polynesia",
+      "beskrivelse": "Landet som glemte hva klokken var og derfor innførte seks tidssoner – i én landsby."
+    },
+    {
+      "tullenavn": "Qatarriket",
+      "ektenavn": "Qatar",
+      "beskrivelse": "Hvor statsbudsjettet presenteres med skyggespill og regjeringskrisen løses i tautrekking."
+    },
+    {
+      "tullenavn": "Réuniongløtt",
+      "ektenavn": "Réunion",
+      "beskrivelse": "Landet der hver innbygger har sitt eget flagg, og nasjonalsporten er å overse trafikkregler med stil."
+    },
+    {
+      "tullenavn": "Romanialandet",
+      "ektenavn": "Romania",
+      "beskrivelse": "Eksportør av rare hatter og verdensledende på diplomati via brevdue."
+    },
+    {
+      "tullenavn": "Russianlia",
+      "ektenavn": "Russian Federation",
+      "beskrivelse": "Befolkningen sverger til isbading, varm sjokolade og politiske debatter i bastu."
+    },
+    {
+      "tullenavn": "Rwandabyen",
+      "ektenavn": "Rwanda",
+      "beskrivelse": "Et land der kyr har diplomatisk immunitet og nasjonaldagen feires med vafler og motbakkeløp."
+    },
+    {
+      "tullenavn": "Saudiriket",
+      "ektenavn": "Saudi Arabia",
+      "beskrivelse": "Verdenskjent for å ha verdens største samling av ting som ikke virker, og en nasjonalsang skrevet på rim av en geit."
+    },
+    {
+      "tullenavn": "Sudantoppen",
+      "ektenavn": "Sudan",
+      "beskrivelse": "Et sted der postkontorene går fortere enn internett, og lokalbefolkningen diskuterer politikk med papegøyer."
+    },
+    {
+      "tullenavn": "Senegallandet",
+      "ektenavn": "Senegal",
+      "beskrivelse": "Kjent for å eksportere tåke, importere sol og ha statsminister med egen trekkspill-duo."
+    },
+    {
+      "tullenavn": "Singaporeriket",
+      "ektenavn": "Singapore",
+      "beskrivelse": "Her er nasjonalretten en pannekake med passord, og folk hilser hverandre med sykkelklokke."
+    },
+    {
+      "tullenavn": "Southlia",
+      "ektenavn": "South Georgia and the South Sandwich Islands",
+      "beskrivelse": "Landet som glemte hva klokken var og derfor innførte seks tidssoner – i én landsby."
+    },
+    {
+      "tullenavn": "Saintdalen",
+      "ektenavn": "Saint Helena, Ascension and Tristan da Cunha",
+      "beskrivelse": "Hvor statsbudsjettet presenteres med skyggespill og regjeringskrisen løses i tautrekking."
+    },
+    {
+      "tullenavn": "Svalbardlandet",
+      "ektenavn": "Svalbard and Jan Mayen",
+      "beskrivelse": "Landet der hver innbygger har sitt eget flagg, og nasjonalsporten er å overse trafikkregler med stil."
+    },
+    {
+      "tullenavn": "Solomonfjella",
+      "ektenavn": "Solomon Islands",
+      "beskrivelse": "Eksportør av rare hatter og verdensledende på diplomati via brevdue."
+    },
+    {
+      "tullenavn": "Sierrariket",
+      "ektenavn": "Sierra Leone",
+      "beskrivelse": "Befolkningen sverger til isbading, varm sjokolade og politiske debatter i bastu."
+    },
+    {
+      "tullenavn": "Elfjella",
+      "ektenavn": "El Salvador",
+      "beskrivelse": "Et land der kyr har diplomatisk immunitet og nasjonaldagen feires med vafler og motbakkeløp."
+    },
+    {
+      "tullenavn": "Sanriket",
+      "ektenavn": "San Marino",
+      "beskrivelse": "Verdenskjent for å ha verdens største samling av ting som ikke virker, og en nasjonalsang skrevet på rim av en geit."
+    },
+    {
+      "tullenavn": "Somaliagløtt",
+      "ektenavn": "Somalia",
+      "beskrivelse": "Et sted der postkontorene går fortere enn internett, og lokalbefolkningen diskuterer politikk med papegøyer."
+    },
+    {
+      "tullenavn": "Sainttoppen",
+      "ektenavn": "Saint Pierre and Miquelon",
+      "beskrivelse": "Kjent for å eksportere tåke, importere sol og ha statsminister med egen trekkspill-duo."
+    },
+    {
+      "tullenavn": "Serbiafjella",
+      "ektenavn": "Serbia",
+      "beskrivelse": "Her er nasjonalretten en pannekake med passord, og folk hilser hverandre med sykkelklokke."
+    },
+    {
+      "tullenavn": "Southlandet",
+      "ektenavn": "South Sudan",
+      "beskrivelse": "Landet som glemte hva klokken var og derfor innførte seks tidssoner – i én landsby."
+    },
+    {
+      "tullenavn": "Saogløtt",
+      "ektenavn": "Sao Tome and Principe",
+      "beskrivelse": "Hvor statsbudsjettet presenteres med skyggespill og regjeringskrisen løses i tautrekking."
+    },
+    {
+      "tullenavn": "Surinamebyen",
+      "ektenavn": "Suriname",
+      "beskrivelse": "Landet der hver innbygger har sitt eget flagg, og nasjonalsporten er å overse trafikkregler med stil."
+    },
+    {
+      "tullenavn": "Slovakiatoppen",
+      "ektenavn": "Slovakia",
+      "beskrivelse": "Eksportør av rare hatter og verdensledende på diplomati via brevdue."
+    },
+    {
+      "tullenavn": "Slovenialandet",
+      "ektenavn": "Slovenia",
+      "beskrivelse": "Befolkningen sverger til isbading, varm sjokolade og politiske debatter i bastu."
+    },
+    {
+      "tullenavn": "Kjøttbolleriket",
+      "ektenavn": "Sweden",
+      "beskrivelse": "Et land der kyr har diplomatisk immunitet og nasjonaldagen feires med vafler og motbakkeløp."
+    },
+    {
+      "tullenavn": "Eswatinidalen",
+      "ektenavn": "Eswatini",
+      "beskrivelse": "Verdenskjent for å ha verdens største samling av ting som ikke virker, og en nasjonalsang skrevet på rim av en geit."
+    },
+    {
+      "tullenavn": "Sintheimen",
+      "ektenavn": "Sint Maarten (Dutch part)",
+      "beskrivelse": "Et sted der postkontorene går fortere enn internett, og lokalbefolkningen diskuterer politikk med papegøyer."
+    },
+    {
+      "tullenavn": "Seychellesfjella",
+      "ektenavn": "Seychelles",
+      "beskrivelse": "Kjent for å eksportere tåke, importere sol og ha statsminister med egen trekkspill-duo."
+    },
+    {
+      "tullenavn": "Syriandalen",
+      "ektenavn": "Syrian Arab Republic",
+      "beskrivelse": "Her er nasjonalretten en pannekake med passord, og folk hilser hverandre med sykkelklokke."
+    },
+    {
+      "tullenavn": "Turkslia",
+      "ektenavn": "Turks and Caicos Islands",
+      "beskrivelse": "Landet som glemte hva klokken var og derfor innførte seks tidssoner – i én landsby."
+    },
+    {
+      "tullenavn": "Chadbyen",
+      "ektenavn": "Chad",
+      "beskrivelse": "Hvor statsbudsjettet presenteres med skyggespill og regjeringskrisen løses i tautrekking."
+    },
+    {
+      "tullenavn": "Togotoppen",
+      "ektenavn": "Togo",
+      "beskrivelse": "Landet der hver innbygger har sitt eget flagg, og nasjonalsporten er å overse trafikkregler med stil."
+    },
+    {
+      "tullenavn": "Thailandriket",
+      "ektenavn": "Thailand",
+      "beskrivelse": "Eksportør av rare hatter og verdensledende på diplomati via brevdue."
+    },
+    {
+      "tullenavn": "Tajikistantoppen",
+      "ektenavn": "Tajikistan",
+      "beskrivelse": "Befolkningen sverger til isbading, varm sjokolade og politiske debatter i bastu."
+    },
+    {
+      "tullenavn": "Tokelautoppen",
+      "ektenavn": "Tokelau",
+      "beskrivelse": "Et land der kyr har diplomatisk immunitet og nasjonaldagen feires med vafler og motbakkeløp."
+    },
+    {
+      "tullenavn": "Turkmenistantoppen",
+      "ektenavn": "Turkmenistan",
+      "beskrivelse": "Verdenskjent for å ha verdens største samling av ting som ikke virker, og en nasjonalsang skrevet på rim av en geit."
+    },
+    {
+      "tullenavn": "Timor-Lestetoppen",
+      "ektenavn": "Timor-Leste",
+      "beskrivelse": "Et sted der postkontorene går fortere enn internett, og lokalbefolkningen diskuterer politikk med papegøyer."
+    },
+    {
+      "tullenavn": "Tongariket",
+      "ektenavn": "Tonga",
+      "beskrivelse": "Kjent for å eksportere tåke, importere sol og ha statsminister med egen trekkspill-duo."
+    },
+    {
+      "tullenavn": "Trinidadgløtt",
+      "ektenavn": "Trinidad and Tobago",
+      "beskrivelse": "Her er nasjonalretten en pannekake med passord, og folk hilser hverandre med sykkelklokke."
+    },
+    {
+      "tullenavn": "Tunisiariket",
+      "ektenavn": "Tunisia",
+      "beskrivelse": "Landet som glemte hva klokken var og derfor innførte seks tidssoner – i én landsby."
+    },
+    {
+      "tullenavn": "Tyrkus Normanus",
+      "ektenavn": "Turkey",
+      "beskrivelse": "Hvor statsbudsjettet presenteres med skyggespill og regjeringskrisen løses i tautrekking."
+    },
+    {
+      "tullenavn": "Tuvaluheimen",
+      "ektenavn": "Tuvalu",
+      "beskrivelse": "Landet der hver innbygger har sitt eget flagg, og nasjonalsporten er å overse trafikkregler med stil."
+    },
+    {
+      "tullenavn": "Taiwan,toppen",
+      "ektenavn": "Taiwan, Province of China",
+      "beskrivelse": "Eksportør av rare hatter og verdensledende på diplomati via brevdue."
+    },
+    {
+      "tullenavn": "Tanzania,riket",
+      "ektenavn": "Tanzania, United Republic of",
+      "beskrivelse": "Befolkningen sverger til isbading, varm sjokolade og politiske debatter i bastu."
+    },
+    {
+      "tullenavn": "Ugandagløtt",
+      "ektenavn": "Uganda",
+      "beskrivelse": "Et land der kyr har diplomatisk immunitet og nasjonaldagen feires med vafler og motbakkeløp."
+    },
+    {
+      "tullenavn": "Ukrainefjella",
+      "ektenavn": "Ukraine",
+      "beskrivelse": "Verdenskjent for å ha verdens største samling av ting som ikke virker, og en nasjonalsang skrevet på rim av en geit."
+    },
+    {
+      "tullenavn": "Unitedheimen",
+      "ektenavn": "United States Minor Outlying Islands",
+      "beskrivelse": "Et sted der postkontorene går fortere enn internett, og lokalbefolkningen diskuterer politikk med papegøyer."
+    },
+    {
+      "tullenavn": "Uruguaystan",
+      "ektenavn": "Uruguay",
+      "beskrivelse": "Kjent for å eksportere tåke, importere sol og ha statsminister med egen trekkspill-duo."
+    },
+    {
+      "tullenavn": "Burgerstan",
+      "ektenavn": "United States",
+      "beskrivelse": "Her er nasjonalretten en pannekake med passord, og folk hilser hverandre med sykkelklokke."
+    },
+    {
+      "tullenavn": "Uzbekistandalen",
+      "ektenavn": "Uzbekistan",
+      "beskrivelse": "Landet som glemte hva klokken var og derfor innførte seks tidssoner – i én landsby."
+    },
+    {
+      "tullenavn": "Holyheimen",
+      "ektenavn": "Holy See (Vatican City State)",
+      "beskrivelse": "Hvor statsbudsjettet presenteres med skyggespill og regjeringskrisen løses i tautrekking."
+    },
+    {
+      "tullenavn": "Saintheimen",
+      "ektenavn": "Saint Vincent and the Grenadines",
+      "beskrivelse": "Landet der hver innbygger har sitt eget flagg, og nasjonalsporten er å overse trafikkregler med stil."
+    },
+    {
+      "tullenavn": "Venezuela,dalen",
+      "ektenavn": "Venezuela, Bolivarian Republic of",
+      "beskrivelse": "Eksportør av rare hatter og verdensledende på diplomati via brevdue."
+    },
+    {
+      "tullenavn": "Virginlandet",
+      "ektenavn": "Virgin Islands, British",
+      "beskrivelse": "Befolkningen sverger til isbading, varm sjokolade og politiske debatter i bastu."
+    },
+    {
+      "tullenavn": "Virginstan",
+      "ektenavn": "Virgin Islands, U.S.",
+      "beskrivelse": "Et land der kyr har diplomatisk immunitet og nasjonaldagen feires med vafler og motbakkeløp."
+    },
+    {
+      "tullenavn": "Vietgløtt",
+      "ektenavn": "Viet Nam",
+      "beskrivelse": "Verdenskjent for å ha verdens største samling av ting som ikke virker, og en nasjonalsang skrevet på rim av en geit."
+    },
+    {
+      "tullenavn": "Vanuatulia",
+      "ektenavn": "Vanuatu",
+      "beskrivelse": "Et sted der postkontorene går fortere enn internett, og lokalbefolkningen diskuterer politikk med papegøyer."
+    },
+    {
+      "tullenavn": "Wallisdalen",
+      "ektenavn": "Wallis and Futuna",
+      "beskrivelse": "Kjent for å eksportere tåke, importere sol og ha statsminister med egen trekkspill-duo."
+    },
+    {
+      "tullenavn": "Samoastan",
+      "ektenavn": "Samoa",
+      "beskrivelse": "Her er nasjonalretten en pannekake med passord, og folk hilser hverandre med sykkelklokke."
+    },
+    {
+      "tullenavn": "Yementoppen",
+      "ektenavn": "Yemen",
+      "beskrivelse": "Landet som glemte hva klokken var og derfor innførte seks tidssoner – i én landsby."
+    },
+    {
+      "tullenavn": "Southgløtt",
+      "ektenavn": "South Africa",
+      "beskrivelse": "Hvor statsbudsjettet presenteres med skyggespill og regjeringskrisen løses i tautrekking."
+    },
+    {
+      "tullenavn": "Zambialandet",
+      "ektenavn": "Zambia",
+      "beskrivelse": "Landet der hver innbygger har sitt eget flagg, og nasjonalsporten er å overse trafikkregler med stil."
+    },
+    {
+      "tullenavn": "Zimbabwegløtt",
+      "ektenavn": "Zimbabwe",
+      "beskrivelse": "Eksportør av rare hatter og verdensledende på diplomati via brevdue."
+    }
+  ]
+}

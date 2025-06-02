@@ -1,0 +1,523 @@
+{
+  "stedsnavn": [
+    "Klepto-neset",
+    "Dingse-haugen",
+    "Tjafs-neset",
+    "Grise-torp",
+    "Dingse-plassen",
+    "Plask-torp",
+    "Tjafs-myra",
+    "Grise-dalen",
+    "Snurpe-torp",
+    "Skrangle-myra",
+    "Grise-skogen",
+    "Dingse-skogen",
+    "Kløne-vik",
+    "Skrangle-vik",
+    "Grise-neset",
+    "Møkk-skogen",
+    "Klepto-plassen",
+    "Kløne-skogen",
+    "Tjafs-plassen",
+    "Kløne-vik",
+    "Møkk-myra",
+    "Snurpe-haugen",
+    "Tjafs-plassen",
+    "Skrangle-plassen",
+    "Tjafs-torp",
+    "Plask-haugen",
+    "Møkk-haugen",
+    "Dingse-skogen",
+    "Rott-myra",
+    "Tjafs-plassen",
+    "Kløne-haugen",
+    "Klepto-myra",
+    "Klepto-torp",
+    "Rott-vik",
+    "Snurpe-haugen",
+    "Klepto-haugen",
+    "Plask-dalen",
+    "Skrangle-neset",
+    "Grise-plassen",
+    "Rott-neset",
+    "Tjafs-moen",
+    "Tjafs-vik",
+    "Dingse-moen",
+    "Klepto-haugen",
+    "Kløne-moen",
+    "Grise-neset",
+    "Snurpe-myra",
+    "Rott-torp",
+    "Tjafs-neset",
+    "Rott-bakken"
+  ],
+  "personer": [
+    "Tust Tjasdal",
+    "Dutti Snultbakken",
+    "Pløsa Gurgelrud",
+    "Kråkka Slafsen",
+    "Bolla Brødball",
+    "Dutti Tjasdal",
+    "Lurifax Snufsen",
+    "Lurifax Kleppås",
+    "Tust Kleppås",
+    "Pløsa Tjasdal",
+    "Kråkka Rumpenæs",
+    "Bolla Kleppås",
+    "Bolla Rumpenæs",
+    "Dutti Slafsen",
+    "Fjasine Gurgelrud",
+    "Guffen Brødball",
+    "Tust Møkkebekk",
+    "Pløsa Rumpenæs",
+    "Fjasine Slafsen",
+    "Tust Gurgelrud",
+    "Kjåkke Kleppås",
+    "Tust Rumpenæs",
+    "Lurifax Gurgelrud",
+    "Bolla Snultbakken",
+    "Guffen Slafsen",
+    "Pløsa Plaskmo",
+    "Snella Brødball",
+    "Bolla Tjasdal",
+    "Dutti Tjasdal",
+    "Pløsa Møkkebekk",
+    "Tust Møkkebekk",
+    "Fjasine Kleppås",
+    "Pløsa Slafsen",
+    "Bolla Brødball",
+    "Dutti Rumpenæs",
+    "Kråkka Slafsen",
+    "Pløsa Slafsen",
+    "Lurifax Slafsen",
+    "Dutti Snufsen",
+    "Guffen Tjasdal",
+    "Snella Snultbakken",
+    "Guffen Brødball",
+    "Bolla Møkkebekk",
+    "Bolla Møkkebekk",
+    "Bolla Brødball",
+    "Lurifax Møkkebekk",
+    "Kråkka Slafsen",
+    "Tust Tjasdal",
+    "Fjasine Snufsen",
+    "Snella Gurgelrud",
+    "Dutti Snufsen",
+    "Bolla Slafsen",
+    "Tust Møkkebekk",
+    "Dutti Snufsen",
+    "Fjasine Plaskmo",
+    "Lurifax Tjasdal",
+    "Snella Slafsen",
+    "Dutti Kleppås",
+    "Dutti Rumpenæs",
+    "Tust Møkkebekk",
+    "Guffen Snufsen",
+    "Guffen Slafsen",
+    "Snella Snultbakken",
+    "Kjåkke Rumpenæs",
+    "Kråkka Gurgelrud",
+    "Snella Møkkebekk",
+    "Kjåkke Rumpenæs",
+    "Snella Plaskmo",
+    "Guffen Rumpenæs",
+    "Kjåkke Gurgelrud",
+    "Fjasine Snultbakken",
+    "Dutti Brødball",
+    "Lurifax Kleppås",
+    "Fjasine Brødball",
+    "Pløsa Møkkebekk",
+    "Fjasine Snultbakken",
+    "Lurifax Møkkebekk",
+    "Lurifax Kleppås",
+    "Snella Gurgelrud",
+    "Kråkka Plaskmo",
+    "Fjasine Tjasdal",
+    "Snella Snultbakken",
+    "Kråkka Slafsen",
+    "Guffen Brødball",
+    "Pløsa Plaskmo",
+    "Kråkka Rumpenæs",
+    "Bolla Gurgelrud",
+    "Snella Snultbakken",
+    "Bolla Kleppås",
+    "Fjasine Brødball",
+    "Tust Gurgelrud",
+    "Tust Brødball",
+    "Lurifax Brødball",
+    "Guffen Brødball",
+    "Kjåkke Rumpenæs",
+    "Bolla Slafsen",
+    "Kråkka Kleppås",
+    "Guffen Gurgelrud",
+    "Snella Møkkebekk",
+    "Pløsa Rumpenæs"
+  ],
+  "gateadresser": [
+    "DuttiMøkkebekk-sletta 5",
+    "KjåkkeBrødball-stien 16",
+    "KjåkkePlaskmo-sletta 42",
+    "KjåkkeRumpenæs-stripa 55",
+    "PløsaBrødball-stien 96",
+    "GuffenRumpenæs-dumpa 92",
+    "TustMøkkebekk-gata 51",
+    "BollaBrødball-sletta 28",
+    "KjåkkeRumpenæs-stien 11",
+    "KjåkkeSnultbakken-dumpa 29",
+    "TustKleppås-sletta 7",
+    "BollaMøkkebekk-sletta 81",
+    "KjåkkeGurgelrud-dumpa 77",
+    "KråkkaTjasdal-stripa 38",
+    "SnellaMøkkebekk-stripa 63",
+    "KjåkkeTjasdal-gata 11",
+    "PløsaBrødball-veien 66",
+    "LurifaxGurgelrud-stripa 99",
+    "KråkkaSnufsen-stien 6",
+    "FjasineTjasdal-bakken 81",
+    "DuttiTjasdal-dumpa 80",
+    "SnellaTjasdal-dumpa 6",
+    "FjasineSlafsen-stien 24",
+    "LurifaxPlaskmo-dumpa 60",
+    "SnellaKleppås-stien 43",
+    "KråkkaTjasdal-gata 51",
+    "FjasineSlafsen-sletta 49",
+    "FjasineRumpenæs-sletta 65",
+    "TustKleppås-dumpa 95",
+    "SnellaKleppås-dumpa 67",
+    "TustRumpenæs-stripa 82",
+    "LurifaxSnufsen-gata 7",
+    "KråkkaTjasdal-sletta 40",
+    "DuttiSnultbakken-veien 27",
+    "LurifaxSlafsen-veien 47",
+    "KråkkaKleppås-stripa 95",
+    "GuffenBrødball-dumpa 35",
+    "SnellaKleppås-stripa 43",
+    "FjasineSnultbakken-stien 15",
+    "DuttiTjasdal-dumpa 67",
+    "FjasineMøkkebekk-veien 87",
+    "BollaSlafsen-bakken 89",
+    "SnellaKleppås-stripa 94",
+    "KråkkaBrødball-veien 72",
+    "KjåkkeTjasdal-stien 38",
+    "BollaTjasdal-bakken 56",
+    "FjasineGurgelrud-dumpa 34",
+    "KråkkaBrødball-stien 32",
+    "PløsaBrødball-gata 56",
+    "KjåkkeTjasdal-gata 92",
+    "LurifaxMøkkebekk-stien 88",
+    "GuffenKleppås-veien 80",
+    "FjasineMøkkebekk-gata 48",
+    "SnellaBrødball-veien 4",
+    "KjåkkeKleppås-bakken 80",
+    "SnellaBrødball-sletta 28",
+    "KråkkaKleppås-gata 51",
+    "SnellaPlaskmo-dumpa 28",
+    "LurifaxKleppås-sletta 84",
+    "PløsaGurgelrud-sletta 44",
+    "LurifaxGurgelrud-stien 88",
+    "GuffenMøkkebekk-dumpa 83",
+    "PløsaPlaskmo-veien 87",
+    "FjasinePlaskmo-veien 75",
+    "TustSnultbakken-dumpa 66",
+    "LurifaxSlafsen-gata 14",
+    "TustBrødball-dumpa 80",
+    "LurifaxMøkkebekk-bakken 46",
+    "GuffenPlaskmo-sletta 21",
+    "BollaRumpenæs-stripa 33",
+    "KjåkkePlaskmo-gata 18",
+    "BollaRumpenæs-gata 89",
+    "BollaKleppås-veien 44",
+    "KjåkkeKleppås-sletta 46",
+    "KjåkkeSnufsen-veien 44",
+    "LurifaxMøkkebekk-gata 96",
+    "FjasinePlaskmo-sletta 53",
+    "SnellaMøkkebekk-stien 27",
+    "SnellaSlafsen-stien 94",
+    "GuffenRumpenæs-bakken 95",
+    "KjåkkeRumpenæs-bakken 52",
+    "FjasineSnultbakken-stripa 96",
+    "PløsaGurgelrud-dumpa 76",
+    "KråkkaSlafsen-gata 60",
+    "FjasineSnultbakken-stien 35",
+    "TustBrødball-stien 92",
+    "GuffenGurgelrud-stien 96",
+    "KråkkaMøkkebekk-bakken 21",
+    "BollaSnultbakken-dumpa 42",
+    "TustMøkkebekk-dumpa 67",
+    "PløsaTjasdal-stien 26",
+    "TustRumpenæs-veien 45",
+    "KråkkaSlafsen-gata 46",
+    "GuffenRumpenæs-bakken 82",
+    "TustGurgelrud-stripa 70",
+    "PløsaBrødball-stien 22",
+    "KråkkaTjasdal-veien 59",
+    "SnellaRumpenæs-sletta 40",
+    "GuffenGurgelrud-stripa 62",
+    "LurifaxTjasdal-gata 73"
+  ],
+  "bedrifter": [
+    {
+      "navn": "Brød & Sprell",
+      "beskrivelse": "Bakeri som baker med trampoline-deig"
+    },
+    {
+      "navn": "Klippe-Klask Frisør",
+      "beskrivelse": "Frisørsalong med ukontrollerte sakselyder"
+    },
+    {
+      "navn": "Tann&Tjosk",
+      "beskrivelse": "Tannlege med smågodt i tannlegestolen"
+    },
+    {
+      "navn": "Skrangle-Mekaniske",
+      "beskrivelse": "Verksted som spesialiserer seg på ting som aldri slutter å lage lyd"
+    },
+    {
+      "navn": "Kråkkas Pølsebu",
+      "beskrivelse": "Sted hvor man kan få kjøpt treskallede skruer med valgfri lukt."
+    },
+    {
+      "navn": "Pløsas Skruelager",
+      "beskrivelse": "Sted hvor man kan få kjøpt dampende skruer med valgfri lukt."
+    },
+    {
+      "navn": "Snellas Knirkebutikk",
+      "beskrivelse": "Sted hvor man kan få kjøpt treskallede boller med valgfri lukt."
+    },
+    {
+      "navn": "Bollas Rariverksted",
+      "beskrivelse": "Sted hvor man kan få kjøpt treskallede pølser med valgfri lukt."
+    },
+    {
+      "navn": "Pløsas Pølsebu",
+      "beskrivelse": "Sted hvor man kan få kjøpt skakke pølser med valgfri lukt."
+    },
+    {
+      "navn": "Fjasines Smørekiosk",
+      "beskrivelse": "Sted hvor man kan få kjøpt mystiske boller med valgfri lukt."
+    },
+    {
+      "navn": "Fjasines Rariverksted",
+      "beskrivelse": "Sted hvor man kan få kjøpt mystiske duppeditter med valgfri lukt."
+    },
+    {
+      "navn": "Tusts Skruelager",
+      "beskrivelse": "Sted hvor man kan få kjøpt dampende skruer med valgfri lukt."
+    },
+    {
+      "navn": "Kråkkas Pølsebu",
+      "beskrivelse": "Sted hvor man kan få kjøpt dampende skruer med valgfri lukt."
+    },
+    {
+      "navn": "Bollas Pølsebu",
+      "beskrivelse": "Sted hvor man kan få kjøpt treskallede boller med valgfri lukt."
+    },
+    {
+      "navn": "Guffens Skruelager",
+      "beskrivelse": "Sted hvor man kan få kjøpt skakke duppeditter med valgfri lukt."
+    },
+    {
+      "navn": "Guffens Rariverksted",
+      "beskrivelse": "Sted hvor man kan få kjøpt dampende duppeditter med valgfri lukt."
+    },
+    {
+      "navn": "Fjasines Skruelager",
+      "beskrivelse": "Sted hvor man kan få kjøpt dampende duppeditter med valgfri lukt."
+    },
+    {
+      "navn": "Pløsas Rariverksted",
+      "beskrivelse": "Sted hvor man kan få kjøpt mystiske duppeditter med valgfri lukt."
+    },
+    {
+      "navn": "Pløsas Skruelager",
+      "beskrivelse": "Sted hvor man kan få kjøpt dampende pølser med valgfri lukt."
+    },
+    {
+      "navn": "Lurifaxs Knirkebutikk",
+      "beskrivelse": "Sted hvor man kan få kjøpt skakke boller med valgfri lukt."
+    },
+    {
+      "navn": "Lurifaxs Skruelager",
+      "beskrivelse": "Sted hvor man kan få kjøpt mystiske duppeditter med valgfri lukt."
+    },
+    {
+      "navn": "Duttis Rariverksted",
+      "beskrivelse": "Sted hvor man kan få kjøpt skakke pølser med valgfri lukt."
+    },
+    {
+      "navn": "Fjasines Rariverksted",
+      "beskrivelse": "Sted hvor man kan få kjøpt dampende boller med valgfri lukt."
+    },
+    {
+      "navn": "Fjasines Skruelager",
+      "beskrivelse": "Sted hvor man kan få kjøpt dampende pølser med valgfri lukt."
+    },
+    {
+      "navn": "Bollas Smørekiosk",
+      "beskrivelse": "Sted hvor man kan få kjøpt dampende skruer med valgfri lukt."
+    },
+    {
+      "navn": "Lurifaxs Knirkebutikk",
+      "beskrivelse": "Sted hvor man kan få kjøpt mystiske skruer med valgfri lukt."
+    },
+    {
+      "navn": "Pløsas Knirkebutikk",
+      "beskrivelse": "Sted hvor man kan få kjøpt treskallede duppeditter med valgfri lukt."
+    },
+    {
+      "navn": "Kjåkkes Pølsebu",
+      "beskrivelse": "Sted hvor man kan få kjøpt mystiske duppeditter med valgfri lukt."
+    },
+    {
+      "navn": "Tusts Smørekiosk",
+      "beskrivelse": "Sted hvor man kan få kjøpt dampende skruer med valgfri lukt."
+    },
+    {
+      "navn": "Kråkkas Smørekiosk",
+      "beskrivelse": "Sted hvor man kan få kjøpt mystiske pølser med valgfri lukt."
+    },
+    {
+      "navn": "Lurifaxs Skruelager",
+      "beskrivelse": "Sted hvor man kan få kjøpt dampende skruer med valgfri lukt."
+    },
+    {
+      "navn": "Guffens Skruelager",
+      "beskrivelse": "Sted hvor man kan få kjøpt dampende skruer med valgfri lukt."
+    },
+    {
+      "navn": "Snellas Smørekiosk",
+      "beskrivelse": "Sted hvor man kan få kjøpt skakke pølser med valgfri lukt."
+    },
+    {
+      "navn": "Kjåkkes Skruelager",
+      "beskrivelse": "Sted hvor man kan få kjøpt treskallede skruer med valgfri lukt."
+    },
+    {
+      "navn": "Bollas Pølsebu",
+      "beskrivelse": "Sted hvor man kan få kjøpt skakke pølser med valgfri lukt."
+    },
+    {
+      "navn": "Snellas Pølsebu",
+      "beskrivelse": "Sted hvor man kan få kjøpt mystiske skruer med valgfri lukt."
+    },
+    {
+      "navn": "Fjasines Pølsebu",
+      "beskrivelse": "Sted hvor man kan få kjøpt mystiske pølser med valgfri lukt."
+    },
+    {
+      "navn": "Bollas Rariverksted",
+      "beskrivelse": "Sted hvor man kan få kjøpt skakke skruer med valgfri lukt."
+    },
+    {
+      "navn": "Pløsas Pølsebu",
+      "beskrivelse": "Sted hvor man kan få kjøpt skakke boller med valgfri lukt."
+    },
+    {
+      "navn": "Snellas Pølsebu",
+      "beskrivelse": "Sted hvor man kan få kjøpt mystiske pølser med valgfri lukt."
+    },
+    {
+      "navn": "Kråkkas Rariverksted",
+      "beskrivelse": "Sted hvor man kan få kjøpt mystiske skruer med valgfri lukt."
+    },
+    {
+      "navn": "Duttis Rariverksted",
+      "beskrivelse": "Sted hvor man kan få kjøpt skakke skruer med valgfri lukt."
+    },
+    {
+      "navn": "Kjåkkes Skruelager",
+      "beskrivelse": "Sted hvor man kan få kjøpt dampende duppeditter med valgfri lukt."
+    },
+    {
+      "navn": "Kjåkkes Knirkebutikk",
+      "beskrivelse": "Sted hvor man kan få kjøpt dampende skruer med valgfri lukt."
+    },
+    {
+      "navn": "Snellas Pølsebu",
+      "beskrivelse": "Sted hvor man kan få kjøpt treskallede boller med valgfri lukt."
+    },
+    {
+      "navn": "Kjåkkes Smørekiosk",
+      "beskrivelse": "Sted hvor man kan få kjøpt skakke duppeditter med valgfri lukt."
+    },
+    {
+      "navn": "Fjasines Rariverksted",
+      "beskrivelse": "Sted hvor man kan få kjøpt mystiske boller med valgfri lukt."
+    },
+    {
+      "navn": "Pløsas Smørekiosk",
+      "beskrivelse": "Sted hvor man kan få kjøpt mystiske skruer med valgfri lukt."
+    },
+    {
+      "navn": "Bollas Knirkebutikk",
+      "beskrivelse": "Sted hvor man kan få kjøpt mystiske duppeditter med valgfri lukt."
+    },
+    {
+      "navn": "Bollas Knirkebutikk",
+      "beskrivelse": "Sted hvor man kan få kjøpt mystiske boller med valgfri lukt."
+    }
+  ],
+  "nabosteder": [
+    "Kjafs-torpet",
+    "Kjafs-torpet",
+    "Snurp-vika",
+    "Dæl-vika",
+    "Ræl-bygda",
+    "Klab-vika",
+    "Ræl-høgda",
+    "Pæl-vika",
+    "Klab-torpet",
+    "Dæl-torpet",
+    "Snurp-torpet",
+    "Klab-grenda",
+    "Blubb-mora",
+    "Snurp-strup",
+    "Blubb-strup",
+    "Blubb-haugen",
+    "Snurp-høgda",
+    "Klab-mora",
+    "Guff-mora",
+    "Klab-grenda"
+  ],
+  "idretter": [
+    "Grusklatring",
+    "Tønnefotball",
+    "Luktestafett",
+    "Sjørøverballett",
+    "Kast med liten brunsnegle",
+    "Pannebåndboksing",
+    "Gammelostløfting",
+    "Svingtauhåndball",
+    "Bjøllejakt",
+    "Hinke-kappløp",
+    "Klatre-sisten",
+    "Vaffeldart",
+    "Sleip-stol curling",
+    "Snørrbrett",
+    "Søledans",
+    "Skurebrett-rally",
+    "Kakekast",
+    "Mopedløft",
+    "Kveitebryting",
+    "Slapsepolo"
+  ],
+  "turistattraksjoner": [
+    "Den Evige Søledammen – alltid våt, alltid overraskende dyp",
+    "Snurrebassen Panorama – utsiktspunkt som faktisk snurrer rundt",
+    "Knekkebrødmuseet – verdens største samling av knekkebrød med bitemerker",
+    "Den Raslende Skogen – alle trær lager lyder, uansett vind",
+    "Pjusky Tårnet – et tårn laget av gamle campingstoler"
+  ],
+  "innsjoer": [
+    "Blubb-myra",
+    "Tjask-myra",
+    "Snørr-putten",
+    "Knekk-vannet",
+    "Blubb-putten",
+    "Snørr-vannet",
+    "Frosk-tjernet",
+    "Skvulp-sjøen",
+    "Snørr-myra",
+    "Tytt-myra"
+  ]
+}

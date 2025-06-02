@@ -1,0 +1,504 @@
+{
+  "organisasjoner": [
+    {
+      "ektenavn": "FN",
+      "tullenavn": "Verdensvokterne",
+      "beskrivelse": "Holder årsmøte i en rundkjøring og stemmer med fløyter og blinklys."
+    },
+    {
+      "ektenavn": "NATO",
+      "tullenavn": "Krig & Kollektiv AS",
+      "beskrivelse": "Eksisterer hovedsakelig for å sende e-poster ingen leser."
+    },
+    {
+      "ektenavn": "EU",
+      "tullenavn": "Brusselbanden",
+      "beskrivelse": "Lager rapporter på 400 sider som konkluderer med 'Vi får se'."
+    },
+    {
+      "ektenavn": "WHO",
+      "tullenavn": "Hoste-Høvdingene",
+      "beskrivelse": "Møtes digitalt, men ingen skrur på kamera og alle later som de hører."
+    },
+    {
+      "ektenavn": "OPEC",
+      "tullenavn": "Olje-Oppsynet",
+      "beskrivelse": "Lager lover for land de aldri har besøkt, med kakepause hver halvtime."
+    },
+    {
+      "ektenavn": "G7",
+      "tullenavn": "De Syv Surmagede",
+      "beskrivelse": "Snakker så mye om bærekraft at selv plantene blir slitne."
+    },
+    {
+      "ektenavn": "Organisasjon1",
+      "tullenavn": "Flyplassforumet",
+      "beskrivelse": "Har ett mål: Flere møter og mer kake."
+    },
+    {
+      "ektenavn": "Organisasjon2",
+      "tullenavn": "Regelboka Rundt",
+      "beskrivelse": "Tror fortsatt fax er en viktig kommunikasjonsform."
+    },
+    {
+      "ektenavn": "Organisasjon3",
+      "tullenavn": "Verdensvikarene",
+      "beskrivelse": "Alle vedtak er midlertidige, men feires med konfetti og PowerPoint."
+    },
+    {
+      "ektenavn": "Organisasjon4",
+      "tullenavn": "Matmakt Rådet",
+      "beskrivelse": "Består av eksperter som er uenige om alt, inkludert hva som er klokka."
+    },
+    {
+      "ektenavn": "Organisasjon5",
+      "tullenavn": "Snill, men Streng-klubben",
+      "beskrivelse": "Drives av kaffemaskinen og en overivrig møteleder med bjelle."
+    },
+    {
+      "ektenavn": "Organisasjon6",
+      "tullenavn": "Strømstolpanelet",
+      "beskrivelse": "Vedtar forslag med aplaus og serverer bare eplekake og diplom."
+    },
+    {
+      "ektenavn": "Organisasjon7",
+      "tullenavn": "FN med Forviklinger",
+      "beskrivelse": "Kommer aldri til enighet, men får nye logoer hvert kvartal."
+    },
+    {
+      "ektenavn": "Organisasjon8",
+      "tullenavn": "KaffeKoalisjonen",
+      "beskrivelse": "Opprettet for å være nyttig, men mest kjent for sine kule penner."
+    },
+    {
+      "ektenavn": "Organisasjon9",
+      "tullenavn": "Pingvinprotokollen",
+      "beskrivelse": "Blir ofte forvekslet med et band, spesielt under pressekonferanser."
+    },
+    {
+      "ektenavn": "Organisasjon10",
+      "tullenavn": "Helsetrallen",
+      "beskrivelse": "Holder årsmøte i en rundkjøring og stemmer med fløyter og blinklys."
+    },
+    {
+      "ektenavn": "Organisasjon11",
+      "tullenavn": "Tidsfordriverne",
+      "beskrivelse": "Eksisterer hovedsakelig for å sende e-poster ingen leser."
+    },
+    {
+      "ektenavn": "Organisasjon12",
+      "tullenavn": "Knappeklikk-komiteen",
+      "beskrivelse": "Lager rapporter på 400 sider som konkluderer med 'Vi får se'."
+    },
+    {
+      "ektenavn": "Organisasjon13",
+      "tullenavn": "Zoom-Zebraene",
+      "beskrivelse": "Møtes digitalt, men ingen skrur på kamera og alle later som de hører."
+    },
+    {
+      "ektenavn": "Organisasjon14",
+      "tullenavn": "Paragrafpartnerne",
+      "beskrivelse": "Lager lover for land de aldri har besøkt, med kakepause hver halvtime."
+    },
+    {
+      "ektenavn": "Organisasjon15",
+      "tullenavn": "Planleggingspanikken",
+      "beskrivelse": "Snakker så mye om bærekraft at selv plantene blir slitne."
+    },
+    {
+      "ektenavn": "Organisasjon16",
+      "tullenavn": "Klimakrimklubben",
+      "beskrivelse": "Har ett mål: Flere møter og mer kake."
+    },
+    {
+      "ektenavn": "Organisasjon17",
+      "tullenavn": "KartKonsortiet",
+      "beskrivelse": "Tror fortsatt fax er en viktig kommunikasjonsform."
+    },
+    {
+      "ektenavn": "Organisasjon18",
+      "tullenavn": "Globale Gjesp",
+      "beskrivelse": "Alle vedtak er midlertidige, men feires med konfetti og PowerPoint."
+    },
+    {
+      "ektenavn": "Organisasjon19",
+      "tullenavn": "MikrofonMafiaen",
+      "beskrivelse": "Består av eksperter som er uenige om alt, inkludert hva som er klokka."
+    },
+    {
+      "ektenavn": "Organisasjon20",
+      "tullenavn": "TegneserieTraktaten",
+      "beskrivelse": "Drives av kaffemaskinen og en overivrig møteleder med bjelle."
+    },
+    {
+      "ektenavn": "Organisasjon21",
+      "tullenavn": "Verdensvokterne",
+      "beskrivelse": "Vedtar forslag med aplaus og serverer bare eplekake og diplom."
+    },
+    {
+      "ektenavn": "Organisasjon22",
+      "tullenavn": "Krig & Kollektiv AS",
+      "beskrivelse": "Kommer aldri til enighet, men får nye logoer hvert kvartal."
+    },
+    {
+      "ektenavn": "Organisasjon23",
+      "tullenavn": "Brusselbanden",
+      "beskrivelse": "Opprettet for å være nyttig, men mest kjent for sine kule penner."
+    },
+    {
+      "ektenavn": "Organisasjon24",
+      "tullenavn": "Hoste-Høvdingene",
+      "beskrivelse": "Blir ofte forvekslet med et band, spesielt under pressekonferanser."
+    },
+    {
+      "ektenavn": "Organisasjon25",
+      "tullenavn": "Olje-Oppsynet",
+      "beskrivelse": "Holder årsmøte i en rundkjøring og stemmer med fløyter og blinklys."
+    },
+    {
+      "ektenavn": "Organisasjon26",
+      "tullenavn": "De Syv Surmagede",
+      "beskrivelse": "Eksisterer hovedsakelig for å sende e-poster ingen leser."
+    },
+    {
+      "ektenavn": "Organisasjon27",
+      "tullenavn": "Flyplassforumet",
+      "beskrivelse": "Lager rapporter på 400 sider som konkluderer med 'Vi får se'."
+    },
+    {
+      "ektenavn": "Organisasjon28",
+      "tullenavn": "Regelboka Rundt",
+      "beskrivelse": "Møtes digitalt, men ingen skrur på kamera og alle later som de hører."
+    },
+    {
+      "ektenavn": "Organisasjon29",
+      "tullenavn": "Verdensvikarene",
+      "beskrivelse": "Lager lover for land de aldri har besøkt, med kakepause hver halvtime."
+    },
+    {
+      "ektenavn": "Organisasjon30",
+      "tullenavn": "Matmakt Rådet",
+      "beskrivelse": "Snakker så mye om bærekraft at selv plantene blir slitne."
+    },
+    {
+      "ektenavn": "Organisasjon31",
+      "tullenavn": "Snill, men Streng-klubben",
+      "beskrivelse": "Har ett mål: Flere møter og mer kake."
+    },
+    {
+      "ektenavn": "Organisasjon32",
+      "tullenavn": "Strømstolpanelet",
+      "beskrivelse": "Tror fortsatt fax er en viktig kommunikasjonsform."
+    },
+    {
+      "ektenavn": "Organisasjon33",
+      "tullenavn": "FN med Forviklinger",
+      "beskrivelse": "Alle vedtak er midlertidige, men feires med konfetti og PowerPoint."
+    },
+    {
+      "ektenavn": "Organisasjon34",
+      "tullenavn": "KaffeKoalisjonen",
+      "beskrivelse": "Består av eksperter som er uenige om alt, inkludert hva som er klokka."
+    },
+    {
+      "ektenavn": "Organisasjon35",
+      "tullenavn": "Pingvinprotokollen",
+      "beskrivelse": "Drives av kaffemaskinen og en overivrig møteleder med bjelle."
+    },
+    {
+      "ektenavn": "Organisasjon36",
+      "tullenavn": "Helsetrallen",
+      "beskrivelse": "Vedtar forslag med aplaus og serverer bare eplekake og diplom."
+    },
+    {
+      "ektenavn": "Organisasjon37",
+      "tullenavn": "Tidsfordriverne",
+      "beskrivelse": "Kommer aldri til enighet, men får nye logoer hvert kvartal."
+    },
+    {
+      "ektenavn": "Organisasjon38",
+      "tullenavn": "Knappeklikk-komiteen",
+      "beskrivelse": "Opprettet for å være nyttig, men mest kjent for sine kule penner."
+    },
+    {
+      "ektenavn": "Organisasjon39",
+      "tullenavn": "Zoom-Zebraene",
+      "beskrivelse": "Blir ofte forvekslet med et band, spesielt under pressekonferanser."
+    },
+    {
+      "ektenavn": "Organisasjon40",
+      "tullenavn": "Paragrafpartnerne",
+      "beskrivelse": "Holder årsmøte i en rundkjøring og stemmer med fløyter og blinklys."
+    },
+    {
+      "ektenavn": "Organisasjon41",
+      "tullenavn": "Planleggingspanikken",
+      "beskrivelse": "Eksisterer hovedsakelig for å sende e-poster ingen leser."
+    },
+    {
+      "ektenavn": "Organisasjon42",
+      "tullenavn": "Klimakrimklubben",
+      "beskrivelse": "Lager rapporter på 400 sider som konkluderer med 'Vi får se'."
+    },
+    {
+      "ektenavn": "Organisasjon43",
+      "tullenavn": "KartKonsortiet",
+      "beskrivelse": "Møtes digitalt, men ingen skrur på kamera og alle later som de hører."
+    },
+    {
+      "ektenavn": "Organisasjon44",
+      "tullenavn": "Globale Gjesp",
+      "beskrivelse": "Lager lover for land de aldri har besøkt, med kakepause hver halvtime."
+    },
+    {
+      "ektenavn": "Organisasjon45",
+      "tullenavn": "MikrofonMafiaen",
+      "beskrivelse": "Snakker så mye om bærekraft at selv plantene blir slitne."
+    },
+    {
+      "ektenavn": "Organisasjon46",
+      "tullenavn": "TegneserieTraktaten",
+      "beskrivelse": "Har ett mål: Flere møter og mer kake."
+    },
+    {
+      "ektenavn": "Organisasjon47",
+      "tullenavn": "Verdensvokterne",
+      "beskrivelse": "Tror fortsatt fax er en viktig kommunikasjonsform."
+    },
+    {
+      "ektenavn": "Organisasjon48",
+      "tullenavn": "Krig & Kollektiv AS",
+      "beskrivelse": "Alle vedtak er midlertidige, men feires med konfetti og PowerPoint."
+    },
+    {
+      "ektenavn": "Organisasjon49",
+      "tullenavn": "Brusselbanden",
+      "beskrivelse": "Består av eksperter som er uenige om alt, inkludert hva som er klokka."
+    },
+    {
+      "ektenavn": "Organisasjon50",
+      "tullenavn": "Hoste-Høvdingene",
+      "beskrivelse": "Drives av kaffemaskinen og en overivrig møteleder med bjelle."
+    },
+    {
+      "ektenavn": "Organisasjon51",
+      "tullenavn": "Olje-Oppsynet",
+      "beskrivelse": "Vedtar forslag med aplaus og serverer bare eplekake og diplom."
+    },
+    {
+      "ektenavn": "Organisasjon52",
+      "tullenavn": "De Syv Surmagede",
+      "beskrivelse": "Kommer aldri til enighet, men får nye logoer hvert kvartal."
+    },
+    {
+      "ektenavn": "Organisasjon53",
+      "tullenavn": "Flyplassforumet",
+      "beskrivelse": "Opprettet for å være nyttig, men mest kjent for sine kule penner."
+    },
+    {
+      "ektenavn": "Organisasjon54",
+      "tullenavn": "Regelboka Rundt",
+      "beskrivelse": "Blir ofte forvekslet med et band, spesielt under pressekonferanser."
+    },
+    {
+      "ektenavn": "Organisasjon55",
+      "tullenavn": "Verdensvikarene",
+      "beskrivelse": "Holder årsmøte i en rundkjøring og stemmer med fløyter og blinklys."
+    },
+    {
+      "ektenavn": "Organisasjon56",
+      "tullenavn": "Matmakt Rådet",
+      "beskrivelse": "Eksisterer hovedsakelig for å sende e-poster ingen leser."
+    },
+    {
+      "ektenavn": "Organisasjon57",
+      "tullenavn": "Snill, men Streng-klubben",
+      "beskrivelse": "Lager rapporter på 400 sider som konkluderer med 'Vi får se'."
+    },
+    {
+      "ektenavn": "Organisasjon58",
+      "tullenavn": "Strømstolpanelet",
+      "beskrivelse": "Møtes digitalt, men ingen skrur på kamera og alle later som de hører."
+    },
+    {
+      "ektenavn": "Organisasjon59",
+      "tullenavn": "FN med Forviklinger",
+      "beskrivelse": "Lager lover for land de aldri har besøkt, med kakepause hver halvtime."
+    },
+    {
+      "ektenavn": "Organisasjon60",
+      "tullenavn": "KaffeKoalisjonen",
+      "beskrivelse": "Snakker så mye om bærekraft at selv plantene blir slitne."
+    },
+    {
+      "ektenavn": "Organisasjon61",
+      "tullenavn": "Pingvinprotokollen",
+      "beskrivelse": "Har ett mål: Flere møter og mer kake."
+    },
+    {
+      "ektenavn": "Organisasjon62",
+      "tullenavn": "Helsetrallen",
+      "beskrivelse": "Tror fortsatt fax er en viktig kommunikasjonsform."
+    },
+    {
+      "ektenavn": "Organisasjon63",
+      "tullenavn": "Tidsfordriverne",
+      "beskrivelse": "Alle vedtak er midlertidige, men feires med konfetti og PowerPoint."
+    },
+    {
+      "ektenavn": "Organisasjon64",
+      "tullenavn": "Knappeklikk-komiteen",
+      "beskrivelse": "Består av eksperter som er uenige om alt, inkludert hva som er klokka."
+    },
+    {
+      "ektenavn": "Organisasjon65",
+      "tullenavn": "Zoom-Zebraene",
+      "beskrivelse": "Drives av kaffemaskinen og en overivrig møteleder med bjelle."
+    },
+    {
+      "ektenavn": "Organisasjon66",
+      "tullenavn": "Paragrafpartnerne",
+      "beskrivelse": "Vedtar forslag med aplaus og serverer bare eplekake og diplom."
+    },
+    {
+      "ektenavn": "Organisasjon67",
+      "tullenavn": "Planleggingspanikken",
+      "beskrivelse": "Kommer aldri til enighet, men får nye logoer hvert kvartal."
+    },
+    {
+      "ektenavn": "Organisasjon68",
+      "tullenavn": "Klimakrimklubben",
+      "beskrivelse": "Opprettet for å være nyttig, men mest kjent for sine kule penner."
+    },
+    {
+      "ektenavn": "Organisasjon69",
+      "tullenavn": "KartKonsortiet",
+      "beskrivelse": "Blir ofte forvekslet med et band, spesielt under pressekonferanser."
+    },
+    {
+      "ektenavn": "Organisasjon70",
+      "tullenavn": "Globale Gjesp",
+      "beskrivelse": "Holder årsmøte i en rundkjøring og stemmer med fløyter og blinklys."
+    },
+    {
+      "ektenavn": "Organisasjon71",
+      "tullenavn": "MikrofonMafiaen",
+      "beskrivelse": "Eksisterer hovedsakelig for å sende e-poster ingen leser."
+    },
+    {
+      "ektenavn": "Organisasjon72",
+      "tullenavn": "TegneserieTraktaten",
+      "beskrivelse": "Lager rapporter på 400 sider som konkluderer med 'Vi får se'."
+    },
+    {
+      "ektenavn": "Organisasjon73",
+      "tullenavn": "Verdensvokterne",
+      "beskrivelse": "Møtes digitalt, men ingen skrur på kamera og alle later som de hører."
+    },
+    {
+      "ektenavn": "Organisasjon74",
+      "tullenavn": "Krig & Kollektiv AS",
+      "beskrivelse": "Lager lover for land de aldri har besøkt, med kakepause hver halvtime."
+    },
+    {
+      "ektenavn": "Organisasjon75",
+      "tullenavn": "Brusselbanden",
+      "beskrivelse": "Snakker så mye om bærekraft at selv plantene blir slitne."
+    },
+    {
+      "ektenavn": "Organisasjon76",
+      "tullenavn": "Hoste-Høvdingene",
+      "beskrivelse": "Har ett mål: Flere møter og mer kake."
+    },
+    {
+      "ektenavn": "Organisasjon77",
+      "tullenavn": "Olje-Oppsynet",
+      "beskrivelse": "Tror fortsatt fax er en viktig kommunikasjonsform."
+    },
+    {
+      "ektenavn": "Organisasjon78",
+      "tullenavn": "De Syv Surmagede",
+      "beskrivelse": "Alle vedtak er midlertidige, men feires med konfetti og PowerPoint."
+    },
+    {
+      "ektenavn": "Organisasjon79",
+      "tullenavn": "Flyplassforumet",
+      "beskrivelse": "Består av eksperter som er uenige om alt, inkludert hva som er klokka."
+    },
+    {
+      "ektenavn": "Organisasjon80",
+      "tullenavn": "Regelboka Rundt",
+      "beskrivelse": "Drives av kaffemaskinen og en overivrig møteleder med bjelle."
+    },
+    {
+      "ektenavn": "Organisasjon81",
+      "tullenavn": "Verdensvikarene",
+      "beskrivelse": "Vedtar forslag med aplaus og serverer bare eplekake og diplom."
+    },
+    {
+      "ektenavn": "Organisasjon82",
+      "tullenavn": "Matmakt Rådet",
+      "beskrivelse": "Kommer aldri til enighet, men får nye logoer hvert kvartal."
+    },
+    {
+      "ektenavn": "Organisasjon83",
+      "tullenavn": "Snill, men Streng-klubben",
+      "beskrivelse": "Opprettet for å være nyttig, men mest kjent for sine kule penner."
+    },
+    {
+      "ektenavn": "Organisasjon84",
+      "tullenavn": "Strømstolpanelet",
+      "beskrivelse": "Blir ofte forvekslet med et band, spesielt under pressekonferanser."
+    },
+    {
+      "ektenavn": "Organisasjon85",
+      "tullenavn": "FN med Forviklinger",
+      "beskrivelse": "Holder årsmøte i en rundkjøring og stemmer med fløyter og blinklys."
+    },
+    {
+      "ektenavn": "Organisasjon86",
+      "tullenavn": "KaffeKoalisjonen",
+      "beskrivelse": "Eksisterer hovedsakelig for å sende e-poster ingen leser."
+    },
+    {
+      "ektenavn": "Organisasjon87",
+      "tullenavn": "Pingvinprotokollen",
+      "beskrivelse": "Lager rapporter på 400 sider som konkluderer med 'Vi får se'."
+    },
+    {
+      "ektenavn": "Organisasjon88",
+      "tullenavn": "Helsetrallen",
+      "beskrivelse": "Møtes digitalt, men ingen skrur på kamera og alle later som de hører."
+    },
+    {
+      "ektenavn": "Organisasjon89",
+      "tullenavn": "Tidsfordriverne",
+      "beskrivelse": "Lager lover for land de aldri har besøkt, med kakepause hver halvtime."
+    },
+    {
+      "ektenavn": "Organisasjon90",
+      "tullenavn": "Knappeklikk-komiteen",
+      "beskrivelse": "Snakker så mye om bærekraft at selv plantene blir slitne."
+    },
+    {
+      "ektenavn": "Organisasjon91",
+      "tullenavn": "Zoom-Zebraene",
+      "beskrivelse": "Har ett mål: Flere møter og mer kake."
+    },
+    {
+      "ektenavn": "Organisasjon92",
+      "tullenavn": "Paragrafpartnerne",
+      "beskrivelse": "Tror fortsatt fax er en viktig kommunikasjonsform."
+    },
+    {
+      "ektenavn": "Organisasjon93",
+      "tullenavn": "Planleggingspanikken",
+      "beskrivelse": "Alle vedtak er midlertidige, men feires med konfetti og PowerPoint."
+    },
+    {
+      "ektenavn": "Organisasjon94",
+      "tullenavn": "Klimakrimklubben",
+      "beskrivelse": "Består av eksperter som er uenige om alt, inkludert hva som er klokka."
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+msgid "Nattevakten"
+msgstr ""
+
+msgid "Redaksjonen har tatt kvelden. Prøv igjen senere."
+msgstr ""

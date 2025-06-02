@@ -1,0 +1,60 @@
+/* Nattevakten ticker-stil */
+
+#nattevakt-app {
+  font-family: 'Courier New', Courier, monospace;
+  background: linear-gradient(90deg, #222, #333);
+  color: #00ff99;
+  padding: 1rem;
+  border: 2px solid #00ff99;
+  max-width: 300px;
+  overflow: hidden;
+  box-shadow: 0 0 10px #00ff99;
+  border-radius: 8px;
+  transition: all 0.3s ease;
+}
+
+#nattevakt-app marquee {
+  font-size: 1rem;
+  font-weight: bold;
+  white-space: nowrap;
+  overflow: hidden;
+  animation: scrollleft 20s linear infinite;
+}
+
+#nattevakt-app img {
+  margin-top: 0.5rem;
+  border: 2px solid #00ff99;
+  border-radius: 6px;
+  max-width: 100%;
+  box-shadow: 0 0 10px rgba(0, 255, 153, 0.5);
+  transition: transform 0.3s ease;
+}
+
+#nattevakt-app img:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 15px rgba(0, 255, 153, 0.8);
+}
+
+@media (prefers-color-scheme: dark) {
+  #nattevakt-app {
+    background: #111;
+    color: #66ffcc;
+    border-color: #66ffcc;
+  }
+
+  #nattevakt-app img {
+    border-color: #66ffcc;
+    box-shadow: 0 0 12px rgba(102, 255, 204, 0.5);
+  }
+}
+
+#nattevakt-app:hover {
+  border-color: #ffffff;
+  box-shadow: 0 0 15px #ffffff;
+}
+
+/* Scroll animasjon backup hvis marquee ikke støttes */
+@keyframes scrollleft {
+  0%   { transform: translateX(100%); }
+  100% { transform: translateX(-100%); }
+}

@@ -1,0 +1,2004 @@
+{
+  "ledere": [
+    {
+      "ektenavn": "Harald V",
+      "tullenavn": "Kongen av Fjellheimen",
+      "beskrivelse": "En majestetisk skikkelse som trives best med ski på beina og vafler i hånda. Kjent for å være en ekte fjellgeit med kongelig glans."
+    },
+    {
+      "ektenavn": "Sonja av Norge",
+      "tullenavn": "Brunostdronningen",
+      "beskrivelse": "Dronningen som bringer varme til kalde nordiske hjerter, med et smil som smelter snø og en forkjærlighet for brunost."
+    },
+    {
+      "ektenavn": "Joe Biden",
+      "tullenavn": "Onkel Joe fra Delaware",
+      "beskrivelse": "En politisk veteran med koffert full av vitser, glemte setninger og et hjerte for gamle biler."
+    },
+    {
+      "ektenavn": "Recep Tayyip Erdoğan",
+      "tullenavn": "Kebab-Kongen",
+      "beskrivelse": "Tyrkias leder som styrer landet med en jernhånd og en kebab i den andre. Kjent for å være krydret både i tale og handling."
+    },
+    {
+      "ektenavn": "Volodymyr Zelenskyj",
+      "tullenavn": "Frontlinje-Filmsjefen",
+      "beskrivelse": "Tidligere komiker, nå president – har byttet punchlines med punch i politikken og holder tale i kamuflasje."
+    },
+    {
+      "ektenavn": "Charles III",
+      "tullenavn": "Teselskapets Øverste Tepose",
+      "beskrivelse": "Britisk monark med stiv overleppe, roser i hagen og en svakhet for porselen med gullkant."
+    },
+    {
+      "ektenavn": "Leder1",
+      "tullenavn": "Leder1 Oppstyrsson",
+      "beskrivelse": "Går alltid med hatt, selv under videomøter med FN og i svømmehallen."
+    },
+    {
+      "ektenavn": "Leder2",
+      "tullenavn": "Leder2 Oppstyrsson",
+      "beskrivelse": "Er mest kjent for å ha forhandlet fred mens han vant bingo på direkten."
+    },
+    {
+      "ektenavn": "Leder3",
+      "tullenavn": "Leder3 Oppstyrsson",
+      "beskrivelse": "Står opp kl. 04:00 for å snakke til folkets planter via direktesendt radio."
+    },
+    {
+      "ektenavn": "Leder4",
+      "tullenavn": "Leder4 Oppstyrsson",
+      "beskrivelse": "Har et hemmelig våpen: Bestemors pepperkaker og trusler om å synge karaoke på nasjonalt TV."
+    },
+    {
+      "ektenavn": "Leder5",
+      "tullenavn": "Leder5 Oppstyrsson",
+      "beskrivelse": "Insisterer på å bruke rulleskøyter i alle statsbesøk og har egen fanklubb i Antarktis."
+    },
+    {
+      "ektenavn": "Leder6",
+      "tullenavn": "Leder6 Oppstyrsson",
+      "beskrivelse": "Fikk jobben fordi hen var den eneste som møtte opp med matpakke og blyantspisser."
+    },
+    {
+      "ektenavn": "Leder7",
+      "tullenavn": "Leder7 Oppstyrsson",
+      "beskrivelse": "Styrer landet med en blyant, en termos og tre gamle paragrafer fra 1800-tallet."
+    },
+    {
+      "ektenavn": "Leder8",
+      "tullenavn": "Leder8 Oppstyrsson",
+      "beskrivelse": "Kjent for å løse internasjonale konflikter med sudoku og hjemmebakt kringla."
+    },
+    {
+      "ektenavn": "Leder9",
+      "tullenavn": "Leder9 Oppstyrsson",
+      "beskrivelse": "Har ved et uhell signert flere lover med ketchup enn med penn."
+    },
+    {
+      "ektenavn": "Leder10",
+      "tullenavn": "Leder10 Oppstyrsson",
+      "beskrivelse": "Regjerer fra en lenestol i furu og nekter å bruke e-post, kun røykte signaler."
+    },
+    {
+      "ektenavn": "Leder11",
+      "tullenavn": "Leder11 Oppstyrsson",
+      "beskrivelse": "Har sin egen nasjonalsang på munnspill og danser polka før statsbudsjettet legges frem."
+    },
+    {
+      "ektenavn": "Leder12",
+      "tullenavn": "Leder12 Oppstyrsson",
+      "beskrivelse": "Snakker flytende fire språk, inkludert snorking og lattermild grynting."
+    },
+    {
+      "ektenavn": "Leder13",
+      "tullenavn": "Leder13 Oppstyrsson",
+      "beskrivelse": "Går alltid med hatt, selv under videomøter med FN og i svømmehallen."
+    },
+    {
+      "ektenavn": "Leder14",
+      "tullenavn": "Leder14 Oppstyrsson",
+      "beskrivelse": "Er mest kjent for å ha forhandlet fred mens han vant bingo på direkten."
+    },
+    {
+      "ektenavn": "Leder15",
+      "tullenavn": "Leder15 Oppstyrsson",
+      "beskrivelse": "Står opp kl. 04:00 for å snakke til folkets planter via direktesendt radio."
+    },
+    {
+      "ektenavn": "Leder16",
+      "tullenavn": "Leder16 Oppstyrsson",
+      "beskrivelse": "Har et hemmelig våpen: Bestemors pepperkaker og trusler om å synge karaoke på nasjonalt TV."
+    },
+    {
+      "ektenavn": "Leder17",
+      "tullenavn": "Leder17 Oppstyrsson",
+      "beskrivelse": "Insisterer på å bruke rulleskøyter i alle statsbesøk og har egen fanklubb i Antarktis."
+    },
+    {
+      "ektenavn": "Leder18",
+      "tullenavn": "Leder18 Oppstyrsson",
+      "beskrivelse": "Fikk jobben fordi hen var den eneste som møtte opp med matpakke og blyantspisser."
+    },
+    {
+      "ektenavn": "Leder19",
+      "tullenavn": "Leder19 Oppstyrsson",
+      "beskrivelse": "Styrer landet med en blyant, en termos og tre gamle paragrafer fra 1800-tallet."
+    },
+    {
+      "ektenavn": "Leder20",
+      "tullenavn": "Leder20 Oppstyrsson",
+      "beskrivelse": "Kjent for å løse internasjonale konflikter med sudoku og hjemmebakt kringla."
+    },
+    {
+      "ektenavn": "Leder21",
+      "tullenavn": "Leder21 Oppstyrsson",
+      "beskrivelse": "Har ved et uhell signert flere lover med ketchup enn med penn."
+    },
+    {
+      "ektenavn": "Leder22",
+      "tullenavn": "Leder22 Oppstyrsson",
+      "beskrivelse": "Regjerer fra en lenestol i furu og nekter å bruke e-post, kun røykte signaler."
+    },
+    {
+      "ektenavn": "Leder23",
+      "tullenavn": "Leder23 Oppstyrsson",
+      "beskrivelse": "Har sin egen nasjonalsang på munnspill og danser polka før statsbudsjettet legges frem."
+    },
+    {
+      "ektenavn": "Leder24",
+      "tullenavn": "Leder24 Oppstyrsson",
+      "beskrivelse": "Snakker flytende fire språk, inkludert snorking og lattermild grynting."
+    },
+    {
+      "ektenavn": "Leder25",
+      "tullenavn": "Leder25 Oppstyrsson",
+      "beskrivelse": "Går alltid med hatt, selv under videomøter med FN og i svømmehallen."
+    },
+    {
+      "ektenavn": "Leder26",
+      "tullenavn": "Leder26 Oppstyrsson",
+      "beskrivelse": "Er mest kjent for å ha forhandlet fred mens han vant bingo på direkten."
+    },
+    {
+      "ektenavn": "Leder27",
+      "tullenavn": "Leder27 Oppstyrsson",
+      "beskrivelse": "Står opp kl. 04:00 for å snakke til folkets planter via direktesendt radio."
+    },
+    {
+      "ektenavn": "Leder28",
+      "tullenavn": "Leder28 Oppstyrsson",
+      "beskrivelse": "Har et hemmelig våpen: Bestemors pepperkaker og trusler om å synge karaoke på nasjonalt TV."
+    },
+    {
+      "ektenavn": "Leder29",
+      "tullenavn": "Leder29 Oppstyrsson",
+      "beskrivelse": "Insisterer på å bruke rulleskøyter i alle statsbesøk og har egen fanklubb i Antarktis."
+    },
+    {
+      "ektenavn": "Leder30",
+      "tullenavn": "Leder30 Oppstyrsson",
+      "beskrivelse": "Fikk jobben fordi hen var den eneste som møtte opp med matpakke og blyantspisser."
+    },
+    {
+      "ektenavn": "Leder31",
+      "tullenavn": "Leder31 Oppstyrsson",
+      "beskrivelse": "Styrer landet med en blyant, en termos og tre gamle paragrafer fra 1800-tallet."
+    },
+    {
+      "ektenavn": "Leder32",
+      "tullenavn": "Leder32 Oppstyrsson",
+      "beskrivelse": "Kjent for å løse internasjonale konflikter med sudoku og hjemmebakt kringla."
+    },
+    {
+      "ektenavn": "Leder33",
+      "tullenavn": "Leder33 Oppstyrsson",
+      "beskrivelse": "Har ved et uhell signert flere lover med ketchup enn med penn."
+    },
+    {
+      "ektenavn": "Leder34",
+      "tullenavn": "Leder34 Oppstyrsson",
+      "beskrivelse": "Regjerer fra en lenestol i furu og nekter å bruke e-post, kun røykte signaler."
+    },
+    {
+      "ektenavn": "Leder35",
+      "tullenavn": "Leder35 Oppstyrsson",
+      "beskrivelse": "Har sin egen nasjonalsang på munnspill og danser polka før statsbudsjettet legges frem."
+    },
+    {
+      "ektenavn": "Leder36",
+      "tullenavn": "Leder36 Oppstyrsson",
+      "beskrivelse": "Snakker flytende fire språk, inkludert snorking og lattermild grynting."
+    },
+    {
+      "ektenavn": "Leder37",
+      "tullenavn": "Leder37 Oppstyrsson",
+      "beskrivelse": "Går alltid med hatt, selv under videomøter med FN og i svømmehallen."
+    },
+    {
+      "ektenavn": "Leder38",
+      "tullenavn": "Leder38 Oppstyrsson",
+      "beskrivelse": "Er mest kjent for å ha forhandlet fred mens han vant bingo på direkten."
+    },
+    {
+      "ektenavn": "Leder39",
+      "tullenavn": "Leder39 Oppstyrsson",
+      "beskrivelse": "Står opp kl. 04:00 for å snakke til folkets planter via direktesendt radio."
+    },
+    {
+      "ektenavn": "Leder40",
+      "tullenavn": "Leder40 Oppstyrsson",
+      "beskrivelse": "Har et hemmelig våpen: Bestemors pepperkaker og trusler om å synge karaoke på nasjonalt TV."
+    },
+    {
+      "ektenavn": "Leder41",
+      "tullenavn": "Leder41 Oppstyrsson",
+      "beskrivelse": "Insisterer på å bruke rulleskøyter i alle statsbesøk og har egen fanklubb i Antarktis."
+    },
+    {
+      "ektenavn": "Leder42",
+      "tullenavn": "Leder42 Oppstyrsson",
+      "beskrivelse": "Fikk jobben fordi hen var den eneste som møtte opp med matpakke og blyantspisser."
+    },
+    {
+      "ektenavn": "Leder43",
+      "tullenavn": "Leder43 Oppstyrsson",
+      "beskrivelse": "Styrer landet med en blyant, en termos og tre gamle paragrafer fra 1800-tallet."
+    },
+    {
+      "ektenavn": "Leder44",
+      "tullenavn": "Leder44 Oppstyrsson",
+      "beskrivelse": "Kjent for å løse internasjonale konflikter med sudoku og hjemmebakt kringla."
+    },
+    {
+      "ektenavn": "Leder45",
+      "tullenavn": "Leder45 Oppstyrsson",
+      "beskrivelse": "Har ved et uhell signert flere lover med ketchup enn med penn."
+    },
+    {
+      "ektenavn": "Leder46",
+      "tullenavn": "Leder46 Oppstyrsson",
+      "beskrivelse": "Regjerer fra en lenestol i furu og nekter å bruke e-post, kun røykte signaler."
+    },
+    {
+      "ektenavn": "Leder47",
+      "tullenavn": "Leder47 Oppstyrsson",
+      "beskrivelse": "Har sin egen nasjonalsang på munnspill og danser polka før statsbudsjettet legges frem."
+    },
+    {
+      "ektenavn": "Leder48",
+      "tullenavn": "Leder48 Oppstyrsson",
+      "beskrivelse": "Snakker flytende fire språk, inkludert snorking og lattermild grynting."
+    },
+    {
+      "ektenavn": "Leder49",
+      "tullenavn": "Leder49 Oppstyrsson",
+      "beskrivelse": "Går alltid med hatt, selv under videomøter med FN og i svømmehallen."
+    },
+    {
+      "ektenavn": "Leder50",
+      "tullenavn": "Leder50 Oppstyrsson",
+      "beskrivelse": "Er mest kjent for å ha forhandlet fred mens han vant bingo på direkten."
+    },
+    {
+      "ektenavn": "Leder51",
+      "tullenavn": "Leder51 Oppstyrsson",
+      "beskrivelse": "Står opp kl. 04:00 for å snakke til folkets planter via direktesendt radio."
+    },
+    {
+      "ektenavn": "Leder52",
+      "tullenavn": "Leder52 Oppstyrsson",
+      "beskrivelse": "Har et hemmelig våpen: Bestemors pepperkaker og trusler om å synge karaoke på nasjonalt TV."
+    },
+    {
+      "ektenavn": "Leder53",
+      "tullenavn": "Leder53 Oppstyrsson",
+      "beskrivelse": "Insisterer på å bruke rulleskøyter i alle statsbesøk og har egen fanklubb i Antarktis."
+    },
+    {
+      "ektenavn": "Leder54",
+      "tullenavn": "Leder54 Oppstyrsson",
+      "beskrivelse": "Fikk jobben fordi hen var den eneste som møtte opp med matpakke og blyantspisser."
+    },
+    {
+      "ektenavn": "Leder55",
+      "tullenavn": "Leder55 Oppstyrsson",
+      "beskrivelse": "Styrer landet med en blyant, en termos og tre gamle paragrafer fra 1800-tallet."
+    },
+    {
+      "ektenavn": "Leder56",
+      "tullenavn": "Leder56 Oppstyrsson",
+      "beskrivelse": "Kjent for å løse internasjonale konflikter med sudoku og hjemmebakt kringla."
+    },
+    {
+      "ektenavn": "Leder57",
+      "tullenavn": "Leder57 Oppstyrsson",
+      "beskrivelse": "Har ved et uhell signert flere lover med ketchup enn med penn."
+    },
+    {
+      "ektenavn": "Leder58",
+      "tullenavn": "Leder58 Oppstyrsson",
+      "beskrivelse": "Regjerer fra en lenestol i furu og nekter å bruke e-post, kun røykte signaler."
+    },
+    {
+      "ektenavn": "Leder59",
+      "tullenavn": "Leder59 Oppstyrsson",
+      "beskrivelse": "Har sin egen nasjonalsang på munnspill og danser polka før statsbudsjettet legges frem."
+    },
+    {
+      "ektenavn": "Leder60",
+      "tullenavn": "Leder60 Oppstyrsson",
+      "beskrivelse": "Snakker flytende fire språk, inkludert snorking og lattermild grynting."
+    },
+    {
+      "ektenavn": "Leder61",
+      "tullenavn": "Leder61 Oppstyrsson",
+      "beskrivelse": "Går alltid med hatt, selv under videomøter med FN og i svømmehallen."
+    },
+    {
+      "ektenavn": "Leder62",
+      "tullenavn": "Leder62 Oppstyrsson",
+      "beskrivelse": "Er mest kjent for å ha forhandlet fred mens han vant bingo på direkten."
+    },
+    {
+      "ektenavn": "Leder63",
+      "tullenavn": "Leder63 Oppstyrsson",
+      "beskrivelse": "Står opp kl. 04:00 for å snakke til folkets planter via direktesendt radio."
+    },
+    {
+      "ektenavn": "Leder64",
+      "tullenavn": "Leder64 Oppstyrsson",
+      "beskrivelse": "Har et hemmelig våpen: Bestemors pepperkaker og trusler om å synge karaoke på nasjonalt TV."
+    },
+    {
+      "ektenavn": "Leder65",
+      "tullenavn": "Leder65 Oppstyrsson",
+      "beskrivelse": "Insisterer på å bruke rulleskøyter i alle statsbesøk og har egen fanklubb i Antarktis."
+    },
+    {
+      "ektenavn": "Leder66",
+      "tullenavn": "Leder66 Oppstyrsson",
+      "beskrivelse": "Fikk jobben fordi hen var den eneste som møtte opp med matpakke og blyantspisser."
+    },
+    {
+      "ektenavn": "Leder67",
+      "tullenavn": "Leder67 Oppstyrsson",
+      "beskrivelse": "Styrer landet med en blyant, en termos og tre gamle paragrafer fra 1800-tallet."
+    },
+    {
+      "ektenavn": "Leder68",
+      "tullenavn": "Leder68 Oppstyrsson",
+      "beskrivelse": "Kjent for å løse internasjonale konflikter med sudoku og hjemmebakt kringla."
+    },
+    {
+      "ektenavn": "Leder69",
+      "tullenavn": "Leder69 Oppstyrsson",
+      "beskrivelse": "Har ved et uhell signert flere lover med ketchup enn med penn."
+    },
+    {
+      "ektenavn": "Leder70",
+      "tullenavn": "Leder70 Oppstyrsson",
+      "beskrivelse": "Regjerer fra en lenestol i furu og nekter å bruke e-post, kun røykte signaler."
+    },
+    {
+      "ektenavn": "Leder71",
+      "tullenavn": "Leder71 Oppstyrsson",
+      "beskrivelse": "Har sin egen nasjonalsang på munnspill og danser polka før statsbudsjettet legges frem."
+    },
+    {
+      "ektenavn": "Leder72",
+      "tullenavn": "Leder72 Oppstyrsson",
+      "beskrivelse": "Snakker flytende fire språk, inkludert snorking og lattermild grynting."
+    },
+    {
+      "ektenavn": "Leder73",
+      "tullenavn": "Leder73 Oppstyrsson",
+      "beskrivelse": "Går alltid med hatt, selv under videomøter med FN og i svømmehallen."
+    },
+    {
+      "ektenavn": "Leder74",
+      "tullenavn": "Leder74 Oppstyrsson",
+      "beskrivelse": "Er mest kjent for å ha forhandlet fred mens han vant bingo på direkten."
+    },
+    {
+      "ektenavn": "Leder75",
+      "tullenavn": "Leder75 Oppstyrsson",
+      "beskrivelse": "Står opp kl. 04:00 for å snakke til folkets planter via direktesendt radio."
+    },
+    {
+      "ektenavn": "Leder76",
+      "tullenavn": "Leder76 Oppstyrsson",
+      "beskrivelse": "Har et hemmelig våpen: Bestemors pepperkaker og trusler om å synge karaoke på nasjonalt TV."
+    },
+    {
+      "ektenavn": "Leder77",
+      "tullenavn": "Leder77 Oppstyrsson",
+      "beskrivelse": "Insisterer på å bruke rulleskøyter i alle statsbesøk og har egen fanklubb i Antarktis."
+    },
+    {
+      "ektenavn": "Leder78",
+      "tullenavn": "Leder78 Oppstyrsson",
+      "beskrivelse": "Fikk jobben fordi hen var den eneste som møtte opp med matpakke og blyantspisser."
+    },
+    {
+      "ektenavn": "Leder79",
+      "tullenavn": "Leder79 Oppstyrsson",
+      "beskrivelse": "Styrer landet med en blyant, en termos og tre gamle paragrafer fra 1800-tallet."
+    },
+    {
+      "ektenavn": "Leder80",
+      "tullenavn": "Leder80 Oppstyrsson",
+      "beskrivelse": "Kjent for å løse internasjonale konflikter med sudoku og hjemmebakt kringla."
+    },
+    {
+      "ektenavn": "Leder81",
+      "tullenavn": "Leder81 Oppstyrsson",
+      "beskrivelse": "Har ved et uhell signert flere lover med ketchup enn med penn."
+    },
+    {
+      "ektenavn": "Leder82",
+      "tullenavn": "Leder82 Oppstyrsson",
+      "beskrivelse": "Regjerer fra en lenestol i furu og nekter å bruke e-post, kun røykte signaler."
+    },
+    {
+      "ektenavn": "Leder83",
+      "tullenavn": "Leder83 Oppstyrsson",
+      "beskrivelse": "Har sin egen nasjonalsang på munnspill og danser polka før statsbudsjettet legges frem."
+    },
+    {
+      "ektenavn": "Leder84",
+      "tullenavn": "Leder84 Oppstyrsson",
+      "beskrivelse": "Snakker flytende fire språk, inkludert snorking og lattermild grynting."
+    },
+    {
+      "ektenavn": "Leder85",
+      "tullenavn": "Leder85 Oppstyrsson",
+      "beskrivelse": "Går alltid med hatt, selv under videomøter med FN og i svømmehallen."
+    },
+    {
+      "ektenavn": "Leder86",
+      "tullenavn": "Leder86 Oppstyrsson",
+      "beskrivelse": "Er mest kjent for å ha forhandlet fred mens han vant bingo på direkten."
+    },
+    {
+      "ektenavn": "Leder87",
+      "tullenavn": "Leder87 Oppstyrsson",
+      "beskrivelse": "Står opp kl. 04:00 for å snakke til folkets planter via direktesendt radio."
+    },
+    {
+      "ektenavn": "Leder88",
+      "tullenavn": "Leder88 Oppstyrsson",
+      "beskrivelse": "Har et hemmelig våpen: Bestemors pepperkaker og trusler om å synge karaoke på nasjonalt TV."
+    },
+    {
+      "ektenavn": "Leder89",
+      "tullenavn": "Leder89 Oppstyrsson",
+      "beskrivelse": "Insisterer på å bruke rulleskøyter i alle statsbesøk og har egen fanklubb i Antarktis."
+    },
+    {
+      "ektenavn": "Leder90",
+      "tullenavn": "Leder90 Oppstyrsson",
+      "beskrivelse": "Fikk jobben fordi hen var den eneste som møtte opp med matpakke og blyantspisser."
+    },
+    {
+      "ektenavn": "Leder91",
+      "tullenavn": "Leder91 Oppstyrsson",
+      "beskrivelse": "Styrer landet med en blyant, en termos og tre gamle paragrafer fra 1800-tallet."
+    },
+    {
+      "ektenavn": "Leder92",
+      "tullenavn": "Leder92 Oppstyrsson",
+      "beskrivelse": "Kjent for å løse internasjonale konflikter med sudoku og hjemmebakt kringla."
+    },
+    {
+      "ektenavn": "Leder93",
+      "tullenavn": "Leder93 Oppstyrsson",
+      "beskrivelse": "Har ved et uhell signert flere lover med ketchup enn med penn."
+    },
+    {
+      "ektenavn": "Leder94",
+      "tullenavn": "Leder94 Oppstyrsson",
+      "beskrivelse": "Regjerer fra en lenestol i furu og nekter å bruke e-post, kun røykte signaler."
+    },
+    {
+      "ektenavn": "Leder95",
+      "tullenavn": "Leder95 Oppstyrsson",
+      "beskrivelse": "Har sin egen nasjonalsang på munnspill og danser polka før statsbudsjettet legges frem."
+    },
+    {
+      "ektenavn": "Leder96",
+      "tullenavn": "Leder96 Oppstyrsson",
+      "beskrivelse": "Snakker flytende fire språk, inkludert snorking og lattermild grynting."
+    },
+    {
+      "ektenavn": "Leder97",
+      "tullenavn": "Leder97 Oppstyrsson",
+      "beskrivelse": "Går alltid med hatt, selv under videomøter med FN og i svømmehallen."
+    },
+    {
+      "ektenavn": "Leder98",
+      "tullenavn": "Leder98 Oppstyrsson",
+      "beskrivelse": "Er mest kjent for å ha forhandlet fred mens han vant bingo på direkten."
+    },
+    {
+      "ektenavn": "Leder99",
+      "tullenavn": "Leder99 Oppstyrsson",
+      "beskrivelse": "Står opp kl. 04:00 for å snakke til folkets planter via direktesendt radio."
+    },
+    {
+      "ektenavn": "Leder100",
+      "tullenavn": "Leder100 Oppstyrsson",
+      "beskrivelse": "Har et hemmelig våpen: Bestemors pepperkaker og trusler om å synge karaoke på nasjonalt TV."
+    },
+    {
+      "ektenavn": "Leder101",
+      "tullenavn": "Leder101 Oppstyrsson",
+      "beskrivelse": "Insisterer på å bruke rulleskøyter i alle statsbesøk og har egen fanklubb i Antarktis."
+    },
+    {
+      "ektenavn": "Leder102",
+      "tullenavn": "Leder102 Oppstyrsson",
+      "beskrivelse": "Fikk jobben fordi hen var den eneste som møtte opp med matpakke og blyantspisser."
+    },
+    {
+      "ektenavn": "Leder103",
+      "tullenavn": "Leder103 Oppstyrsson",
+      "beskrivelse": "Styrer landet med en blyant, en termos og tre gamle paragrafer fra 1800-tallet."
+    },
+    {
+      "ektenavn": "Leder104",
+      "tullenavn": "Leder104 Oppstyrsson",
+      "beskrivelse": "Kjent for å løse internasjonale konflikter med sudoku og hjemmebakt kringla."
+    },
+    {
+      "ektenavn": "Leder105",
+      "tullenavn": "Leder105 Oppstyrsson",
+      "beskrivelse": "Har ved et uhell signert flere lover med ketchup enn med penn."
+    },
+    {
+      "ektenavn": "Leder106",
+      "tullenavn": "Leder106 Oppstyrsson",
+      "beskrivelse": "Regjerer fra en lenestol i furu og nekter å bruke e-post, kun røykte signaler."
+    },
+    {
+      "ektenavn": "Leder107",
+      "tullenavn": "Leder107 Oppstyrsson",
+      "beskrivelse": "Har sin egen nasjonalsang på munnspill og danser polka før statsbudsjettet legges frem."
+    },
+    {
+      "ektenavn": "Leder108",
+      "tullenavn": "Leder108 Oppstyrsson",
+      "beskrivelse": "Snakker flytende fire språk, inkludert snorking og lattermild grynting."
+    },
+    {
+      "ektenavn": "Leder109",
+      "tullenavn": "Leder109 Oppstyrsson",
+      "beskrivelse": "Går alltid med hatt, selv under videomøter med FN og i svømmehallen."
+    },
+    {
+      "ektenavn": "Leder110",
+      "tullenavn": "Leder110 Oppstyrsson",
+      "beskrivelse": "Er mest kjent for å ha forhandlet fred mens han vant bingo på direkten."
+    },
+    {
+      "ektenavn": "Leder111",
+      "tullenavn": "Leder111 Oppstyrsson",
+      "beskrivelse": "Står opp kl. 04:00 for å snakke til folkets planter via direktesendt radio."
+    },
+    {
+      "ektenavn": "Leder112",
+      "tullenavn": "Leder112 Oppstyrsson",
+      "beskrivelse": "Har et hemmelig våpen: Bestemors pepperkaker og trusler om å synge karaoke på nasjonalt TV."
+    },
+    {
+      "ektenavn": "Leder113",
+      "tullenavn": "Leder113 Oppstyrsson",
+      "beskrivelse": "Insisterer på å bruke rulleskøyter i alle statsbesøk og har egen fanklubb i Antarktis."
+    },
+    {
+      "ektenavn": "Leder114",
+      "tullenavn": "Leder114 Oppstyrsson",
+      "beskrivelse": "Fikk jobben fordi hen var den eneste som møtte opp med matpakke og blyantspisser."
+    },
+    {
+      "ektenavn": "Leder115",
+      "tullenavn": "Leder115 Oppstyrsson",
+      "beskrivelse": "Styrer landet med en blyant, en termos og tre gamle paragrafer fra 1800-tallet."
+    },
+    {
+      "ektenavn": "Leder116",
+      "tullenavn": "Leder116 Oppstyrsson",
+      "beskrivelse": "Kjent for å løse internasjonale konflikter med sudoku og hjemmebakt kringla."
+    },
+    {
+      "ektenavn": "Leder117",
+      "tullenavn": "Leder117 Oppstyrsson",
+      "beskrivelse": "Har ved et uhell signert flere lover med ketchup enn med penn."
+    },
+    {
+      "ektenavn": "Leder118",
+      "tullenavn": "Leder118 Oppstyrsson",
+      "beskrivelse": "Regjerer fra en lenestol i furu og nekter å bruke e-post, kun røykte signaler."
+    },
+    {
+      "ektenavn": "Leder119",
+      "tullenavn": "Leder119 Oppstyrsson",
+      "beskrivelse": "Har sin egen nasjonalsang på munnspill og danser polka før statsbudsjettet legges frem."
+    },
+    {
+      "ektenavn": "Leder120",
+      "tullenavn": "Leder120 Oppstyrsson",
+      "beskrivelse": "Snakker flytende fire språk, inkludert snorking og lattermild grynting."
+    },
+    {
+      "ektenavn": "Leder121",
+      "tullenavn": "Leder121 Oppstyrsson",
+      "beskrivelse": "Går alltid med hatt, selv under videomøter med FN og i svømmehallen."
+    },
+    {
+      "ektenavn": "Leder122",
+      "tullenavn": "Leder122 Oppstyrsson",
+      "beskrivelse": "Er mest kjent for å ha forhandlet fred mens han vant bingo på direkten."
+    },
+    {
+      "ektenavn": "Leder123",
+      "tullenavn": "Leder123 Oppstyrsson",
+      "beskrivelse": "Står opp kl. 04:00 for å snakke til folkets planter via direktesendt radio."
+    },
+    {
+      "ektenavn": "Leder124",
+      "tullenavn": "Leder124 Oppstyrsson",
+      "beskrivelse": "Har et hemmelig våpen: Bestemors pepperkaker og trusler om å synge karaoke på nasjonalt TV."
+    },
+    {
+      "ektenavn": "Leder125",
+      "tullenavn": "Leder125 Oppstyrsson",
+      "beskrivelse": "Insisterer på å bruke rulleskøyter i alle statsbesøk og har egen fanklubb i Antarktis."
+    },
+    {
+      "ektenavn": "Leder126",
+      "tullenavn": "Leder126 Oppstyrsson",
+      "beskrivelse": "Fikk jobben fordi hen var den eneste som møtte opp med matpakke og blyantspisser."
+    },
+    {
+      "ektenavn": "Leder127",
+      "tullenavn": "Leder127 Oppstyrsson",
+      "beskrivelse": "Styrer landet med en blyant, en termos og tre gamle paragrafer fra 1800-tallet."
+    },
+    {
+      "ektenavn": "Leder128",
+      "tullenavn": "Leder128 Oppstyrsson",
+      "beskrivelse": "Kjent for å løse internasjonale konflikter med sudoku og hjemmebakt kringla."
+    },
+    {
+      "ektenavn": "Leder129",
+      "tullenavn": "Leder129 Oppstyrsson",
+      "beskrivelse": "Har ved et uhell signert flere lover med ketchup enn med penn."
+    },
+    {
+      "ektenavn": "Leder130",
+      "tullenavn": "Leder130 Oppstyrsson",
+      "beskrivelse": "Regjerer fra en lenestol i furu og nekter å bruke e-post, kun røykte signaler."
+    },
+    {
+      "ektenavn": "Leder131",
+      "tullenavn": "Leder131 Oppstyrsson",
+      "beskrivelse": "Har sin egen nasjonalsang på munnspill og danser polka før statsbudsjettet legges frem."
+    },
+    {
+      "ektenavn": "Leder132",
+      "tullenavn": "Leder132 Oppstyrsson",
+      "beskrivelse": "Snakker flytende fire språk, inkludert snorking og lattermild grynting."
+    },
+    {
+      "ektenavn": "Leder133",
+      "tullenavn": "Leder133 Oppstyrsson",
+      "beskrivelse": "Går alltid med hatt, selv under videomøter med FN og i svømmehallen."
+    },
+    {
+      "ektenavn": "Leder134",
+      "tullenavn": "Leder134 Oppstyrsson",
+      "beskrivelse": "Er mest kjent for å ha forhandlet fred mens han vant bingo på direkten."
+    },
+    {
+      "ektenavn": "Leder135",
+      "tullenavn": "Leder135 Oppstyrsson",
+      "beskrivelse": "Står opp kl. 04:00 for å snakke til folkets planter via direktesendt radio."
+    },
+    {
+      "ektenavn": "Leder136",
+      "tullenavn": "Leder136 Oppstyrsson",
+      "beskrivelse": "Har et hemmelig våpen: Bestemors pepperkaker og trusler om å synge karaoke på nasjonalt TV."
+    },
+    {
+      "ektenavn": "Leder137",
+      "tullenavn": "Leder137 Oppstyrsson",
+      "beskrivelse": "Insisterer på å bruke rulleskøyter i alle statsbesøk og har egen fanklubb i Antarktis."
+    },
+    {
+      "ektenavn": "Leder138",
+      "tullenavn": "Leder138 Oppstyrsson",
+      "beskrivelse": "Fikk jobben fordi hen var den eneste som møtte opp med matpakke og blyantspisser."
+    },
+    {
+      "ektenavn": "Leder139",
+      "tullenavn": "Leder139 Oppstyrsson",
+      "beskrivelse": "Styrer landet med en blyant, en termos og tre gamle paragrafer fra 1800-tallet."
+    },
+    {
+      "ektenavn": "Leder140",
+      "tullenavn": "Leder140 Oppstyrsson",
+      "beskrivelse": "Kjent for å løse internasjonale konflikter med sudoku og hjemmebakt kringla."
+    },
+    {
+      "ektenavn": "Leder141",
+      "tullenavn": "Leder141 Oppstyrsson",
+      "beskrivelse": "Har ved et uhell signert flere lover med ketchup enn med penn."
+    },
+    {
+      "ektenavn": "Leder142",
+      "tullenavn": "Leder142 Oppstyrsson",
+      "beskrivelse": "Regjerer fra en lenestol i furu og nekter å bruke e-post, kun røykte signaler."
+    },
+    {
+      "ektenavn": "Leder143",
+      "tullenavn": "Leder143 Oppstyrsson",
+      "beskrivelse": "Har sin egen nasjonalsang på munnspill og danser polka før statsbudsjettet legges frem."
+    },
+    {
+      "ektenavn": "Leder144",
+      "tullenavn": "Leder144 Oppstyrsson",
+      "beskrivelse": "Snakker flytende fire språk, inkludert snorking og lattermild grynting."
+    },
+    {
+      "ektenavn": "Leder145",
+      "tullenavn": "Leder145 Oppstyrsson",
+      "beskrivelse": "Går alltid med hatt, selv under videomøter med FN og i svømmehallen."
+    },
+    {
+      "ektenavn": "Leder146",
+      "tullenavn": "Leder146 Oppstyrsson",
+      "beskrivelse": "Er mest kjent for å ha forhandlet fred mens han vant bingo på direkten."
+    },
+    {
+      "ektenavn": "Leder147",
+      "tullenavn": "Leder147 Oppstyrsson",
+      "beskrivelse": "Står opp kl. 04:00 for å snakke til folkets planter via direktesendt radio."
+    },
+    {
+      "ektenavn": "Leder148",
+      "tullenavn": "Leder148 Oppstyrsson",
+      "beskrivelse": "Har et hemmelig våpen: Bestemors pepperkaker og trusler om å synge karaoke på nasjonalt TV."
+    },
+    {
+      "ektenavn": "Leder149",
+      "tullenavn": "Leder149 Oppstyrsson",
+      "beskrivelse": "Insisterer på å bruke rulleskøyter i alle statsbesøk og har egen fanklubb i Antarktis."
+    },
+    {
+      "ektenavn": "Leder150",
+      "tullenavn": "Leder150 Oppstyrsson",
+      "beskrivelse": "Fikk jobben fordi hen var den eneste som møtte opp med matpakke og blyantspisser."
+    },
+    {
+      "ektenavn": "Leder151",
+      "tullenavn": "Leder151 Oppstyrsson",
+      "beskrivelse": "Styrer landet med en blyant, en termos og tre gamle paragrafer fra 1800-tallet."
+    },
+    {
+      "ektenavn": "Leder152",
+      "tullenavn": "Leder152 Oppstyrsson",
+      "beskrivelse": "Kjent for å løse internasjonale konflikter med sudoku og hjemmebakt kringla."
+    },
+    {
+      "ektenavn": "Leder153",
+      "tullenavn": "Leder153 Oppstyrsson",
+      "beskrivelse": "Har ved et uhell signert flere lover med ketchup enn med penn."
+    },
+    {
+      "ektenavn": "Leder154",
+      "tullenavn": "Leder154 Oppstyrsson",
+      "beskrivelse": "Regjerer fra en lenestol i furu og nekter å bruke e-post, kun røykte signaler."
+    },
+    {
+      "ektenavn": "Leder155",
+      "tullenavn": "Leder155 Oppstyrsson",
+      "beskrivelse": "Har sin egen nasjonalsang på munnspill og danser polka før statsbudsjettet legges frem."
+    },
+    {
+      "ektenavn": "Leder156",
+      "tullenavn": "Leder156 Oppstyrsson",
+      "beskrivelse": "Snakker flytende fire språk, inkludert snorking og lattermild grynting."
+    },
+    {
+      "ektenavn": "Leder157",
+      "tullenavn": "Leder157 Oppstyrsson",
+      "beskrivelse": "Går alltid med hatt, selv under videomøter med FN og i svømmehallen."
+    },
+    {
+      "ektenavn": "Leder158",
+      "tullenavn": "Leder158 Oppstyrsson",
+      "beskrivelse": "Er mest kjent for å ha forhandlet fred mens han vant bingo på direkten."
+    },
+    {
+      "ektenavn": "Leder159",
+      "tullenavn": "Leder159 Oppstyrsson",
+      "beskrivelse": "Står opp kl. 04:00 for å snakke til folkets planter via direktesendt radio."
+    },
+    {
+      "ektenavn": "Leder160",
+      "tullenavn": "Leder160 Oppstyrsson",
+      "beskrivelse": "Har et hemmelig våpen: Bestemors pepperkaker og trusler om å synge karaoke på nasjonalt TV."
+    },
+    {
+      "ektenavn": "Leder161",
+      "tullenavn": "Leder161 Oppstyrsson",
+      "beskrivelse": "Insisterer på å bruke rulleskøyter i alle statsbesøk og har egen fanklubb i Antarktis."
+    },
+    {
+      "ektenavn": "Leder162",
+      "tullenavn": "Leder162 Oppstyrsson",
+      "beskrivelse": "Fikk jobben fordi hen var den eneste som møtte opp med matpakke og blyantspisser."
+    },
+    {
+      "ektenavn": "Leder163",
+      "tullenavn": "Leder163 Oppstyrsson",
+      "beskrivelse": "Styrer landet med en blyant, en termos og tre gamle paragrafer fra 1800-tallet."
+    },
+    {
+      "ektenavn": "Leder164",
+      "tullenavn": "Leder164 Oppstyrsson",
+      "beskrivelse": "Kjent for å løse internasjonale konflikter med sudoku og hjemmebakt kringla."
+    },
+    {
+      "ektenavn": "Leder165",
+      "tullenavn": "Leder165 Oppstyrsson",
+      "beskrivelse": "Har ved et uhell signert flere lover med ketchup enn med penn."
+    },
+    {
+      "ektenavn": "Leder166",
+      "tullenavn": "Leder166 Oppstyrsson",
+      "beskrivelse": "Regjerer fra en lenestol i furu og nekter å bruke e-post, kun røykte signaler."
+    },
+    {
+      "ektenavn": "Leder167",
+      "tullenavn": "Leder167 Oppstyrsson",
+      "beskrivelse": "Har sin egen nasjonalsang på munnspill og danser polka før statsbudsjettet legges frem."
+    },
+    {
+      "ektenavn": "Leder168",
+      "tullenavn": "Leder168 Oppstyrsson",
+      "beskrivelse": "Snakker flytende fire språk, inkludert snorking og lattermild grynting."
+    },
+    {
+      "ektenavn": "Leder169",
+      "tullenavn": "Leder169 Oppstyrsson",
+      "beskrivelse": "Går alltid med hatt, selv under videomøter med FN og i svømmehallen."
+    },
+    {
+      "ektenavn": "Leder170",
+      "tullenavn": "Leder170 Oppstyrsson",
+      "beskrivelse": "Er mest kjent for å ha forhandlet fred mens han vant bingo på direkten."
+    },
+    {
+      "ektenavn": "Leder171",
+      "tullenavn": "Leder171 Oppstyrsson",
+      "beskrivelse": "Står opp kl. 04:00 for å snakke til folkets planter via direktesendt radio."
+    },
+    {
+      "ektenavn": "Leder172",
+      "tullenavn": "Leder172 Oppstyrsson",
+      "beskrivelse": "Har et hemmelig våpen: Bestemors pepperkaker og trusler om å synge karaoke på nasjonalt TV."
+    },
+    {
+      "ektenavn": "Leder173",
+      "tullenavn": "Leder173 Oppstyrsson",
+      "beskrivelse": "Insisterer på å bruke rulleskøyter i alle statsbesøk og har egen fanklubb i Antarktis."
+    },
+    {
+      "ektenavn": "Leder174",
+      "tullenavn": "Leder174 Oppstyrsson",
+      "beskrivelse": "Fikk jobben fordi hen var den eneste som møtte opp med matpakke og blyantspisser."
+    },
+    {
+      "ektenavn": "Leder175",
+      "tullenavn": "Leder175 Oppstyrsson",
+      "beskrivelse": "Styrer landet med en blyant, en termos og tre gamle paragrafer fra 1800-tallet."
+    },
+    {
+      "ektenavn": "Leder176",
+      "tullenavn": "Leder176 Oppstyrsson",
+      "beskrivelse": "Kjent for å løse internasjonale konflikter med sudoku og hjemmebakt kringla."
+    },
+    {
+      "ektenavn": "Leder177",
+      "tullenavn": "Leder177 Oppstyrsson",
+      "beskrivelse": "Har ved et uhell signert flere lover med ketchup enn med penn."
+    },
+    {
+      "ektenavn": "Leder178",
+      "tullenavn": "Leder178 Oppstyrsson",
+      "beskrivelse": "Regjerer fra en lenestol i furu og nekter å bruke e-post, kun røykte signaler."
+    },
+    {
+      "ektenavn": "Leder179",
+      "tullenavn": "Leder179 Oppstyrsson",
+      "beskrivelse": "Har sin egen nasjonalsang på munnspill og danser polka før statsbudsjettet legges frem."
+    },
+    {
+      "ektenavn": "Leder180",
+      "tullenavn": "Leder180 Oppstyrsson",
+      "beskrivelse": "Snakker flytende fire språk, inkludert snorking og lattermild grynting."
+    },
+    {
+      "ektenavn": "Leder181",
+      "tullenavn": "Leder181 Oppstyrsson",
+      "beskrivelse": "Går alltid med hatt, selv under videomøter med FN og i svømmehallen."
+    },
+    {
+      "ektenavn": "Leder182",
+      "tullenavn": "Leder182 Oppstyrsson",
+      "beskrivelse": "Er mest kjent for å ha forhandlet fred mens han vant bingo på direkten."
+    },
+    {
+      "ektenavn": "Leder183",
+      "tullenavn": "Leder183 Oppstyrsson",
+      "beskrivelse": "Står opp kl. 04:00 for å snakke til folkets planter via direktesendt radio."
+    },
+    {
+      "ektenavn": "Leder184",
+      "tullenavn": "Leder184 Oppstyrsson",
+      "beskrivelse": "Har et hemmelig våpen: Bestemors pepperkaker og trusler om å synge karaoke på nasjonalt TV."
+    },
+    {
+      "ektenavn": "Leder185",
+      "tullenavn": "Leder185 Oppstyrsson",
+      "beskrivelse": "Insisterer på å bruke rulleskøyter i alle statsbesøk og har egen fanklubb i Antarktis."
+    },
+    {
+      "ektenavn": "Leder186",
+      "tullenavn": "Leder186 Oppstyrsson",
+      "beskrivelse": "Fikk jobben fordi hen var den eneste som møtte opp med matpakke og blyantspisser."
+    },
+    {
+      "ektenavn": "Leder187",
+      "tullenavn": "Leder187 Oppstyrsson",
+      "beskrivelse": "Styrer landet med en blyant, en termos og tre gamle paragrafer fra 1800-tallet."
+    },
+    {
+      "ektenavn": "Leder188",
+      "tullenavn": "Leder188 Oppstyrsson",
+      "beskrivelse": "Kjent for å løse internasjonale konflikter med sudoku og hjemmebakt kringla."
+    },
+    {
+      "ektenavn": "Leder189",
+      "tullenavn": "Leder189 Oppstyrsson",
+      "beskrivelse": "Har ved et uhell signert flere lover med ketchup enn med penn."
+    },
+    {
+      "ektenavn": "Leder190",
+      "tullenavn": "Leder190 Oppstyrsson",
+      "beskrivelse": "Regjerer fra en lenestol i furu og nekter å bruke e-post, kun røykte signaler."
+    },
+    {
+      "ektenavn": "Leder191",
+      "tullenavn": "Leder191 Oppstyrsson",
+      "beskrivelse": "Har sin egen nasjonalsang på munnspill og danser polka før statsbudsjettet legges frem."
+    },
+    {
+      "ektenavn": "Leder192",
+      "tullenavn": "Leder192 Oppstyrsson",
+      "beskrivelse": "Snakker flytende fire språk, inkludert snorking og lattermild grynting."
+    },
+    {
+      "ektenavn": "Leder193",
+      "tullenavn": "Leder193 Oppstyrsson",
+      "beskrivelse": "Går alltid med hatt, selv under videomøter med FN og i svømmehallen."
+    },
+    {
+      "ektenavn": "Leder194",
+      "tullenavn": "Leder194 Oppstyrsson",
+      "beskrivelse": "Er mest kjent for å ha forhandlet fred mens han vant bingo på direkten."
+    },
+    {
+      "ektenavn": "Leder195",
+      "tullenavn": "Leder195 Oppstyrsson",
+      "beskrivelse": "Står opp kl. 04:00 for å snakke til folkets planter via direktesendt radio."
+    },
+    {
+      "ektenavn": "Leder196",
+      "tullenavn": "Leder196 Oppstyrsson",
+      "beskrivelse": "Har et hemmelig våpen: Bestemors pepperkaker og trusler om å synge karaoke på nasjonalt TV."
+    },
+    {
+      "ektenavn": "Leder197",
+      "tullenavn": "Leder197 Oppstyrsson",
+      "beskrivelse": "Insisterer på å bruke rulleskøyter i alle statsbesøk og har egen fanklubb i Antarktis."
+    },
+    {
+      "ektenavn": "Leder198",
+      "tullenavn": "Leder198 Oppstyrsson",
+      "beskrivelse": "Fikk jobben fordi hen var den eneste som møtte opp med matpakke og blyantspisser."
+    },
+    {
+      "ektenavn": "Leder199",
+      "tullenavn": "Leder199 Oppstyrsson",
+      "beskrivelse": "Styrer landet med en blyant, en termos og tre gamle paragrafer fra 1800-tallet."
+    },
+    {
+      "ektenavn": "Leder200",
+      "tullenavn": "Leder200 Oppstyrsson",
+      "beskrivelse": "Kjent for å løse internasjonale konflikter med sudoku og hjemmebakt kringla."
+    },
+    {
+      "ektenavn": "Leder201",
+      "tullenavn": "Leder201 Oppstyrsson",
+      "beskrivelse": "Har ved et uhell signert flere lover med ketchup enn med penn."
+    },
+    {
+      "ektenavn": "Leder202",
+      "tullenavn": "Leder202 Oppstyrsson",
+      "beskrivelse": "Regjerer fra en lenestol i furu og nekter å bruke e-post, kun røykte signaler."
+    },
+    {
+      "ektenavn": "Leder203",
+      "tullenavn": "Leder203 Oppstyrsson",
+      "beskrivelse": "Har sin egen nasjonalsang på munnspill og danser polka før statsbudsjettet legges frem."
+    },
+    {
+      "ektenavn": "Leder204",
+      "tullenavn": "Leder204 Oppstyrsson",
+      "beskrivelse": "Snakker flytende fire språk, inkludert snorking og lattermild grynting."
+    },
+    {
+      "ektenavn": "Leder205",
+      "tullenavn": "Leder205 Oppstyrsson",
+      "beskrivelse": "Går alltid med hatt, selv under videomøter med FN og i svømmehallen."
+    },
+    {
+      "ektenavn": "Leder206",
+      "tullenavn": "Leder206 Oppstyrsson",
+      "beskrivelse": "Er mest kjent for å ha forhandlet fred mens han vant bingo på direkten."
+    },
+    {
+      "ektenavn": "Leder207",
+      "tullenavn": "Leder207 Oppstyrsson",
+      "beskrivelse": "Står opp kl. 04:00 for å snakke til folkets planter via direktesendt radio."
+    },
+    {
+      "ektenavn": "Leder208",
+      "tullenavn": "Leder208 Oppstyrsson",
+      "beskrivelse": "Har et hemmelig våpen: Bestemors pepperkaker og trusler om å synge karaoke på nasjonalt TV."
+    },
+    {
+      "ektenavn": "Leder209",
+      "tullenavn": "Leder209 Oppstyrsson",
+      "beskrivelse": "Insisterer på å bruke rulleskøyter i alle statsbesøk og har egen fanklubb i Antarktis."
+    },
+    {
+      "ektenavn": "Leder210",
+      "tullenavn": "Leder210 Oppstyrsson",
+      "beskrivelse": "Fikk jobben fordi hen var den eneste som møtte opp med matpakke og blyantspisser."
+    },
+    {
+      "ektenavn": "Leder211",
+      "tullenavn": "Leder211 Oppstyrsson",
+      "beskrivelse": "Styrer landet med en blyant, en termos og tre gamle paragrafer fra 1800-tallet."
+    },
+    {
+      "ektenavn": "Leder212",
+      "tullenavn": "Leder212 Oppstyrsson",
+      "beskrivelse": "Kjent for å løse internasjonale konflikter med sudoku og hjemmebakt kringla."
+    },
+    {
+      "ektenavn": "Leder213",
+      "tullenavn": "Leder213 Oppstyrsson",
+      "beskrivelse": "Har ved et uhell signert flere lover med ketchup enn med penn."
+    },
+    {
+      "ektenavn": "Leder214",
+      "tullenavn": "Leder214 Oppstyrsson",
+      "beskrivelse": "Regjerer fra en lenestol i furu og nekter å bruke e-post, kun røykte signaler."
+    },
+    {
+      "ektenavn": "Leder215",
+      "tullenavn": "Leder215 Oppstyrsson",
+      "beskrivelse": "Har sin egen nasjonalsang på munnspill og danser polka før statsbudsjettet legges frem."
+    },
+    {
+      "ektenavn": "Leder216",
+      "tullenavn": "Leder216 Oppstyrsson",
+      "beskrivelse": "Snakker flytende fire språk, inkludert snorking og lattermild grynting."
+    },
+    {
+      "ektenavn": "Leder217",
+      "tullenavn": "Leder217 Oppstyrsson",
+      "beskrivelse": "Går alltid med hatt, selv under videomøter med FN og i svømmehallen."
+    },
+    {
+      "ektenavn": "Leder218",
+      "tullenavn": "Leder218 Oppstyrsson",
+      "beskrivelse": "Er mest kjent for å ha forhandlet fred mens han vant bingo på direkten."
+    },
+    {
+      "ektenavn": "Leder219",
+      "tullenavn": "Leder219 Oppstyrsson",
+      "beskrivelse": "Står opp kl. 04:00 for å snakke til folkets planter via direktesendt radio."
+    },
+    {
+      "ektenavn": "Leder220",
+      "tullenavn": "Leder220 Oppstyrsson",
+      "beskrivelse": "Har et hemmelig våpen: Bestemors pepperkaker og trusler om å synge karaoke på nasjonalt TV."
+    },
+    {
+      "ektenavn": "Leder221",
+      "tullenavn": "Leder221 Oppstyrsson",
+      "beskrivelse": "Insisterer på å bruke rulleskøyter i alle statsbesøk og har egen fanklubb i Antarktis."
+    },
+    {
+      "ektenavn": "Leder222",
+      "tullenavn": "Leder222 Oppstyrsson",
+      "beskrivelse": "Fikk jobben fordi hen var den eneste som møtte opp med matpakke og blyantspisser."
+    },
+    {
+      "ektenavn": "Leder223",
+      "tullenavn": "Leder223 Oppstyrsson",
+      "beskrivelse": "Styrer landet med en blyant, en termos og tre gamle paragrafer fra 1800-tallet."
+    },
+    {
+      "ektenavn": "Leder224",
+      "tullenavn": "Leder224 Oppstyrsson",
+      "beskrivelse": "Kjent for å løse internasjonale konflikter med sudoku og hjemmebakt kringla."
+    },
+    {
+      "ektenavn": "Leder225",
+      "tullenavn": "Leder225 Oppstyrsson",
+      "beskrivelse": "Har ved et uhell signert flere lover med ketchup enn med penn."
+    },
+    {
+      "ektenavn": "Leder226",
+      "tullenavn": "Leder226 Oppstyrsson",
+      "beskrivelse": "Regjerer fra en lenestol i furu og nekter å bruke e-post, kun røykte signaler."
+    },
+    {
+      "ektenavn": "Leder227",
+      "tullenavn": "Leder227 Oppstyrsson",
+      "beskrivelse": "Har sin egen nasjonalsang på munnspill og danser polka før statsbudsjettet legges frem."
+    },
+    {
+      "ektenavn": "Leder228",
+      "tullenavn": "Leder228 Oppstyrsson",
+      "beskrivelse": "Snakker flytende fire språk, inkludert snorking og lattermild grynting."
+    },
+    {
+      "ektenavn": "Leder229",
+      "tullenavn": "Leder229 Oppstyrsson",
+      "beskrivelse": "Går alltid med hatt, selv under videomøter med FN og i svømmehallen."
+    },
+    {
+      "ektenavn": "Leder230",
+      "tullenavn": "Leder230 Oppstyrsson",
+      "beskrivelse": "Er mest kjent for å ha forhandlet fred mens han vant bingo på direkten."
+    },
+    {
+      "ektenavn": "Leder231",
+      "tullenavn": "Leder231 Oppstyrsson",
+      "beskrivelse": "Står opp kl. 04:00 for å snakke til folkets planter via direktesendt radio."
+    },
+    {
+      "ektenavn": "Leder232",
+      "tullenavn": "Leder232 Oppstyrsson",
+      "beskrivelse": "Har et hemmelig våpen: Bestemors pepperkaker og trusler om å synge karaoke på nasjonalt TV."
+    },
+    {
+      "ektenavn": "Leder233",
+      "tullenavn": "Leder233 Oppstyrsson",
+      "beskrivelse": "Insisterer på å bruke rulleskøyter i alle statsbesøk og har egen fanklubb i Antarktis."
+    },
+    {
+      "ektenavn": "Leder234",
+      "tullenavn": "Leder234 Oppstyrsson",
+      "beskrivelse": "Fikk jobben fordi hen var den eneste som møtte opp med matpakke og blyantspisser."
+    },
+    {
+      "ektenavn": "Leder235",
+      "tullenavn": "Leder235 Oppstyrsson",
+      "beskrivelse": "Styrer landet med en blyant, en termos og tre gamle paragrafer fra 1800-tallet."
+    },
+    {
+      "ektenavn": "Leder236",
+      "tullenavn": "Leder236 Oppstyrsson",
+      "beskrivelse": "Kjent for å løse internasjonale konflikter med sudoku og hjemmebakt kringla."
+    },
+    {
+      "ektenavn": "Leder237",
+      "tullenavn": "Leder237 Oppstyrsson",
+      "beskrivelse": "Har ved et uhell signert flere lover med ketchup enn med penn."
+    },
+    {
+      "ektenavn": "Leder238",
+      "tullenavn": "Leder238 Oppstyrsson",
+      "beskrivelse": "Regjerer fra en lenestol i furu og nekter å bruke e-post, kun røykte signaler."
+    },
+    {
+      "ektenavn": "Leder239",
+      "tullenavn": "Leder239 Oppstyrsson",
+      "beskrivelse": "Har sin egen nasjonalsang på munnspill og danser polka før statsbudsjettet legges frem."
+    },
+    {
+      "ektenavn": "Leder240",
+      "tullenavn": "Leder240 Oppstyrsson",
+      "beskrivelse": "Snakker flytende fire språk, inkludert snorking og lattermild grynting."
+    },
+    {
+      "ektenavn": "Leder241",
+      "tullenavn": "Leder241 Oppstyrsson",
+      "beskrivelse": "Går alltid med hatt, selv under videomøter med FN og i svømmehallen."
+    },
+    {
+      "ektenavn": "Leder242",
+      "tullenavn": "Leder242 Oppstyrsson",
+      "beskrivelse": "Er mest kjent for å ha forhandlet fred mens han vant bingo på direkten."
+    },
+    {
+      "ektenavn": "Leder243",
+      "tullenavn": "Leder243 Oppstyrsson",
+      "beskrivelse": "Står opp kl. 04:00 for å snakke til folkets planter via direktesendt radio."
+    },
+    {
+      "ektenavn": "Leder244",
+      "tullenavn": "Leder244 Oppstyrsson",
+      "beskrivelse": "Har et hemmelig våpen: Bestemors pepperkaker og trusler om å synge karaoke på nasjonalt TV."
+    },
+    {
+      "ektenavn": "Leder245",
+      "tullenavn": "Leder245 Oppstyrsson",
+      "beskrivelse": "Insisterer på å bruke rulleskøyter i alle statsbesøk og har egen fanklubb i Antarktis."
+    },
+    {
+      "ektenavn": "Leder246",
+      "tullenavn": "Leder246 Oppstyrsson",
+      "beskrivelse": "Fikk jobben fordi hen var den eneste som møtte opp med matpakke og blyantspisser."
+    },
+    {
+      "ektenavn": "Leder247",
+      "tullenavn": "Leder247 Oppstyrsson",
+      "beskrivelse": "Styrer landet med en blyant, en termos og tre gamle paragrafer fra 1800-tallet."
+    },
+    {
+      "ektenavn": "Leder248",
+      "tullenavn": "Leder248 Oppstyrsson",
+      "beskrivelse": "Kjent for å løse internasjonale konflikter med sudoku og hjemmebakt kringla."
+    },
+    {
+      "ektenavn": "Leder249",
+      "tullenavn": "Leder249 Oppstyrsson",
+      "beskrivelse": "Har ved et uhell signert flere lover med ketchup enn med penn."
+    },
+    {
+      "ektenavn": "Leder250",
+      "tullenavn": "Leder250 Oppstyrsson",
+      "beskrivelse": "Regjerer fra en lenestol i furu og nekter å bruke e-post, kun røykte signaler."
+    },
+    {
+      "ektenavn": "Leder251",
+      "tullenavn": "Leder251 Oppstyrsson",
+      "beskrivelse": "Har sin egen nasjonalsang på munnspill og danser polka før statsbudsjettet legges frem."
+    },
+    {
+      "ektenavn": "Leder252",
+      "tullenavn": "Leder252 Oppstyrsson",
+      "beskrivelse": "Snakker flytende fire språk, inkludert snorking og lattermild grynting."
+    },
+    {
+      "ektenavn": "Leder253",
+      "tullenavn": "Leder253 Oppstyrsson",
+      "beskrivelse": "Går alltid med hatt, selv under videomøter med FN og i svømmehallen."
+    },
+    {
+      "ektenavn": "Leder254",
+      "tullenavn": "Leder254 Oppstyrsson",
+      "beskrivelse": "Er mest kjent for å ha forhandlet fred mens han vant bingo på direkten."
+    },
+    {
+      "ektenavn": "Leder255",
+      "tullenavn": "Leder255 Oppstyrsson",
+      "beskrivelse": "Står opp kl. 04:00 for å snakke til folkets planter via direktesendt radio."
+    },
+    {
+      "ektenavn": "Leder256",
+      "tullenavn": "Leder256 Oppstyrsson",
+      "beskrivelse": "Har et hemmelig våpen: Bestemors pepperkaker og trusler om å synge karaoke på nasjonalt TV."
+    },
+    {
+      "ektenavn": "Leder257",
+      "tullenavn": "Leder257 Oppstyrsson",
+      "beskrivelse": "Insisterer på å bruke rulleskøyter i alle statsbesøk og har egen fanklubb i Antarktis."
+    },
+    {
+      "ektenavn": "Leder258",
+      "tullenavn": "Leder258 Oppstyrsson",
+      "beskrivelse": "Fikk jobben fordi hen var den eneste som møtte opp med matpakke og blyantspisser."
+    },
+    {
+      "ektenavn": "Leder259",
+      "tullenavn": "Leder259 Oppstyrsson",
+      "beskrivelse": "Styrer landet med en blyant, en termos og tre gamle paragrafer fra 1800-tallet."
+    },
+    {
+      "ektenavn": "Leder260",
+      "tullenavn": "Leder260 Oppstyrsson",
+      "beskrivelse": "Kjent for å løse internasjonale konflikter med sudoku og hjemmebakt kringla."
+    },
+    {
+      "ektenavn": "Leder261",
+      "tullenavn": "Leder261 Oppstyrsson",
+      "beskrivelse": "Har ved et uhell signert flere lover med ketchup enn med penn."
+    },
+    {
+      "ektenavn": "Leder262",
+      "tullenavn": "Leder262 Oppstyrsson",
+      "beskrivelse": "Regjerer fra en lenestol i furu og nekter å bruke e-post, kun røykte signaler."
+    },
+    {
+      "ektenavn": "Leder263",
+      "tullenavn": "Leder263 Oppstyrsson",
+      "beskrivelse": "Har sin egen nasjonalsang på munnspill og danser polka før statsbudsjettet legges frem."
+    },
+    {
+      "ektenavn": "Leder264",
+      "tullenavn": "Leder264 Oppstyrsson",
+      "beskrivelse": "Snakker flytende fire språk, inkludert snorking og lattermild grynting."
+    },
+    {
+      "ektenavn": "Leder265",
+      "tullenavn": "Leder265 Oppstyrsson",
+      "beskrivelse": "Går alltid med hatt, selv under videomøter med FN og i svømmehallen."
+    },
+    {
+      "ektenavn": "Leder266",
+      "tullenavn": "Leder266 Oppstyrsson",
+      "beskrivelse": "Er mest kjent for å ha forhandlet fred mens han vant bingo på direkten."
+    },
+    {
+      "ektenavn": "Leder267",
+      "tullenavn": "Leder267 Oppstyrsson",
+      "beskrivelse": "Står opp kl. 04:00 for å snakke til folkets planter via direktesendt radio."
+    },
+    {
+      "ektenavn": "Leder268",
+      "tullenavn": "Leder268 Oppstyrsson",
+      "beskrivelse": "Har et hemmelig våpen: Bestemors pepperkaker og trusler om å synge karaoke på nasjonalt TV."
+    },
+    {
+      "ektenavn": "Leder269",
+      "tullenavn": "Leder269 Oppstyrsson",
+      "beskrivelse": "Insisterer på å bruke rulleskøyter i alle statsbesøk og har egen fanklubb i Antarktis."
+    },
+    {
+      "ektenavn": "Leder270",
+      "tullenavn": "Leder270 Oppstyrsson",
+      "beskrivelse": "Fikk jobben fordi hen var den eneste som møtte opp med matpakke og blyantspisser."
+    },
+    {
+      "ektenavn": "Leder271",
+      "tullenavn": "Leder271 Oppstyrsson",
+      "beskrivelse": "Styrer landet med en blyant, en termos og tre gamle paragrafer fra 1800-tallet."
+    },
+    {
+      "ektenavn": "Leder272",
+      "tullenavn": "Leder272 Oppstyrsson",
+      "beskrivelse": "Kjent for å løse internasjonale konflikter med sudoku og hjemmebakt kringla."
+    },
+    {
+      "ektenavn": "Leder273",
+      "tullenavn": "Leder273 Oppstyrsson",
+      "beskrivelse": "Har ved et uhell signert flere lover med ketchup enn med penn."
+    },
+    {
+      "ektenavn": "Leder274",
+      "tullenavn": "Leder274 Oppstyrsson",
+      "beskrivelse": "Regjerer fra en lenestol i furu og nekter å bruke e-post, kun røykte signaler."
+    },
+    {
+      "ektenavn": "Leder275",
+      "tullenavn": "Leder275 Oppstyrsson",
+      "beskrivelse": "Har sin egen nasjonalsang på munnspill og danser polka før statsbudsjettet legges frem."
+    },
+    {
+      "ektenavn": "Leder276",
+      "tullenavn": "Leder276 Oppstyrsson",
+      "beskrivelse": "Snakker flytende fire språk, inkludert snorking og lattermild grynting."
+    },
+    {
+      "ektenavn": "Leder277",
+      "tullenavn": "Leder277 Oppstyrsson",
+      "beskrivelse": "Går alltid med hatt, selv under videomøter med FN og i svømmehallen."
+    },
+    {
+      "ektenavn": "Leder278",
+      "tullenavn": "Leder278 Oppstyrsson",
+      "beskrivelse": "Er mest kjent for å ha forhandlet fred mens han vant bingo på direkten."
+    },
+    {
+      "ektenavn": "Leder279",
+      "tullenavn": "Leder279 Oppstyrsson",
+      "beskrivelse": "Står opp kl. 04:00 for å snakke til folkets planter via direktesendt radio."
+    },
+    {
+      "ektenavn": "Leder280",
+      "tullenavn": "Leder280 Oppstyrsson",
+      "beskrivelse": "Har et hemmelig våpen: Bestemors pepperkaker og trusler om å synge karaoke på nasjonalt TV."
+    },
+    {
+      "ektenavn": "Leder281",
+      "tullenavn": "Leder281 Oppstyrsson",
+      "beskrivelse": "Insisterer på å bruke rulleskøyter i alle statsbesøk og har egen fanklubb i Antarktis."
+    },
+    {
+      "ektenavn": "Leder282",
+      "tullenavn": "Leder282 Oppstyrsson",
+      "beskrivelse": "Fikk jobben fordi hen var den eneste som møtte opp med matpakke og blyantspisser."
+    },
+    {
+      "ektenavn": "Leder283",
+      "tullenavn": "Leder283 Oppstyrsson",
+      "beskrivelse": "Styrer landet med en blyant, en termos og tre gamle paragrafer fra 1800-tallet."
+    },
+    {
+      "ektenavn": "Leder284",
+      "tullenavn": "Leder284 Oppstyrsson",
+      "beskrivelse": "Kjent for å løse internasjonale konflikter med sudoku og hjemmebakt kringla."
+    },
+    {
+      "ektenavn": "Leder285",
+      "tullenavn": "Leder285 Oppstyrsson",
+      "beskrivelse": "Har ved et uhell signert flere lover med ketchup enn med penn."
+    },
+    {
+      "ektenavn": "Leder286",
+      "tullenavn": "Leder286 Oppstyrsson",
+      "beskrivelse": "Regjerer fra en lenestol i furu og nekter å bruke e-post, kun røykte signaler."
+    },
+    {
+      "ektenavn": "Leder287",
+      "tullenavn": "Leder287 Oppstyrsson",
+      "beskrivelse": "Har sin egen nasjonalsang på munnspill og danser polka før statsbudsjettet legges frem."
+    },
+    {
+      "ektenavn": "Leder288",
+      "tullenavn": "Leder288 Oppstyrsson",
+      "beskrivelse": "Snakker flytende fire språk, inkludert snorking og lattermild grynting."
+    },
+    {
+      "ektenavn": "Leder289",
+      "tullenavn": "Leder289 Oppstyrsson",
+      "beskrivelse": "Går alltid med hatt, selv under videomøter med FN og i svømmehallen."
+    },
+    {
+      "ektenavn": "Leder290",
+      "tullenavn": "Leder290 Oppstyrsson",
+      "beskrivelse": "Er mest kjent for å ha forhandlet fred mens han vant bingo på direkten."
+    },
+    {
+      "ektenavn": "Leder291",
+      "tullenavn": "Leder291 Oppstyrsson",
+      "beskrivelse": "Står opp kl. 04:00 for å snakke til folkets planter via direktesendt radio."
+    },
+    {
+      "ektenavn": "Leder292",
+      "tullenavn": "Leder292 Oppstyrsson",
+      "beskrivelse": "Har et hemmelig våpen: Bestemors pepperkaker og trusler om å synge karaoke på nasjonalt TV."
+    },
+    {
+      "ektenavn": "Leder293",
+      "tullenavn": "Leder293 Oppstyrsson",
+      "beskrivelse": "Insisterer på å bruke rulleskøyter i alle statsbesøk og har egen fanklubb i Antarktis."
+    },
+    {
+      "ektenavn": "Leder294",
+      "tullenavn": "Leder294 Oppstyrsson",
+      "beskrivelse": "Fikk jobben fordi hen var den eneste som møtte opp med matpakke og blyantspisser."
+    },
+    {
+      "ektenavn": "Leder295",
+      "tullenavn": "Leder295 Oppstyrsson",
+      "beskrivelse": "Styrer landet med en blyant, en termos og tre gamle paragrafer fra 1800-tallet."
+    },
+    {
+      "ektenavn": "Leder296",
+      "tullenavn": "Leder296 Oppstyrsson",
+      "beskrivelse": "Kjent for å løse internasjonale konflikter med sudoku og hjemmebakt kringla."
+    },
+    {
+      "ektenavn": "Leder297",
+      "tullenavn": "Leder297 Oppstyrsson",
+      "beskrivelse": "Har ved et uhell signert flere lover med ketchup enn med penn."
+    },
+    {
+      "ektenavn": "Leder298",
+      "tullenavn": "Leder298 Oppstyrsson",
+      "beskrivelse": "Regjerer fra en lenestol i furu og nekter å bruke e-post, kun røykte signaler."
+    },
+    {
+      "ektenavn": "Leder299",
+      "tullenavn": "Leder299 Oppstyrsson",
+      "beskrivelse": "Har sin egen nasjonalsang på munnspill og danser polka før statsbudsjettet legges frem."
+    },
+    {
+      "ektenavn": "Leder300",
+      "tullenavn": "Leder300 Oppstyrsson",
+      "beskrivelse": "Snakker flytende fire språk, inkludert snorking og lattermild grynting."
+    },
+    {
+      "ektenavn": "Leder301",
+      "tullenavn": "Leder301 Oppstyrsson",
+      "beskrivelse": "Går alltid med hatt, selv under videomøter med FN og i svømmehallen."
+    },
+    {
+      "ektenavn": "Leder302",
+      "tullenavn": "Leder302 Oppstyrsson",
+      "beskrivelse": "Er mest kjent for å ha forhandlet fred mens han vant bingo på direkten."
+    },
+    {
+      "ektenavn": "Leder303",
+      "tullenavn": "Leder303 Oppstyrsson",
+      "beskrivelse": "Står opp kl. 04:00 for å snakke til folkets planter via direktesendt radio."
+    },
+    {
+      "ektenavn": "Leder304",
+      "tullenavn": "Leder304 Oppstyrsson",
+      "beskrivelse": "Har et hemmelig våpen: Bestemors pepperkaker og trusler om å synge karaoke på nasjonalt TV."
+    },
+    {
+      "ektenavn": "Leder305",
+      "tullenavn": "Leder305 Oppstyrsson",
+      "beskrivelse": "Insisterer på å bruke rulleskøyter i alle statsbesøk og har egen fanklubb i Antarktis."
+    },
+    {
+      "ektenavn": "Leder306",
+      "tullenavn": "Leder306 Oppstyrsson",
+      "beskrivelse": "Fikk jobben fordi hen var den eneste som møtte opp med matpakke og blyantspisser."
+    },
+    {
+      "ektenavn": "Leder307",
+      "tullenavn": "Leder307 Oppstyrsson",
+      "beskrivelse": "Styrer landet med en blyant, en termos og tre gamle paragrafer fra 1800-tallet."
+    },
+    {
+      "ektenavn": "Leder308",
+      "tullenavn": "Leder308 Oppstyrsson",
+      "beskrivelse": "Kjent for å løse internasjonale konflikter med sudoku og hjemmebakt kringla."
+    },
+    {
+      "ektenavn": "Leder309",
+      "tullenavn": "Leder309 Oppstyrsson",
+      "beskrivelse": "Har ved et uhell signert flere lover med ketchup enn med penn."
+    },
+    {
+      "ektenavn": "Leder310",
+      "tullenavn": "Leder310 Oppstyrsson",
+      "beskrivelse": "Regjerer fra en lenestol i furu og nekter å bruke e-post, kun røykte signaler."
+    },
+    {
+      "ektenavn": "Leder311",
+      "tullenavn": "Leder311 Oppstyrsson",
+      "beskrivelse": "Har sin egen nasjonalsang på munnspill og danser polka før statsbudsjettet legges frem."
+    },
+    {
+      "ektenavn": "Leder312",
+      "tullenavn": "Leder312 Oppstyrsson",
+      "beskrivelse": "Snakker flytende fire språk, inkludert snorking og lattermild grynting."
+    },
+    {
+      "ektenavn": "Leder313",
+      "tullenavn": "Leder313 Oppstyrsson",
+      "beskrivelse": "Går alltid med hatt, selv under videomøter med FN og i svømmehallen."
+    },
+    {
+      "ektenavn": "Leder314",
+      "tullenavn": "Leder314 Oppstyrsson",
+      "beskrivelse": "Er mest kjent for å ha forhandlet fred mens han vant bingo på direkten."
+    },
+    {
+      "ektenavn": "Leder315",
+      "tullenavn": "Leder315 Oppstyrsson",
+      "beskrivelse": "Står opp kl. 04:00 for å snakke til folkets planter via direktesendt radio."
+    },
+    {
+      "ektenavn": "Leder316",
+      "tullenavn": "Leder316 Oppstyrsson",
+      "beskrivelse": "Har et hemmelig våpen: Bestemors pepperkaker og trusler om å synge karaoke på nasjonalt TV."
+    },
+    {
+      "ektenavn": "Leder317",
+      "tullenavn": "Leder317 Oppstyrsson",
+      "beskrivelse": "Insisterer på å bruke rulleskøyter i alle statsbesøk og har egen fanklubb i Antarktis."
+    },
+    {
+      "ektenavn": "Leder318",
+      "tullenavn": "Leder318 Oppstyrsson",
+      "beskrivelse": "Fikk jobben fordi hen var den eneste som møtte opp med matpakke og blyantspisser."
+    },
+    {
+      "ektenavn": "Leder319",
+      "tullenavn": "Leder319 Oppstyrsson",
+      "beskrivelse": "Styrer landet med en blyant, en termos og tre gamle paragrafer fra 1800-tallet."
+    },
+    {
+      "ektenavn": "Leder320",
+      "tullenavn": "Leder320 Oppstyrsson",
+      "beskrivelse": "Kjent for å løse internasjonale konflikter med sudoku og hjemmebakt kringla."
+    },
+    {
+      "ektenavn": "Leder321",
+      "tullenavn": "Leder321 Oppstyrsson",
+      "beskrivelse": "Har ved et uhell signert flere lover med ketchup enn med penn."
+    },
+    {
+      "ektenavn": "Leder322",
+      "tullenavn": "Leder322 Oppstyrsson",
+      "beskrivelse": "Regjerer fra en lenestol i furu og nekter å bruke e-post, kun røykte signaler."
+    },
+    {
+      "ektenavn": "Leder323",
+      "tullenavn": "Leder323 Oppstyrsson",
+      "beskrivelse": "Har sin egen nasjonalsang på munnspill og danser polka før statsbudsjettet legges frem."
+    },
+    {
+      "ektenavn": "Leder324",
+      "tullenavn": "Leder324 Oppstyrsson",
+      "beskrivelse": "Snakker flytende fire språk, inkludert snorking og lattermild grynting."
+    },
+    {
+      "ektenavn": "Leder325",
+      "tullenavn": "Leder325 Oppstyrsson",
+      "beskrivelse": "Går alltid med hatt, selv under videomøter med FN og i svømmehallen."
+    },
+    {
+      "ektenavn": "Leder326",
+      "tullenavn": "Leder326 Oppstyrsson",
+      "beskrivelse": "Er mest kjent for å ha forhandlet fred mens han vant bingo på direkten."
+    },
+    {
+      "ektenavn": "Leder327",
+      "tullenavn": "Leder327 Oppstyrsson",
+      "beskrivelse": "Står opp kl. 04:00 for å snakke til folkets planter via direktesendt radio."
+    },
+    {
+      "ektenavn": "Leder328",
+      "tullenavn": "Leder328 Oppstyrsson",
+      "beskrivelse": "Har et hemmelig våpen: Bestemors pepperkaker og trusler om å synge karaoke på nasjonalt TV."
+    },
+    {
+      "ektenavn": "Leder329",
+      "tullenavn": "Leder329 Oppstyrsson",
+      "beskrivelse": "Insisterer på å bruke rulleskøyter i alle statsbesøk og har egen fanklubb i Antarktis."
+    },
+    {
+      "ektenavn": "Leder330",
+      "tullenavn": "Leder330 Oppstyrsson",
+      "beskrivelse": "Fikk jobben fordi hen var den eneste som møtte opp med matpakke og blyantspisser."
+    },
+    {
+      "ektenavn": "Leder331",
+      "tullenavn": "Leder331 Oppstyrsson",
+      "beskrivelse": "Styrer landet med en blyant, en termos og tre gamle paragrafer fra 1800-tallet."
+    },
+    {
+      "ektenavn": "Leder332",
+      "tullenavn": "Leder332 Oppstyrsson",
+      "beskrivelse": "Kjent for å løse internasjonale konflikter med sudoku og hjemmebakt kringla."
+    },
+    {
+      "ektenavn": "Leder333",
+      "tullenavn": "Leder333 Oppstyrsson",
+      "beskrivelse": "Har ved et uhell signert flere lover med ketchup enn med penn."
+    },
+    {
+      "ektenavn": "Leder334",
+      "tullenavn": "Leder334 Oppstyrsson",
+      "beskrivelse": "Regjerer fra en lenestol i furu og nekter å bruke e-post, kun røykte signaler."
+    },
+    {
+      "ektenavn": "Leder335",
+      "tullenavn": "Leder335 Oppstyrsson",
+      "beskrivelse": "Har sin egen nasjonalsang på munnspill og danser polka før statsbudsjettet legges frem."
+    },
+    {
+      "ektenavn": "Leder336",
+      "tullenavn": "Leder336 Oppstyrsson",
+      "beskrivelse": "Snakker flytende fire språk, inkludert snorking og lattermild grynting."
+    },
+    {
+      "ektenavn": "Leder337",
+      "tullenavn": "Leder337 Oppstyrsson",
+      "beskrivelse": "Går alltid med hatt, selv under videomøter med FN og i svømmehallen."
+    },
+    {
+      "ektenavn": "Leder338",
+      "tullenavn": "Leder338 Oppstyrsson",
+      "beskrivelse": "Er mest kjent for å ha forhandlet fred mens han vant bingo på direkten."
+    },
+    {
+      "ektenavn": "Leder339",
+      "tullenavn": "Leder339 Oppstyrsson",
+      "beskrivelse": "Står opp kl. 04:00 for å snakke til folkets planter via direktesendt radio."
+    },
+    {
+      "ektenavn": "Leder340",
+      "tullenavn": "Leder340 Oppstyrsson",
+      "beskrivelse": "Har et hemmelig våpen: Bestemors pepperkaker og trusler om å synge karaoke på nasjonalt TV."
+    },
+    {
+      "ektenavn": "Leder341",
+      "tullenavn": "Leder341 Oppstyrsson",
+      "beskrivelse": "Insisterer på å bruke rulleskøyter i alle statsbesøk og har egen fanklubb i Antarktis."
+    },
+    {
+      "ektenavn": "Leder342",
+      "tullenavn": "Leder342 Oppstyrsson",
+      "beskrivelse": "Fikk jobben fordi hen var den eneste som møtte opp med matpakke og blyantspisser."
+    },
+    {
+      "ektenavn": "Leder343",
+      "tullenavn": "Leder343 Oppstyrsson",
+      "beskrivelse": "Styrer landet med en blyant, en termos og tre gamle paragrafer fra 1800-tallet."
+    },
+    {
+      "ektenavn": "Leder344",
+      "tullenavn": "Leder344 Oppstyrsson",
+      "beskrivelse": "Kjent for å løse internasjonale konflikter med sudoku og hjemmebakt kringla."
+    },
+    {
+      "ektenavn": "Leder345",
+      "tullenavn": "Leder345 Oppstyrsson",
+      "beskrivelse": "Har ved et uhell signert flere lover med ketchup enn med penn."
+    },
+    {
+      "ektenavn": "Leder346",
+      "tullenavn": "Leder346 Oppstyrsson",
+      "beskrivelse": "Regjerer fra en lenestol i furu og nekter å bruke e-post, kun røykte signaler."
+    },
+    {
+      "ektenavn": "Leder347",
+      "tullenavn": "Leder347 Oppstyrsson",
+      "beskrivelse": "Har sin egen nasjonalsang på munnspill og danser polka før statsbudsjettet legges frem."
+    },
+    {
+      "ektenavn": "Leder348",
+      "tullenavn": "Leder348 Oppstyrsson",
+      "beskrivelse": "Snakker flytende fire språk, inkludert snorking og lattermild grynting."
+    },
+    {
+      "ektenavn": "Leder349",
+      "tullenavn": "Leder349 Oppstyrsson",
+      "beskrivelse": "Går alltid med hatt, selv under videomøter med FN og i svømmehallen."
+    },
+    {
+      "ektenavn": "Leder350",
+      "tullenavn": "Leder350 Oppstyrsson",
+      "beskrivelse": "Er mest kjent for å ha forhandlet fred mens han vant bingo på direkten."
+    },
+    {
+      "ektenavn": "Leder351",
+      "tullenavn": "Leder351 Oppstyrsson",
+      "beskrivelse": "Står opp kl. 04:00 for å snakke til folkets planter via direktesendt radio."
+    },
+    {
+      "ektenavn": "Leder352",
+      "tullenavn": "Leder352 Oppstyrsson",
+      "beskrivelse": "Har et hemmelig våpen: Bestemors pepperkaker og trusler om å synge karaoke på nasjonalt TV."
+    },
+    {
+      "ektenavn": "Leder353",
+      "tullenavn": "Leder353 Oppstyrsson",
+      "beskrivelse": "Insisterer på å bruke rulleskøyter i alle statsbesøk og har egen fanklubb i Antarktis."
+    },
+    {
+      "ektenavn": "Leder354",
+      "tullenavn": "Leder354 Oppstyrsson",
+      "beskrivelse": "Fikk jobben fordi hen var den eneste som møtte opp med matpakke og blyantspisser."
+    },
+    {
+      "ektenavn": "Leder355",
+      "tullenavn": "Leder355 Oppstyrsson",
+      "beskrivelse": "Styrer landet med en blyant, en termos og tre gamle paragrafer fra 1800-tallet."
+    },
+    {
+      "ektenavn": "Leder356",
+      "tullenavn": "Leder356 Oppstyrsson",
+      "beskrivelse": "Kjent for å løse internasjonale konflikter med sudoku og hjemmebakt kringla."
+    },
+    {
+      "ektenavn": "Leder357",
+      "tullenavn": "Leder357 Oppstyrsson",
+      "beskrivelse": "Har ved et uhell signert flere lover med ketchup enn med penn."
+    },
+    {
+      "ektenavn": "Leder358",
+      "tullenavn": "Leder358 Oppstyrsson",
+      "beskrivelse": "Regjerer fra en lenestol i furu og nekter å bruke e-post, kun røykte signaler."
+    },
+    {
+      "ektenavn": "Leder359",
+      "tullenavn": "Leder359 Oppstyrsson",
+      "beskrivelse": "Har sin egen nasjonalsang på munnspill og danser polka før statsbudsjettet legges frem."
+    },
+    {
+      "ektenavn": "Leder360",
+      "tullenavn": "Leder360 Oppstyrsson",
+      "beskrivelse": "Snakker flytende fire språk, inkludert snorking og lattermild grynting."
+    },
+    {
+      "ektenavn": "Leder361",
+      "tullenavn": "Leder361 Oppstyrsson",
+      "beskrivelse": "Går alltid med hatt, selv under videomøter med FN og i svømmehallen."
+    },
+    {
+      "ektenavn": "Leder362",
+      "tullenavn": "Leder362 Oppstyrsson",
+      "beskrivelse": "Er mest kjent for å ha forhandlet fred mens han vant bingo på direkten."
+    },
+    {
+      "ektenavn": "Leder363",
+      "tullenavn": "Leder363 Oppstyrsson",
+      "beskrivelse": "Står opp kl. 04:00 for å snakke til folkets planter via direktesendt radio."
+    },
+    {
+      "ektenavn": "Leder364",
+      "tullenavn": "Leder364 Oppstyrsson",
+      "beskrivelse": "Har et hemmelig våpen: Bestemors pepperkaker og trusler om å synge karaoke på nasjonalt TV."
+    },
+    {
+      "ektenavn": "Leder365",
+      "tullenavn": "Leder365 Oppstyrsson",
+      "beskrivelse": "Insisterer på å bruke rulleskøyter i alle statsbesøk og har egen fanklubb i Antarktis."
+    },
+    {
+      "ektenavn": "Leder366",
+      "tullenavn": "Leder366 Oppstyrsson",
+      "beskrivelse": "Fikk jobben fordi hen var den eneste som møtte opp med matpakke og blyantspisser."
+    },
+    {
+      "ektenavn": "Leder367",
+      "tullenavn": "Leder367 Oppstyrsson",
+      "beskrivelse": "Styrer landet med en blyant, en termos og tre gamle paragrafer fra 1800-tallet."
+    },
+    {
+      "ektenavn": "Leder368",
+      "tullenavn": "Leder368 Oppstyrsson",
+      "beskrivelse": "Kjent for å løse internasjonale konflikter med sudoku og hjemmebakt kringla."
+    },
+    {
+      "ektenavn": "Leder369",
+      "tullenavn": "Leder369 Oppstyrsson",
+      "beskrivelse": "Har ved et uhell signert flere lover med ketchup enn med penn."
+    },
+    {
+      "ektenavn": "Leder370",
+      "tullenavn": "Leder370 Oppstyrsson",
+      "beskrivelse": "Regjerer fra en lenestol i furu og nekter å bruke e-post, kun røykte signaler."
+    },
+    {
+      "ektenavn": "Leder371",
+      "tullenavn": "Leder371 Oppstyrsson",
+      "beskrivelse": "Har sin egen nasjonalsang på munnspill og danser polka før statsbudsjettet legges frem."
+    },
+    {
+      "ektenavn": "Leder372",
+      "tullenavn": "Leder372 Oppstyrsson",
+      "beskrivelse": "Snakker flytende fire språk, inkludert snorking og lattermild grynting."
+    },
+    {
+      "ektenavn": "Leder373",
+      "tullenavn": "Leder373 Oppstyrsson",
+      "beskrivelse": "Går alltid med hatt, selv under videomøter med FN og i svømmehallen."
+    },
+    {
+      "ektenavn": "Leder374",
+      "tullenavn": "Leder374 Oppstyrsson",
+      "beskrivelse": "Er mest kjent for å ha forhandlet fred mens han vant bingo på direkten."
+    },
+    {
+      "ektenavn": "Leder375",
+      "tullenavn": "Leder375 Oppstyrsson",
+      "beskrivelse": "Står opp kl. 04:00 for å snakke til folkets planter via direktesendt radio."
+    },
+    {
+      "ektenavn": "Leder376",
+      "tullenavn": "Leder376 Oppstyrsson",
+      "beskrivelse": "Har et hemmelig våpen: Bestemors pepperkaker og trusler om å synge karaoke på nasjonalt TV."
+    },
+    {
+      "ektenavn": "Leder377",
+      "tullenavn": "Leder377 Oppstyrsson",
+      "beskrivelse": "Insisterer på å bruke rulleskøyter i alle statsbesøk og har egen fanklubb i Antarktis."
+    },
+    {
+      "ektenavn": "Leder378",
+      "tullenavn": "Leder378 Oppstyrsson",
+      "beskrivelse": "Fikk jobben fordi hen var den eneste som møtte opp med matpakke og blyantspisser."
+    },
+    {
+      "ektenavn": "Leder379",
+      "tullenavn": "Leder379 Oppstyrsson",
+      "beskrivelse": "Styrer landet med en blyant, en termos og tre gamle paragrafer fra 1800-tallet."
+    },
+    {
+      "ektenavn": "Leder380",
+      "tullenavn": "Leder380 Oppstyrsson",
+      "beskrivelse": "Kjent for å løse internasjonale konflikter med sudoku og hjemmebakt kringla."
+    },
+    {
+      "ektenavn": "Leder381",
+      "tullenavn": "Leder381 Oppstyrsson",
+      "beskrivelse": "Har ved et uhell signert flere lover med ketchup enn med penn."
+    },
+    {
+      "ektenavn": "Leder382",
+      "tullenavn": "Leder382 Oppstyrsson",
+      "beskrivelse": "Regjerer fra en lenestol i furu og nekter å bruke e-post, kun røykte signaler."
+    },
+    {
+      "ektenavn": "Leder383",
+      "tullenavn": "Leder383 Oppstyrsson",
+      "beskrivelse": "Har sin egen nasjonalsang på munnspill og danser polka før statsbudsjettet legges frem."
+    },
+    {
+      "ektenavn": "Leder384",
+      "tullenavn": "Leder384 Oppstyrsson",
+      "beskrivelse": "Snakker flytende fire språk, inkludert snorking og lattermild grynting."
+    },
+    {
+      "ektenavn": "Leder385",
+      "tullenavn": "Leder385 Oppstyrsson",
+      "beskrivelse": "Går alltid med hatt, selv under videomøter med FN og i svømmehallen."
+    },
+    {
+      "ektenavn": "Leder386",
+      "tullenavn": "Leder386 Oppstyrsson",
+      "beskrivelse": "Er mest kjent for å ha forhandlet fred mens han vant bingo på direkten."
+    },
+    {
+      "ektenavn": "Leder387",
+      "tullenavn": "Leder387 Oppstyrsson",
+      "beskrivelse": "Står opp kl. 04:00 for å snakke til folkets planter via direktesendt radio."
+    },
+    {
+      "ektenavn": "Leder388",
+      "tullenavn": "Leder388 Oppstyrsson",
+      "beskrivelse": "Har et hemmelig våpen: Bestemors pepperkaker og trusler om å synge karaoke på nasjonalt TV."
+    },
+    {
+      "ektenavn": "Leder389",
+      "tullenavn": "Leder389 Oppstyrsson",
+      "beskrivelse": "Insisterer på å bruke rulleskøyter i alle statsbesøk og har egen fanklubb i Antarktis."
+    },
+    {
+      "ektenavn": "Leder390",
+      "tullenavn": "Leder390 Oppstyrsson",
+      "beskrivelse": "Fikk jobben fordi hen var den eneste som møtte opp med matpakke og blyantspisser."
+    },
+    {
+      "ektenavn": "Leder391",
+      "tullenavn": "Leder391 Oppstyrsson",
+      "beskrivelse": "Styrer landet med en blyant, en termos og tre gamle paragrafer fra 1800-tallet."
+    },
+    {
+      "ektenavn": "Leder392",
+      "tullenavn": "Leder392 Oppstyrsson",
+      "beskrivelse": "Kjent for å løse internasjonale konflikter med sudoku og hjemmebakt kringla."
+    },
+    {
+      "ektenavn": "Leder393",
+      "tullenavn": "Leder393 Oppstyrsson",
+      "beskrivelse": "Har ved et uhell signert flere lover med ketchup enn med penn."
+    },
+    {
+      "ektenavn": "Leder394",
+      "tullenavn": "Leder394 Oppstyrsson",
+      "beskrivelse": "Regjerer fra en lenestol i furu og nekter å bruke e-post, kun røykte signaler."
+    }
+  ]
+}
